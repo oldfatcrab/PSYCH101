@@ -43,7 +43,9 @@ Cues:
 ----------
 
 # <a name="1"></a>Lecture 01: Introduction, History, and Research Methods
+
 ## <a name="1a"></a>What is Psychology?
+
 - 5 core courses of psychology (that the structure of this course):
     - Behavioral neuroscience
     - Developmental psychology
@@ -66,7 +68,9 @@ Cues:
         - They don't usually go together
 
 ## <a name="1b"></a>History of Psychology
+
 ### <a name="1b1"></a>The Three Beginnings of Psychology
+
 - First psychologist: Freud
     - the psychiatric tradition in psychology
     - started psychoanalysis
@@ -96,6 +100,7 @@ Cues:
         - Gestalt psychologists in Europe
 
 ### <a name="1b2"></a>The Psychiatric Tradition
+
 - Major Theorists of tradition
     - Freud
         - tradition is dominated by Freud
@@ -133,6 +138,7 @@ Cues:
         - tells you more about what is hidden beneath the psych, what is really going on
 
 ### <a name="1b3"></a>The Testing Tradition
+
 - The major Theorists of the Testing Tradition
     - Charles Darwin
     - Sir Francis Galton (Darwin's cousin)
@@ -168,6 +174,7 @@ Cues:
        - almost all the research is done with questionnairs and paper and pencil tests
 
 ### <a name="1b4"></a>The Academic Tradition
+
 - This is like 75-80% of the course
 - The major theorists of the Academic Tradition
     - Wilhelm Wundt
@@ -240,7 +247,9 @@ Cues:
         - cognitive revolution changed the face of psychology
 
 ## <a name="1c"></a>Research Methodology
+
 ### <a name="1c1"></a>Basic Philosophy of Science
+
 - there are actually some big questions behind research methodology
 - focus on the Academic Tradition
 - keep in mind that the other traditions may not feel the same way
@@ -256,6 +265,7 @@ Cues:
     - what is accepted is shaped by political forces and social influences
 
 ### <a name="1c2"></a>Ways of Doing Research
+
 - Tension between **Discovery** and **Explanation**
     - When something is discovered and is brand new, does it really mean anything?
     - some sciences are mostly about explanation; how things work, how things unfold
@@ -301,71 +311,51 @@ Cues:
         - causation establishes which one it is, which pattern is right
 
 ### <a name="1c3"></a>Research Methods - Surveys & Establishing Representatives
-Representative group of people
-• you want the people filling out the survey to correspond
-to the larger group that you want to generalize, to
-represent
-Random Sampling
-have a large group of people and take a small
-subset to do the survey on
-Need to ask unbiased questions
-• Anchoring Effects
-Framing Effects
-these are ways of asking questions in which the first
-part of the question, ends up influencing how the
-question will be answered
-Need to ask unbiased questions
-Anchoring Effects
-give people something that you know is wrong, but it
-still influences the way they interpret the question,
-and then try to explain it
-Is the Mississippi river longer or shorter than 500
-miles? How long is it?
-• will actually give a short estimate because they are
-still influenced by the 500, even though everybody
-knows it's wrong
-get 'anchored' by the other idea
-don't want to have anchoring or framing effects
-because you will not get an accurate representation
-of the population
-surveys do a good job of establishing correlation
-among variables
+
+- Representative group of people
+    - you want the people filling out the survey to correspond to the larger group that you want to generalize, to represent, so we do **Random Sampling** (different from [Random Assignment]((#1c4RandomAssignment))):
+        - have a large group of people and take a small subset to do the survey on
+- Need to ask unbiased questions
+    - Anchoring Effects
+        - give people something that you know is wrong, but it still influences the way they interpret the question, and then try to explain it
+        - Is the Mississippi river longer or shorter than 500 miles? How long is it?
+        - will actually give a short estimate because they are still influenced by the 500, even though everybody knows it's wrong
+        - get 'anchored' by the other idea
+    - Framing Effects
+    - these are ways of asking questions in which the first part of the question, ends up influencing how the question will be answered
+- don't want to have anchoring or framing effects because you will not get an accurate representation of the population
+- surveys do a good job of establishing correlation among variables
+
 ### <a name="1c4"></a>Correlation Is Not Causation: How Do You Establish Causation?
-Correlation
-• when one variable changes, the other variable changes as well
-Time Order
-• need to know which comes first
-• Did the children watch the violent television and
-then become aggressive later on, or were they
-aggressive before viewing violence on television?
-this is why many like to do longitudinal research
-Elimination of all other possible causes
-• Examples
-Were the parents more aggressive?
-• Did they come from poor families?
-Were the children who were more aggressive
-likely to be hyperactive?
-Experiments do this through random assignment
-randomly assign people to various conditions
-take a small group in an experiment, and randomly
-have one half do one assignment, and the other
-half do another
-How experiments try to establish causation
-• Independent variable
-what we think is going to be the cause
-• Experimental group - watches television
-Control group - doesn't watch television
-Dependent variable
-behaviour that you are concerned with in the
-end; the effect
-• have children play together to see if they will
-fight
-• we want the dependent variable to be:
-valid - measures what is is supposed to measure
-reliable - get the same outcome every time
-How experiments try to establish causation
-• time order is built in
-independent variable leads to the dependent
-variable
-eliminating other causes
-randomly assigned
+
+- Correlation
+    - when one variable changes, the other variable changes as well
+- Time Order
+    - need to know which comes first
+    - Did the children watch the violent television and then become aggressive later on, or were they aggressive before viewing violence on television?
+    - this is why many like to do longitudinal research
+- Elimination of all other possible causes
+    - Examples
+        - Were the parents more aggressive?
+        - Did they come from poor families?
+        - Were the children who were more aggressive likely to be hyperactive?
+    - Experiments do this through <a name="1c4RandomAssignment"></a>**random assignment**
+        - randomly assign people to various conditions
+        - take a small group in an experiment, and randomly have one half do one assignment, and the other half do another
+    - Independent variable
+        - what we think is going to be the cause
+        - Experimental group - watches television
+            - Control group - doesn't watch television
+    - Dependent variable
+        - behaviour that you are concerned with in the end; the effect
+        - have children play together to see if they will fight
+        - we want the dependent variable to be:
+            - **valid** - measures what is is supposed to measure
+            - **reliable** - get the same outcome every time
+            - example:
+                - reliable, but not valid: ![reliable](imgs/1c3_reliable.jpg)
+                - valid, but not reliable: ![valid](imgs/1c3_valid.jpg)
+- How experiments try to establish causation
+    - time order is built in independent variable leads to the dependent variable
+    - eliminating other causes
+    - randomly assigned
