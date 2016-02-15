@@ -417,7 +417,7 @@ Cues:
 - How impulses travel down the Neuron: ![travel](imgs/2b1_travel.jpg)
     - movement of ions in and out of the cell membrane is what creates the electricity and causes it to flow down the neuron (toward axon terminals)
 - Synapse: ![synapse](imgs/2b1_synapse.jpg)
-    - to simply the process:
+    - to simplify the process:
         - the action potential breaks down the vesicle containing neurotransmitters in axon terminal
         - then the neurotransmitters go through the synaptic gap
         - and it changes the ions in the next neuron
@@ -459,7 +459,7 @@ Cues:
 
 ### <a name="2b3"></a>How Drugs Affect Neurotransmitters
 
-- Here is a picture showing the synapse: ![neurotransmitters](2b3_neurotransmitters.jpg)
+- Here is a picture showing the synapse: ![neurotransmitters](imgs/2b3_neurotransmitters.jpg)
     - at the synapse gap, neurotransmitters come across have complex shapes
     - on the other side of dendrites, receptor sites with complex shape that neurotransmitters fitting in
     - when it fits in, it changes the receiving cell membrane, and starts/stops the impulse depends on the type of neurotransmitter
