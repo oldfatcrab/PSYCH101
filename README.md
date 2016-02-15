@@ -43,6 +43,13 @@ Cues:
     - [Putting It All Together - The Case of Hunger](#2e)
     - [Overarching Principles](#2f)
 - <a name="module3"></a>[Lecture 03: Behavioural Neuroscience II](#3)
+    - [The Senses](#3a)
+        - [Vision](#3a1)
+        - [Hearing](#3a2)
+        - [The Other Senses: Taste, Smell, Touch, Pain, and Balance](#3a3)
+    - [Focus on University of Waterloo Research – Synaesthesia](#3b)
+    - [Coordination of Language in the Brain](#3c)
+    - [Brain Coordination While We Sleep](#3d)
 - <a name="module4"></a>[Lecture 04: Developmental Psychology I](#4)
 - <a name="module5"></a>[Lecture 05: Developmental Psychology II](#5)
 - <a name="module6"></a>[Lecture 06: Cognitive Psychology I](#6)
@@ -379,91 +386,86 @@ Cues:
 
 ## <a name="2a"></a>The Nervous System and the Brain - The Big Picture
 
-Neuron
-the basic cells that make up the' nervous system
-Peripheral Nervous System
-all the other nerves that run through the body which are not the brain or
-the spinal cord
-The Central Nervous System and the Brain
-it is probably one of the frontiers that we understand the least of in psychology
-The Endocrine System
-hormones
-the different chemicals that float through he blood and also influence us
-Putting it all together - The Example of Hunger
-not completely separate systems, all work together and influence eachother
-we can look at hunger as an "ample of höw all these systems work together
+- Neuron
+    - the basic cells that make up the' nervous system
+- Peripheral Nervous System
+    - all the other nerves that run through the body which are not the brain or the spinal cord
+- The Central Nervous System and the Brain
+    - it is probably one of the frontiers that we understand the least of in psychology
+- The Endocrine System
+    - hormones
+    - the different chemicals that float through he blood and also influence us
+- Putting it all together - The Example of Hunger
+    - not completely separate systems, all work together and influence eachother
+    - we can look at hunger as an "ample of höw all these systems work together
 
 ## <a name="2b"></a>Neuron
 
 ### <a name="2b1"></a>The Neuron
 
-Dendrites
-are found at the back end of the
-neuron
-Myelin Sheath
-globular part of the neuron which are not found
-In the neurons of the brain
-• lets the electric current bounce from node to
-node, so that the impulse can travel quickly
-• neurons which are part of the Peripheral System
-and part of the spinal cord, actually work faster
-than in the brain
-Cell Body
-• the cell's life-support
-centre
-How do you take a piece of tissue, like a cell or a neuron, and have it conduct
-electricity?
-Study of Sea Slugs
-How impulses travel down the Neuron
-• movement of ions in and out of the cell membrane is
-what creates the electricity and causes it to flow down
-the neuron
-Synapse
-it's a very complex combination of a whole bunch of synapses coming
-together at once to determine whether the next one fires
+- A neuron looks like this: ![neuron](imgs/2b1_neuron.jpg)]
+    - Myelin Sheath:
+        - globular part of the neuron which are **not found in the neurons of the brain**
+        - lets the electric current bounce from node to node, so that the impulse can travel quickly
+        - neurons which are part of the Peripheral System and part of the spinal cord, actually work **faster than in the brain**
+    - Dendrites
+        - are found at the back end of the neuron (Terminal Branches of axon is the front end of a neuron)
+    - Cell Body
+        - the cell's life-support centre
+- How do you take a piece of tissue, like a cell or a neuron, and have it conduct electricity?
+    - Study of Sea Slugs
+- How impulses travel down the Neuron: ![travel](imgs/2b1_travel.jpg)
+    - movement of ions in and out of the cell membrane is what creates the electricity and causes it to flow down the neuron (toward axon terminals)
+- Synapse: ![synapse](imgs/2b1_synapse.jpg)
+    - to simply the process:
+        - the action potential breaks down the vesicle containing neurotransmitters in axon terminal
+        - then the neurotransmitters go through the synaptic gap
+        - and it changes the ions in the next neuron
+        - after it goes through, the neuron has to reuptake, in order for the transmitter can be used again, in a really short period of time
+    - but it is not that simple because:
+        - each neuron is connected from and to multiple other neurons
+        - it's a very complex combination of a whole bunch of synapses coming together at once to determine whether the next one fires
+        - i.e. some makes the next neuron firing, some makes the next neuron stop firing
 
 ### <a name="2b2"></a>Neurotransmitters
 
-Dopamine
-very common especially in the brain
-Parkinson's Disease
-part of the cause is a deficiency of dopamine
-marked by tremors
-very important in the coordination of movement
-also important in attention and emotion
-Schizophrenia
-marked by an excess of dopamine in various parts
-of the brain
-Serotonin
-involved in mood, hunger, sleep and arousal
-it affects things widely in the brain
-a deficiency of serotonin is a cause for insomnia
-deficiencies are also associated with depression
-Norepinephrine
-• more related to alertness and arousal
-also associated with depression
-Acetylcholine
-the most common neurotransmitter
-involved in muscle movement
-Alzheimer's Disease
-• the neurons that work through acetylcholine get
-ruined with Alzheimer's
-also involved in learning and memory
-Endorphines
-• involved in pain regulation
-when injured, the body naturally releases these
-endorphines which allow you to handle a lot more pain
-• heroine and morphine mimic this neurotransmitter
+- Dopamine
+    - very common especially in the brain
+    - Parkinson's Disease
+        - part of the cause is a deficiency of dopamine
+        - marked by tremors
+        - very important in the coordination of movement
+    - also important in attention and emotion
+    - Schizophrenia
+        - marked by an excess of dopamine in various parts of the brain
+- Serotonin
+    - involved in mood, hunger, sleep and arousal
+    - it affects things widely in the brain
+    - a deficiency of serotonin is a cause for insomnia
+    - deficiencies are also associated with depression
+- Norepinephrine
+    - more related to alertness and arousal
+    - also associated with depression
+- Acetylcholine
+    - the most common neurotransmitter
+    - involved in muscle movement
+    - Alzheimer's Disease
+        - the neurons that work through acetylcholine get ruined with Alzheimer's
+    - also involved in learning and memory
+- Endorphines
+    - involved in pain regulation
+    - when injured, the body naturally releases these endorphines which allow you to handle a lot more pain
+    - heroine and morphine mimic this neurotransmitter
 
 ### <a name="2b3"></a>How Drugs Affect Neurotransmitters
 
-Two ways for drugs to work
-1. by acting just like the neurotransmitter, and in effect
-making It think that there is more of it; good if there is
-a deficiency
-2. others act like blockers and keep the neurotransmitter
-from having as much of an effect; good if there is too
-much of a neurotransmitter
+- Here is a picture showing the synapse: ![neurotransmitters](2b3_neurotransmitters.jpg)
+    - at the synapse gap, neurotransmitters come across have complex shapes
+    - on the other side of dendrites, receptor sites with complex shape that neurotransmitters fitting in
+    - when it fits in, it changes the receiving cell membrane, and starts/stops the impulse depends on the type of neurotransmitter
+- Drugs mimics the shape of neurotransmitter, 2 ways for drugs to work:
+    1. **Agonist**: by acting just like the neurotransmitter, and in effect making It think that there is more of it; good if there is a deficiency of neurotransmitters
+    2. **Antagonist**: others act like blockers and keep the neurotransmitter from having as much of an effect; good if there is too much of a neurotransmitter
 
 ## <a name="2c"></a>Divisions of the Nervous System
 
@@ -692,3 +694,13 @@ ultimate control and
 information-processi
 Despite all this specificity and complexity the brain has quite a bit of plasticity
 • if an area is damaged other areas can take over
+
+# <a name="3"></a>Lecture 03: Behavioural Neuroscience II
+
+## <a name="3a"></a>The Senses
+### <a name="3a1"></a>Vision
+### <a name="3a2"></a>Hearing
+### <a name="3a3"></a>The Other Senses: Taste, Smell, Touch, Pain, and Balance
+## <a name="3b"></a>Focus on University of Waterloo Research – Synaesthesia
+## <a name="3c"></a>Coordination of Language in the Brain
+## <a name="3d"></a>Brain Coordination While We Sleep
