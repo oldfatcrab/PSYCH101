@@ -663,11 +663,111 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
     - if an area is damaged other areas can take over
     - particulary true for young children
 
+----------
+
 # <a name="3"></a>Lecture 03: Behavioural Neuroscience II
 
 ## <a name="3a"></a>The Senses
 ### <a name="3a1"></a>Vision
+- Structure of eye
+![eye](imgs/3a1_eye.jpg)
+    - Iris: _how much the light gets in_
+    - Pupil: _just a hole_
+    - Cornea: _protective surface_
+    - Lens: _right behind the pupil, focuses the light race on the Retina(it revert the image)_
+    - Retina: _flashed on it up side down_
+    - Fovea: _actual spot on Retina, right behind the pupil, center of our vision, sensitive to colour_
+    - Optic nerve (to brain's bisual cortex): take signal from retina and transmit it to brain
+
+- Retina
+![retina](imgs/3a1_retina.jpg)
+    - How Retina processes the light:
+        1. Light entering eye triggers photochemical reaction in rods and cones at back of retina
+        2. Chemical reaction in turn activates bipolar cells
+        3. Bipolar cells then active the ganglion cells, the axons of which converge to form the optic nerve. This nerve transmits information to the visual cortex in the brain's occipital lobe.
+    - 3 types of cells involves in the procedure:
+        1. Ganglion cell
+        2. Bipolar cell
+        3. Sensors
+            - Rod: _responsible for black and white vision_
+            - Cone: _responsible for colour vision_
+
+- From the Eye to the Cortex
+![eyecortex](imgs/3a1_eyecortex.jpg)
+    - the part of the brain that helps to understand things is the cortex
+    - visual cortex taks the light that is coming in, and turns it into shapes
+
+- Feature Detection
+    - How can you tell that a table is square?
+    - in the cortex individual cells respond to lines at various angles
+    - take the symbols of lines and create a pattern
+    - cells converge to create our perception of what we see
+    - higher level cells provide even more perception
+    - all of this happens virtually instantaneously
+    - this all is done with massive parallel processing of information
+    - it is still not completely understood as to how the visual cortex organizes all this information
+
+- Colour Vision
+    - Young-Helmholtz Trichromatic Theory
+        - theory comes primarily from studying the retina
+        - three types of cones in the retina, which respond to three types of light
+        - primary colors: red, green, blue
+        - all other colours can be made from these three
+        - Could just the specificily of the cones produce these different colours?
+        - consistent with this theory are colourblind individules
+            - red and green - problem with either green or red cones
+            - blue and green - no distinction between blue and green cones
+        - theory works well untill we talk about the colour yellow
+            - brain responds to yellow as a primary colour
+    - Opponent-Process Theory
+        - there are actually three sets of opposing pairs of colours
+        - 3 opponent color pairs
+            - black/white
+            - red/green
+            - blue/yellow
+        - explains **afterimage effect**
+            - Why do you get those opposing colours?
+            - when staring at the colous, the neurons associated with those colours will fire, but they will eventually wear out
+            - the lack of firing is now interpreted as if the red, blue and white are firing thus creating the afterimage effect
+            - after image iffect is when the brain thinks that the reverse colours are firing
+    - Both theory are probably true
+        - at the retinal level, you have the three types of cones which work together to produce all the different colours
+        - true in the thalamus, higher up in the brain as it is processing things
+
 ### <a name="3a2"></a>Hearing
+- The Parts of the ear
+![ear](imgs/3a2_ear.jpg)
+    - Outer ear: Pinna and part of auditory canel
+    - Auditory canel
+    - Eardrum: _begin of actual signal, it vibrates_
+    - Bones of the middle ear: _3 bones, transmitted mechanically_
+    - Oval window: _where stirrup attaches_
+    - Cochlea: _like seashell, turns physical stimulus into neural impulses_
+    - Semicircular canels: _important to balance_
+    - Vestibular sacs: _have nothing to do with hearing_
+    - Auditory nerve
+
+- A Closer Look at the Cochlea
+![cochlea](imgs/3a2_cochlea.jpg)
+    - sound comes in and make eardrum vibrate
+    - the vibrations move the hammer, anvil and stirrup which push against fluid inside the cochlea
+    - wave get flushing in the cochlea
+    - cochlear membrane (basilar) with protruding hair cells, the waves bend the hairs
+    - the bending of the hairs starts the nerve impulse that really allows you to hear
+
+- How does this cochlear fluid get turned in to a neural impulse? Pitch perception
+    - Place theory
+        - the particular hairs in the cochlear membrane which get bent over by the wave, will determine what type of pitch there will be
+        - big waves are going to hit back a lot further creating one pitch which will be low sounds; low sounds make bigger waves
+        - higher sounds are going to make littler waves, which lands closer in, creating high pitch sound
+        - this theory can't explain the high sounds that we are capable of hearing
+    - Frequency Theory
+        - it is the speed of the waves in the cochlea that determines the pitch
+        - big waves go slower, and little waves go faster
+    - Both theories seem to be true
+        - Place theory works well for high sounds, and it is the particular hairs that matter
+        - Frequency theory explains low sounds, it is the frequency of the waves
+
 ### <a name="3a3"></a>The Other Senses: Taste, Smell, Touch, Pain, and Balance
 ## <a name="3b"></a>Focus on University of Waterloo Research – Synaesthesia
 ## <a name="3c"></a>Coordination of Language in the Brain
