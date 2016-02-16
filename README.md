@@ -469,43 +469,54 @@ Cues:
 
 ## <a name="2c"></a>Divisions of the Nervous System
 
+- Nervous System
+    - Peripheral
+        - Autonomic (controls self-regulated action of internal organs and glands)
+            - Sysmathetic (arousing): gets you ready for fight or flight
+            - Parasympathetic (calming): lets you build up all your energy
+        - Somatic (controls voluntary movements of skeletal muscles)
+    - Central (brain and spinal cord)
+
 ### <a name="2c1"></a>The Peripheral Nervous System
 
-Autonomic Nervous System
-controls the glands
-controls the muscles related to our organs
-although possible to override by conscious thought, for the
-most part these reactions occur spontaneously
+- Somatic Nervous System
+    - controls voluntary muscles and their movement
+- Autonomic Nervous System
+    - controls the glands
+    - controls the muscles related to our organs
+    - although possible to override by conscious thought, for the most part these reactions occur spontaneously
+![autonomic](imgs/2c1_autonomic.jpg)
+|     Organ     |                     Sympathetic                     |          Parasympathetic          |
+|:-------------:|:---------------------------------------------------:|:---------------------------------:|
+| Eyeball       | Dilates pupil                                       | Contracts pupil                   |
+| Heart         | Accelerates heartbeat                               | Slows heartbeat                   |
+| Stomach       | Inhibits digestion                                  | Stimulates digestion              |
+| Liver         | Stimulates glucose release by liver                 | Stimulates gailbladder            |
+| Adrenal gland | Stimulates secretion of epinephrine, norepinephrine | -                                 |
+| Kidney        | Relaxes bladder                                     | Contracts bladder                 |
+| Penis (male)  | Stimulates ejaculation                              | Stimulates erection of sex organs |
 
 ### <a name="2c2"></a>The Central Nervous System
 
-The Spinal Cord
-carries information from the Peripheral Nervous
-system up to the brain
-does some 'thinking', in that it controls some repsonses
-these responses are typically referred to as reflexes
-type of neurons that cannot only transmit things, but
-can route things different ways; almost makes some
-primitive types of decisions
-The Brain
-• does almost all the processing other than the simple
-reflexes
-Three areas of the brain you need to know about
-Brainstem
-it is injury to the brainstem that usually kills
-controls all the vital functions
-very crucial even though it is only a small part of
-the brain
-2.
-3.
-Lymbic
-system
-Brainster
-The Lymbic System
-• controls motivation and emotion
-• very important for memory
-Cerebral Cortex
-• separates us from animals
+![central](imgs/2c2_central.jpg)
+- The Spinal Cord
+    - carries information from the Peripheral Nervous system up to the brain
+    - does some 'thinking', in that it controls some repsonses
+    - these responses are typically referred to as reflexes
+    - type of neurons that cannot only transmit things, but can route things different ways; almost makes some primitive types of decisions
+- The Brain
+    - does almost all the processing other than the simple reflexes
+- Three areas of the brain you need to know about
+![brain](imgs/2c2_brain.jpg)
+    1. Brainstem
+        - it is injury to the brainstem that usually kills
+        - controls all the vital functions
+        - very crucial even though it is only a small part of the brain
+    2. Lymbic system
+        - controls motivation and emotion
+        - very important for memory
+    3. Cerebral Cortex
+        - separates us from animals
 
 ### <a name="2c3"></a>How the Spinal Cord Controls Reflexes
 
