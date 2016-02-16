@@ -485,7 +485,9 @@ Cues:
     - controls the glands
     - controls the muscles related to our organs
     - although possible to override by conscious thought, for the most part these reactions occur spontaneously
+
 ![autonomic](imgs/2c1_autonomic.jpg)
+
 |     Organ     |                     Sympathetic                     |          Parasympathetic          |
 |     :---:     |                        :---:                        |               :---:               |
 | Eyeball       | Dilates pupil                                       | Contracts pupil                   |
