@@ -510,203 +510,157 @@ Cues:
     - does almost all the processing other than the simple reflexes
 - Three areas of the brain you need to know about
 ![brain](imgs/2c2_brain.jpg)
-    1. Brainstem
-        - it is injury to the brainstem that usually kills
-        - controls all the vital functions
-        - very crucial even though it is only a small part of the brain
-    2. Lymbic system
-        - controls motivation and emotion
-        - very important for memory
-    3. Cerebral Cortex
-        - separates us from animals
+1. Brainstem
+    - it is injury to the brainstem that usually kills
+    - controls all the vital functions
+    - very crucial even though it is only a small part of the brain
+2. Lymbic system
+    - controls motivation and emotion
+    - very important for memory
+3. Cerebral Cortex
+    - separates us from animals
 
 ### <a name="2c3"></a>How the Spinal Cord Controls Reflexes
 
-A Simple Reflex
+A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
+1. In this simple hand-withdrawal reflex, information  is carried from skin receptors along a sensory neuron to the spinal cord (shown by the red arrows). From here it is passed via interneurons to motor neurons that lead to muscles in the hand and arm (blue arrows). 
+2. Because this reflex involves only the spinal cord, the hand jerks away from the candle flame even before information about the event has reached the brain, causing the experience of pain. 
 
 ### <a name="2c4"></a>The Brain
 
-The Four Parts of the Brain Stem
-Medulla
-absolutely critical in keeping us alive
-controls the heartbeat and breathing
-Reticular formation
-controls attention, alertness, and reactivity
-can be thought of as the accelerator of the brain
-basic function that regulates the overall amount Of brain
-activity
-Thalamus
-sensory switching point
-crucial for vision and other senses
-beginning processes Of our senses come about
-Cerebellum
-crucial for movement and coordination of movement
-crucial for balance
-The Lymbic System
-Pituitary gland
-important in the production of many necessary hormones
-Hypothalamus
-crucial for hunger
-controls the hormones Of the Pituitary gland
-some influence on other emotions as well, particulary pleasure
-Amygdala
-important for a number of things, including anger
-Hippocampus
-crucial for memory and for laying down the functions of memory
-damage can cause severe types Of memory disorders
-The Cerebral Cortex - Basic Divisions
-• involved in language and spacial recognition
-• involved in hearing, memory and mood
-• important in reasoning and thinking
-involved in the complex processing Of information
-The Cerebral Cortex Functional Divisions - Movement and Sense of Touch
-the brain has no actual sensors for pain
-there is a lot of specificity with the sensory and motor cortex
-seizures occur when there is too much electncal activity in the motor cortex
-motor cortex sends off charges to make movement throughout the body
-in the case of a stroke, the motor cortex is damaged, and whatever is damaged is what will be paralyzed
-often the stroke is only on one side of the brain, causing only one side of the body to be paralyzed
-some people cannot move a part of their body, but can feel it
-other people can move a part of their body, but cannot feel it as a result of damage in the Sensory cortex, which
-did not affect the corresponding part of the Motor cortex
-The Cerebral Cortex Functional Divisions - Hearing and Visions
-• initially the sensory information comes in through the eyes, but it is processed by the Visual cortex at the back
-Of the brain
-. damage to this area can cause deafness with no possibility of correction
-The Cerebral Cortex Functional Divisions - Left and Right Sides of the Brain
-. thick area between the two brains for exchanging information
-Epileptic Study
-in the 1950s there was not much that they could do
-to help epileptics with their seizures
-in order to stop the seizures they severed the corpus
-callosum; they cut the two sides of the brain apart
-helps to reduce the number of seizures dramatically
-because the electrical impulses do not spread to the
-other side
-this led to a new understanding of the brain
-what was discovered was that the two sides of the brain
-actually perfrom different functions
-left side in particular is more verbal; able to produce
-language in most people
-right side is better at visual processing and coordinating;
-can understand simple language
-some left-handed people have a brain structured like a
-right-hander, others have it reversed
-Mike Gazanaga Study
-helps to explain the 'executive' function of the left brain,
-the ability to explain and interpret what is going on
-brain is able to do this even when it is wrong
-right brain can process visual stimuli, and can process
-commands
-when he would flash "Get up" to the right side of the brain,
-a number of people would get up
-their left brain was unaware of why they were getting up
-because it has no access to that information
-• everyone of them could instantaneously come up with an
-explanation as to why they stood up
-• left side of the brain is very good at rationalizing your own
-behaviour
-• Would the right side of the brain be better at picking up what
-emotion is being shown on a face?
+- The Four Parts of the Brain Stem
+![brainstem](imgs/2c4_brainstem.jpg)
+![brainstem2](imgs/2c4_brainstem2.jpg)
+    - Medulla
+        - absolutely critical in keeping us alive
+        - controls the heartbeat and breathing
+        - when someone break their neck, the Medulla get damaged and he's probably dead
+    - Reticular formation
+        - controls attention, alertness, and reactivity
+        - can be thought of as the **accelerator of the brain**
+        - basic function that regulates the overall amount of brain activity
+    - Thalamus
+        - sensory switching point
+        - crucial for vision and other senses
+        - beginning processes of our senses come about
+- Cerebellum
+    - crucial for movement and coordination of movement
+    - crucial for balance
+- The Lymbic System
+![lymbic](imgs/2c4_lymbic.jpg)
+    - Pituitary gland
+        - important in the production of many necessary **hormones**
+    - Hypothalamus
+        - crucial for **hunger**
+        - controls the hormones of the Pituitary gland
+        - some influence on other emotions as well, particulary **pleasure**
+    - Amygdala
+        - important for a number of things, including **anger**
+    - Hippocampus
+        - crucial for memory and for laying down the functions of **memory**
+        - damage can cause severe types of memory disorders
+- The Cerebral Cortex - Basic Divisions
+    - Occipital lobe
+        - heavily involved in **vision**
+    - Parietal lobe
+        - involved in language and spacial recognition
+    - Temporal lobe
+        - involved in hearing, memory and mood
+        - important in some of the functions of the Hippocampus and the Lymbic system
+    - Frontal lobe
+        - important in reasoning and thinking
+        - involved in the complex processing of information
+- The Cerebral Cortex Functional Divisions - Movement and Sense of Touch
+![movementsensetouch](imgs/2c4_movementsensetouch.jpg)
+    - Output: Motor Cortex
+    - Input: Sensory Cortex
+    - Note that the **left** hemisphere section receives/controls **right** side of body
+    - the brain has no actual sensors for pain
+    - there is a lot of specificity with the sensory and motor cortex
+    - seizures occur when there is too much electncal activity in the motor cortex
+    - motor cortex sends off charges to make movement throughout the body
+    - in the case of a stroke, the motor cortex is damaged, and whatever is damaged is what will be paralyzed
+    - often the stroke is only on one side of the brain, causing only one side of the body to be paralyzed
+    - some people cannot move a part of their body, but can feel it
+    - other people can move a part of their body, but cannot feel it as a result of damage in the Sensory cortex, which did not affect the corresponding part of the Motor cortex
+- The Cerebral Cortex Functional Divisions - Hearing and Visions
+![hearingvision](imgs/2c4_hearingvision.jpg)
+    - Vision cortex
+        - initially the sensory information comes in through the eyes, but it is processed by the Visual cortex at the back of the brain
+    - Hearing cortex
+        - processed near the sensor (ear)
+        - damage to this area can cause deafness with no possibility of correction
+- The Cerebral Cortex Functional Divisions - Left and Right Sides of the Brain: thick area between the two brains for exchanging information
+![leftright](imgs/2c4_leftright.jpg)
+    - Corpus Callosum
+        - think area between the two brains for exchanging information
+    - Epileptic Study
+![corpuscallosum](imgs/2c4_corpuscallosum.jpg)
+        - in the 1950s there was not much that they could do to help epileptics with their seizures
+        - in order to stop the seizures they severed the corpus callosum; they cut the two sides of the brain apart
+        - helps to reduce the number of seizures dramatically because the electrical impulses do not spread to the other side
+        - this led to a new understanding of the brain
+        - what was discovered was that the two sides of the brain actually perfrom different functions
+        - left side in particular is more verbal; able to produce language in most people
+        - right side is better at visual processing and coordinating; can understand simple language
+        - some left-handed people have a brain structured like a right-hander, others have it reversed
+- Mike Gazanaga Study
+    - helps to explain the 'executive' function of the left brain, the ability to explain and interpret what is going on
+    - brain is able to do this even when it is wrong
+    - right brain can process visual stimuli, and can process commands
+    - when he would flash "Get up" to the right side of the brain, a number of people would get up
+    - their left brain was unaware of why they were getting up because it has no access to that information
+    - everyone of them could instantaneously come up with an explanation as to why they stood up
+    - left side of the brain is very good at rationalizing your own behaviour
+    - Would the right side of the brain be better at picking up what emotion is being shown on a face?
+        - still works to be done, no one knows...
 
 ## <a name="2d"></a>The Endocrine System
 
-brain region controlling
-e pituitary gland)
-among Other thingsj
-Testes
-(secretes
-sex hormones)
-Pituitary gland
-(secretes many different
-hormones, some Of Which
-affect other glands)
-Parathyroids
-—(help regulate the level Of
-calcium In the blood)
-Adrenal glands
-gnner part, called the medulla
-elps trig er the "fight Or flight;'
-response
-Pancreas
-(regulates the level
-of sugar in the blood)
-Ovari es
-(secretes female
-sex hormones)
+![endocrine](imgs/2d_endocrine.jpg)
+- Pituitary gland
+    - secretes many different hormones, some of Which affect other glands
+- Hypothalamus
+    - brain region controlling the pituitary gland
+- Testes
+    - secrets male sex hormones
+- Ovaries
+    - secretes female sex hormones
+- Adrenal glands
+    - inner part, called the medulla helps trigger the "fight or flight" response
+- Pancreas
+    - regulates the level of sugar in the blood
+- Parathyroids
+    - help regulate the level of calcium In the blood
+- Thyroid gland
+    - affects metaolism, among other things
 
 ## <a name="2e"></a>Putting It All Together - The Case of Hunger
 
-When we don't eat for a while, what makes us feel hungry?
-• stomach contractions carry hunger signal through the
-peripheral nervous system to the hypothalamus
-blood sugar levels as interpreted and controlled by the
-liver and pancreas send message to the hypothalamus
-• lateral hypothalamus is stimulated and releases the
-hormone orexin which heightens hunger
-When we eat, what makes us no longer feel hungry?
-• stomach expands and this message is transmitted to the
-hypothalamus
-• blood sugar levels as interpreted and controlled by the
-liver and pancreas send message of higher levels to the
-hypothalamus
-• insulin is also released
-• ventromedial hypothalamus is stimulated and which leads
-to the feeling of satiation and helps stop the eating
-Damage to the Hypothalamus
-• if there is a lesion to the lateral hypothalamus then rats
-basically starve themselves to death and virtually eat
-nothing
-• also seem lethargic and depressed
-• if the ventromedial hypothalamus is damaged, then
-rats basically will never stop eating and they get
-very fat
+- When we don't eat for a while, what makes us feel hungry?
+    - stomach contractions carry hunger signal through the peripheral nervous system to the hypothalamus
+    - blood sugar levels as interpreted and controlled by the liver and pancreas send message to the hypothalamus
+    - **lateral hypothalamus** is stimulated and releases the hormone orexin which heightens hunger, like the following picture
+![hungrybrain](imgs/2e_hungrybrain.jpg)
+- When we eat, what makes us no longer feel hungry?
+    - stomach expands and this message is transmitted to the hypothalamus
+    - blood sugar levels as interpreted and controlled by the liver and pancreas send message of higher levels to the hypothalamus
+    - insulin is also released
+    - **ventromedial hypothalamus** is stimulated and which leads to the feeling of satiation and helps stop the eating
+- Damage to the Hypothalamus
+    - if there is a lesion to the lateral hypothalamus then rats basically starve themselves to death and virtually eat nothing
+    - also seem lethargic and depressed
+    - if the ventromedial hypothalamus is damaged, then rats basically will never stop eating and they get very fat
 
 ## <a name="2f"></a>Overarching Principles
 
-Structures of the brain and the various systems work together in coordinated,
-overlapping, and redundant systems
-Corpus callosum:
-Amygdala:
-in the lymbic
-system linke
-to emotion
-Hippocampus:
-a structure In
-the lymbic
-system linked
-to memory
-Corpus callosum: —
-axon fibers connecting
-two cerebral hemispheres
-Thalamus:
-relays messages between
-lower brain centers and
-cerebral cortex
-controls maintenance
-functions such as eating,
-he ps govern endocrine
-system; linked to emotion
-and reward
-Pituitary:
-master endocrine gland—
-Reticular formation:
-helps control arousal
-Medulla:
-controls heartbeat and
-breathing
-Spinal cord:
-11thway for neural fibers
-veling to and from
-brain; controls simple
-reflexes
-Cerebellum:
-coordinates voluntary
-movement and balance
-ultimate control and
-information-processi
-Despite all this specificity and complexity the brain has quite a bit of plasticity
-• if an area is damaged other areas can take over
+![overarch](imgs/2f_overarch.jpg)
+
+- Structures of the brain and the various systems work together in coordinated, overlapping, and redundant systems
+- It incorrect to say one part is completely controlling something - that is way too simplicitic
+- Despite all this specificity and complexity the brain has quite a bit of plasticity
+    - if an area is damaged other areas can take over
+    - particulary true for young children
 
 # <a name="3"></a>Lecture 03: Behavioural Neuroscience II
 
