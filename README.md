@@ -387,7 +387,7 @@ Cues:
 ## <a name="2a"></a>The Nervous System and the Brain - The Big Picture
 
 - Neuron
-    - the basic cells that make up the' nervous system
+    - the basic cells that make up the nervous system
 - Peripheral Nervous System
     - all the other nerves that run through the body which are not the brain or the spinal cord
 - The Central Nervous System and the Brain
@@ -397,7 +397,7 @@ Cues:
     - the different chemicals that float through he blood and also influence us
 - Putting it all together - The Example of Hunger
     - not completely separate systems, all work together and influence eachother
-    - we can look at hunger as an "ample of höw all these systems work together
+    - we can look at hunger as an example of how all these systems work together
 
 ## <a name="2b"></a>Neuron
 
@@ -510,6 +510,7 @@ Cues:
     - does almost all the processing other than the simple reflexes
 - Three areas of the brain you need to know about
 ![brain](imgs/2c2_brain.jpg)
+
 1. Brainstem
     - it is injury to the brainstem that usually kills
     - controls all the vital functions
@@ -523,6 +524,7 @@ Cues:
 ### <a name="2c3"></a>How the Spinal Cord Controls Reflexes
 
 A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
+
 1. In this simple hand-withdrawal reflex, information  is carried from skin receptors along a sensory neuron to the spinal cord (shown by the red arrows). From here it is passed via interneurons to motor neurons that lead to muscles in the hand and arm (blue arrows). 
 2. Because this reflex involves only the spinal cord, the hand jerks away from the candle flame even before information about the event has reached the brain, causing the experience of pain. 
 
@@ -533,19 +535,19 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
 ![brainstem2](imgs/2c4_brainstem2.jpg)
     - Medulla
         - absolutely critical in keeping us alive
-        - controls the heartbeat and breathing
+        - controls the **heartbeat and breathing**
         - when someone break their neck, the Medulla get damaged and he's probably dead
     - Reticular formation
-        - controls attention, alertness, and reactivity
+        - controls **attention, alertness, and reactivity**
         - can be thought of as the **accelerator of the brain**
         - basic function that regulates the overall amount of brain activity
     - Thalamus
         - sensory switching point
-        - crucial for vision and other senses
+        - crucial for **vision and other senses**
         - beginning processes of our senses come about
 - Cerebellum
-    - crucial for movement and coordination of movement
-    - crucial for balance
+    - crucial for **movement and coordination of movement**
+    - crucial for **balance**
 - The Lymbic System
 ![lymbic](imgs/2c4_lymbic.jpg)
     - Pituitary gland
@@ -563,13 +565,13 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
     - Occipital lobe
         - heavily involved in **vision**
     - Parietal lobe
-        - involved in language and spacial recognition
+        - involved in **language and spacial recognition**
     - Temporal lobe
-        - involved in hearing, memory and mood
+        - involved in **hearing, memory and mood**
         - important in some of the functions of the Hippocampus and the Lymbic system
     - Frontal lobe
-        - important in reasoning and thinking
-        - involved in the complex processing of information
+        - important in **reasoning and thinking**
+        - involved in the **complex processing of information**
 - The Cerebral Cortex Functional Divisions - Movement and Sense of Touch
 ![movementsensetouch](imgs/2c4_movementsensetouch.jpg)
     - Output: Motor Cortex
@@ -590,8 +592,7 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
     - Hearing cortex
         - processed near the sensor (ear)
         - damage to this area can cause deafness with no possibility of correction
-- The Cerebral Cortex Functional Divisions - Left and Right Sides of the Brain: thick area between the two brains for exchanging information
-![leftright](imgs/2c4_leftright.jpg)
+- The Cerebral Cortex Functional Divisions - Left and Right Sides of the Brain: thick area between the two brains for exchanging information ![leftright](imgs/2c4_leftright.jpg)
     - Corpus Callosum
         - think area between the two brains for exchanging information
     - Epileptic Study
