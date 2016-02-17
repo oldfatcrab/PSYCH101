@@ -51,6 +51,12 @@ Cues:
     - [Coordination of Language in the Brain](#3c)
     - [Brain Coordination While We Sleep](#3d)
 - <a name="module4"></a>[Lecture 04: Developmental Psychology I](#4)
+    - [What is Behaviourism?](#4a)
+    - [Classical Conditioning](#4b)
+    - [Operant Conditioning](#4c)
+    - [Language Acquisition](#4d)
+    - [Observational Learning](#4e)
+    - [The Big Picture: The Fundamental Issues Being Addressed](#4f)
 - <a name="module5"></a>[Lecture 05: Developmental Psychology II](#5)
 - <a name="module6"></a>[Lecture 06: Cognitive Psychology I](#6)
 - <a name="module7"></a>[Lecture 07: Cognitive Psychology II](#7)
@@ -937,3 +943,153 @@ A Simple Reflex:
         - the connections that are developing need to be reinforced, dreams foster this sort of cognitive development
         - dreaming facilitates learning
 
+# <a name="4"></a>Developmental Psychology I
+
+## <a name="4a"></a>What is Behaviourism?
+
+- Classical Conditioning 
+    - Pavlov and his dogs 
+- Operant Conditioning 
+    - Skinner and his pigeons 
+- Language Acquisition 
+    - How is it that we learn to speak? 
+- Observational Learning 
+    - the Bobo Doll 
+
+## <a name="4b"></a>Classical Conditioning
+
+- Pavlov and his dogs 
+    - had test tubes hocked up to saliva glands Of dogs to collect the spit 
+    - noticed after a few days of giving them food, that every time he walked up to the dogs to give them food, the saliva would start to flow 
+    - the question became, _Why were they salivating before the food was given to them?_
+
+![pavlovdog](imgs/4b_pavlovdog.jpg)
+
+- Procedure:
+    - **An unconditioned stimulus (UCS) produces an unconditioned response**: Introduce food, and dog starts salivation
+    - **A neutral stimulus produces no salivation response**: use metronome, no salivation
+    - **The UCS is repeatedly presented just after neutral stimulus. The UCS to produce an unconditioned response**: let the dog think the food is associate with metronome by repeatly let the dog hear metronome when show it the food
+    - **The neutral stimulus alone now produces a conditioned response (CR), thereby becoming a conditioned stimulus (CS)**: now let the dog hear metronome again then the dog starts salivation
+
+- What is learning and unlearning? 
+    - In Classical conditioning, learning is the association Of a conditioned stimulus or neutral stimulus With an  unconditioned stimulus to the extent that the conditioned stimulus produces the unconditioned response 
+    - Pavlov didn't understand the implications of this very well: he did not realize what leaming could come  from this 
+    - John Watson 
+        - one of the early American behaviourists 
+        - not going to study thoughts, but will study what is observable
+        - uses Pavlovian principles to teach 
+        - "You give me twenty children, and I can turn them into anything!" 
+        - Little Albert was taught to be terrified of anything that is soft and furry 
+        - the idea was that you could teach something to someone which did not make any sense, and they could learn to be afraid of it 
+        - in some ways this is a model for phobia
+
+- Process of Generalization 
+    - occurs when the conditioned stimulus is changed slightly, and the conditioned response still happens
+    - screaming and crying is the conditioned response, it is something that can be observed
+
+- Discrimination 
+    - occurs when the conditioned stimulus is changed, and the conditioned response doesn't happen 
+    - starting to get unlearning 
+    - this would happen if Little Albert was afraid of rats, but not bunnies, and could make the distinction between them 
+    - can teach this process by only presenting the unconditioned stimulus with the rat and never with the bunny 
+
+- Extinction 
+    - occurs when the conditioned stimulus, now the unconditioned response, no longer produces the response 
+    - according to the theory, extinction should happen eventually if the unconditioned stimuli is no longer paired with the conditioned stimuli 
+
+- Problems with Classical Conditioning 
+    - the only behaviour that can be affected is one that the organism, the dog or Little Albert, would normally do
+    - you cannot get the organism to do new behaviours 
+
+## <a name="4c"></a>Operant Conditioning
+
+- what operant conditioning allows for, and allows to happen, is behaviours that **would not naturally occur** 
+- Skinner proposed that any behaviour that anyone engages in has been learnt through operant conditioning
+
+- What is Operant Conditioning? 
+How does an organism learn to do thi s it tkjesn't normally do? HOW do you ever get behaviour that doesn't occur as an unconditional response (UCR)? 
+    - Skinner proposed that behaviour that is rewarded will occur more often in the future 
+    - behaviour that is not rewarded will occur less often 
+    - according to Skinner, almost all behaviour is shaped in this way 
+    - what Skinner argued, and very conclusively demonstrated, was that **complex behaviours can be shaped through rewards**
+
+- What is Operant Conditioning? 
+    - Skinner and his pigeons 
+        - by rewarding pigeons with food for doing behaviours which he wanted them to do, he could teach them to do miraculous things 
+        - playing Beethoven is a very complex behaviour and is not something that pigeons do naturally 
+        - learning is the acquisition of new behaviours 
+
+- Types of Reinforcers 
+    - **Positive reinforcer**: getting good things 
+    - **Negative reinforcer**: removing bad things (also a good thing)
+    - both positive and negative reinforcers actually promote behaviours, make them more likely to occur 
+    - note that a negative reinforcer is **not** a punishment 
+        - Skinner thought punishment was a bad way to teach 
+        - when things happen that are perceived as bad, or when good things are removed, you don't know what to do 
+        - punishment often leads to **inaction** rather than action; learning should be about producing actions 
+        - rather than acquiring new behaviours, it lead to the shutting down of behaviour 
+    - **Primary reinforcers**: pleasant in their own right 
+    - **Conditioned (secondary) reinforcers**: pleasant through association (like money)
+        - note here that this builds on classical conditioning 
+        - associated the conditioned stimuli (money) with the unconditioned stimuli (what the money can buy that is pleasant in its own right) 
+
+- One thing in common with classical conditioning and operant conditioning 
+    - both argue that to understand behaviour and where it comes from, you don't need to know anything about what is inside the head (the big black box)
+    - thoughts are epiphenomenon; things that are there but which have no importance or influence 
+    - all you need to know is what can be observed 
+    - any behaviour can be explained without looking at though 
+
+## <a name="4d"></a>Language Acquisition
+
+- Was language something that was learned through behaviourism? 
+    - Skinner argued that language was learnt through reinforcement 
+    - basic idea is that children receive all kinds of reinforcement and affection from their parents when they first begin to 'babble', which carries on as the child begins to use words and sentences 
+
+- Chomsky 
+    - believed that language learning was innate, that there is an inborn ability to learn language 
+    - there is a critical period early on in which everyone learns language 
+    - Chomsky was a linguist, not a psychologist 
+    - argued that Skinner was naive in thinking that parents could teach their children to talk simply through the use of reinforcement 
+
+- The Bottom Line 
+    - behaviourism is clearly wrong in this debate
+    - children learn language incredibly fast 
+    - babies can actually hear all the different ranges of sound that people make 
+    - after about a year, children's brains become used to the language that they hear, and can no longer hear certain sounds 
+    - children can learn thousands of words a day and can pick up a foreign language without any effort 
+    - all of this suggests that they are not learning by reinforcement but that there is a built-in ability to learn language 
+
+## <a name="4e"></a>Observational Learning
+
+- Bandura 
+    - believed that people did not have to learn through rewards or punishments, but could learn by watching others 
+    - in order for this to happen one must have thoughts to intervene between what is going on 
+    - it is not just a matter Of being rewarded, one must make an inference that the same thing could happen to themselves 
+
+- The Bobo Doll Study 
+    - the adult proceeded to "beat" the bobo doll up
+    - what would the children play with? in particular, would they beat up the bobo doll?
+        - the child who did not see the adult with the bobo doll, hit it an average of 2 times
+        - those who did watch hit the doll an average of 62 times
+
+- What did these children learn? 
+    - according to Sandura, they learned how to be violent 
+    - Bandura felt that this had some implications for the effects of violence on television, and in the movies, on children 
+    - arued that children learn that it is good to be violent by watching people being rewarded for violent behaviour 
+    - what it did was say to behaviourism that do matter 
+
+## <a name="4f"></a>The Big Picture: The Fundamental Issues Being Addressed
+
+- Big Difference between Nature vs Nurture 
+    - behaviourists focused most on nurture 
+    - Watson believed that he could take twenty children and turn them into anything 
+    - Skinner believed that he could create a utopian society through behaviourist principles 
+    - nature side of things, children have this inborn ability to learn language 
+
+- Could Behaviourism explain what was really important? 
+    - How applicable is the science of psychology to everyday life? 
+    - Can it explain What really goes on? 
+    - behaviourism could not explain how we learn by watching, nor could it explain how we learn language. 
+
+- Is there still a role for behaviourism? 
+    - behaviourism can still be used to control some behaviours 
