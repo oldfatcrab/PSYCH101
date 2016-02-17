@@ -387,12 +387,8 @@ Cues:
             - **valid** - measures what is is supposed to measure
             - **reliable** - get the same outcome every time
             - example:
-                - reliable, but not valid:
-    
-                  ![reliable](imgs/1c3_reliable.jpg)
-                - valid, but not reliable:
-
-                  ![valid](imgs/1c3_valid.jpg)
+                - reliable, but not valid: ![reliable](imgs/1c3_reliable.jpg)
+                - valid, but not reliable: ![valid](imgs/1c3_valid.jpg)
 
 - How experiments try to establish causation
     - time order is built in independent variable leads to the dependent variable
@@ -422,10 +418,9 @@ Cues:
 
 ### <a name="2b1"></a>The Neuron
 
-- A neuron looks like this:
-
 ![neuron](imgs/2b1_neuron.jpg)]
 
+- A neuron looks like this:
     - Myelin Sheath:
         - globular part of the neuron which are **not found in the neurons of the brain**
         - lets the electric current bounce from node to node, so that the impulse can travel quickly
@@ -438,16 +433,12 @@ Cues:
 - How do you take a piece of tissue, like a cell or a neuron, and have it conduct electricity?
     - Study of Sea Slugs
 
-- How impulses travel down the Neuron:
-    
 ![travel](imgs/2b1_travel.jpg)
-
+- How impulses travel down the Neuron:
     - movement of ions in and out of the cell membrane is what creates the electricity and causes it to flow down the neuron (toward axon terminals)
 
-- Synapse:
-
 ![synapse](imgs/2b1_synapse.jpg)
-
+- Synapse:
     - to simplify the process:
         - the action potential breaks down the vesicle containing neurotransmitters in axon terminal
         - then the neurotransmitters go through the synaptic gap
@@ -494,10 +485,9 @@ Cues:
 
 ### <a name="2b3"></a>How Drugs Affect Neurotransmitters
 
-- Here is a picture showing the synapse:
-
 ![neurotransmitters](imgs/2b3_neurotransmitters.jpg)
 
+- Here is a picture showing the synapse:
     - at the synapse gap, neurotransmitters come across have complex shapes
     - on the other side of dendrites, receptor sites with complex shape that neurotransmitters fitting in
     - when it fits in, it changes the receiving cell membrane, and starts/stops the impulse depends on the type of neurotransmitter
@@ -573,12 +563,11 @@ A Simple Reflex:
 
 ### <a name="2c4"></a>The Brain
 
-- The Four Parts of the Brain Stem
-
 ![brainstem](imgs/2c4_brainstem.jpg)
 
 ![brainstem2](imgs/2c4_brainstem2.jpg)
 
+- The Four Parts of the Brain Stem
     - Medulla
         - absolutely critical in keeping us alive
         - controls the **heartbeat and breathing**
@@ -596,9 +585,8 @@ A Simple Reflex:
     - crucial for **movement and coordination of movement**
     - crucial for **balance**
 
-- The Lymbic System
-
 ![lymbic](imgs/2c4_lymbic.jpg)
+- The Lymbic System
     - Pituitary gland
         - important in the production of many necessary **hormones**
     - Hypothalamus
@@ -623,10 +611,9 @@ A Simple Reflex:
         - important in **reasoning and thinking**
         - involved in the **complex processing of information**
 
-- The Cerebral Cortex Functional Divisions - Movement and Sense of Touch
-
 ![movementsensetouch](imgs/2c4_movementsensetouch.jpg)
 
+- The Cerebral Cortex Functional Divisions - Movement and Sense of Touch
     - Output: Motor Cortex
     - Input: Sensory Cortex
     - Note that the **left** hemisphere section receives/controls **right** side of body
@@ -638,26 +625,22 @@ A Simple Reflex:
     - often the stroke is only on one side of the brain, causing only one side of the body to be paralyzed
     - some people cannot move a part of their body, but can feel it
     - other people can move a part of their body, but cannot feel it as a result of damage in the Sensory cortex, which did not affect the corresponding part of the Motor cortex
-- The Cerebral Cortex Functional Divisions - Hearing and Visions
 
 ![hearingvision](imgs/2c4_hearingvision.jpg)
 
+- The Cerebral Cortex Functional Divisions - Hearing and Visions
     - Vision cortex
         - initially the sensory information comes in through the eyes, but it is processed by the Visual cortex at the back of the brain
     - Hearing cortex
         - processed near the sensor (ear)
         - damage to this area can cause deafness with no possibility of correction
 
-- The Cerebral Cortex Functional Divisions - Left and Right Sides of the Brain: thick area between the two brains for exchanging information
-
 ![leftright](imgs/2c4_leftright.jpg)
 
+- The Cerebral Cortex Functional Divisions - Left and Right Sides of the Brain: thick area between the two brains for exchanging information
     - Corpus Callosum
         - think area between the two brains for exchanging information
-    - Epileptic Study
-
-![corpuscallosum](imgs/2c4_corpuscallosum.jpg)
-
+    - Epileptic Study: ![corpuscallosum](imgs/2c4_corpuscallosum.jpg)
         - in the 1950s there was not much that they could do to help epileptics with their seizures
         - in order to stop the seizures they severed the corpus callosum; they cut the two sides of the brain apart
         - helps to reduce the number of seizures dramatically because the electrical impulses do not spread to the other side
@@ -727,10 +710,9 @@ A Simple Reflex:
 
 ## <a name="3a"></a>The Senses
 ### <a name="3a1"></a>Vision
-- Structure of eye
-
 ![eye](imgs/3a1_eye.jpg)
 
+- Structure of eye
     - **Iris**: how much the light gets in
     - **Pupil**: just a hole
     - **Cornea**: protective surface
@@ -739,10 +721,8 @@ A Simple Reflex:
     - **Fovea**: actual spot on Retina, right behind the pupil, center of our vision, sensitive to colour
     - **Optic nerve** (to brain's bisual cortex): take signal from retina and transmit it to brain
 
-- Retina
-
 ![retina](imgs/3a1_retina.jpg)
-
+- Retina
     - How Retina processes the light:
         1. Light entering eye triggers photochemical reaction in rods and cones at back of retina
         2. Chemical reaction in turn activates bipolar cells
@@ -754,10 +734,9 @@ A Simple Reflex:
             - Rod: _responsible for black and white vision_
             - Cone: _responsible for colour vision_
 
-- From the Eye to the Cortex
-
 ![eyecortex](imgs/3a1_eyecortex.jpg)
 
+- From the Eye to the Cortex
     - the part of the brain that helps to understand things is the cortex
     - visual cortex taks the light that is coming in, and turns it into shapes
 
@@ -799,10 +778,10 @@ A Simple Reflex:
         - true in the thalamus, higher up in the brain as it is processing things
 
 ### <a name="3a2"></a>Hearing
-- The Parts of the ear
 
 ![ear](imgs/3a2_ear.jpg)
 
+- The Parts of the ear
     - **Outer ear**: Pinna and part of auditory canel
     - **Auditory canel**
     - **Eardrum**: begin of actual signal, it vibrates
@@ -813,10 +792,9 @@ A Simple Reflex:
     - **Vestibular sacs**: have nothing to do with hearing
     - **Auditory nerve**
 
-- A Closer Look at the Cochlea
-
 ![cochlea](imgs/3a2_cochlea.jpg)
 
+- A Closer Look at the Cochlea
     - sound comes in and make eardrum vibrate
     - the vibrations move the hammer, anvil and stirrup which push against fluid inside the cochlea
     - wave get flushing in the cochlea
@@ -837,10 +815,10 @@ A Simple Reflex:
         - Frequency theory explains low sounds, it is the frequency of the waves
 
 ### <a name="3a3"></a>The Other Senses: Taste, Smell, Touch, Pain, and Balance
-- Taste
 
 ![tongue](imgs/3a3_tongue.jpg)
 
+- Taste
     - for basic tastes - sweet, sour, salty and bitter
     - tongue has tastebuds that respond to these different tasts
     - taste sensations are created by chemical reactions on the tastebuds
@@ -856,6 +834,7 @@ A Simple Reflex:
 
 ![smell](imgs/3a3_smell.jpg)
 
+- Structure of smell sensor:
     - **Nasal passage**: sense smell
     - **Receptor cells in the olfactory membrane**: some chemical reactions occurs here
     - **Olfactory nerve**: set up impulse to the brain
@@ -900,10 +879,9 @@ A Simple Reflex:
 
 ## <a name="3c"></a>Coordination of Language in the Brain
 
-- How do we read out load?
-
 ![language](imgs/3c_language.jpg)
 
+- How do we read out load?
     - Visual cortex: _receives written words as visual stimulation_
     - Angular gyrus: _transforms visual representations into an auditory code_
     - Wernicke's area: _interprets auditory code_
@@ -914,12 +892,11 @@ A Simple Reflex:
 
 ## <a name="3d"></a>Brain Coordination While We Sleep
 
+![sleepstages](imgs/3d_sleepstages.jpg)
+
 - The Active Sleeping Brain
     - activity in our brain is remarkably varied while we sleep
     - five stages of sleep defined by brain activity that occur when we sleep
-
-![sleepstages](imgs/3d_sleepstages.jpg)
-
         - **Awake**, relaxed: Alpha waves
         - **Stage 1 sleep**: lightly sleep
         - **Stage 2 sleep**: little peaks, called _Spindle_ (burst of activity)
@@ -927,10 +904,10 @@ A Simple Reflex:
         - **Stage 4 sleep**: really high amplitude (waves are called _Delta waves_)
         - **REM sleep**: REM stands for _rapid eye movement_, happens when dreaming
 
-- The Sleep Cycle
 
 ![sleepcycle](imgs/3d_sleepcycle.jpg)
 
+- The Sleep Cycle
     - Awake to deeper and deeper stages of sleep
     - Then REM sleep
     - more Stage 4 in first 2-3 hours, more REM afterwards
@@ -952,10 +929,9 @@ A Simple Reflex:
         - whatever pathways or connections that have been activated during the day, the more likely to be activated again at night, particularly when dreaming
         - need dreams for memory consolidation and cognitive development
 
+![dreamlife](imgs/3d_dreamlife.jpg)
+
 - Sleep Throughout the Lifetime
-
-![dreamlife](imgs/dreamlife.jpg)
-
     - as you get old, you spend most of your time awake
     - when you are younger, you spend more time to sleep, especially when you are a baby, you take lot of time dreaming, why?
         - the connections that are developing need to be reinforced, dreams foster this sort of cognitive development
