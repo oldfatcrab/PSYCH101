@@ -425,6 +425,7 @@ Cues:
 - A neuron looks like this:
 
 ![neuron](imgs/2b1_neuron.jpg)]
+
     - Myelin Sheath:
         - globular part of the neuron which are **not found in the neurons of the brain**
         - lets the electric current bounce from node to node, so that the impulse can travel quickly
@@ -440,11 +441,13 @@ Cues:
 - How impulses travel down the Neuron:
     
 ![travel](imgs/2b1_travel.jpg)
+
     - movement of ions in and out of the cell membrane is what creates the electricity and causes it to flow down the neuron (toward axon terminals)
 
 - Synapse:
 
 ![synapse](imgs/2b1_synapse.jpg)
+
     - to simplify the process:
         - the action potential breaks down the vesicle containing neurotransmitters in axon terminal
         - then the neurotransmitters go through the synaptic gap
@@ -494,6 +497,7 @@ Cues:
 - Here is a picture showing the synapse:
 
 ![neurotransmitters](imgs/2b3_neurotransmitters.jpg)
+
     - at the synapse gap, neurotransmitters come across have complex shapes
     - on the other side of dendrites, receptor sites with complex shape that neurotransmitters fitting in
     - when it fits in, it changes the receiving cell membrane, and starts/stops the impulse depends on the type of neurotransmitter
@@ -536,6 +540,7 @@ Cues:
 ### <a name="2c2"></a>The Central Nervous System
 
 ![central](imgs/2c2_central.jpg)
+
 - The Spinal Cord
     - carries information from the Peripheral Nervous system up to the brain
     - does some 'thinking', in that it controls some repsonses
@@ -573,6 +578,7 @@ A Simple Reflex:
 ![brainstem](imgs/2c4_brainstem.jpg)
 
 ![brainstem2](imgs/2c4_brainstem2.jpg)
+
     - Medulla
         - absolutely critical in keeping us alive
         - controls the **heartbeat and breathing**
@@ -620,6 +626,7 @@ A Simple Reflex:
 - The Cerebral Cortex Functional Divisions - Movement and Sense of Touch
 
 ![movementsensetouch](imgs/2c4_movementsensetouch.jpg)
+
     - Output: Motor Cortex
     - Input: Sensory Cortex
     - Note that the **left** hemisphere section receives/controls **right** side of body
@@ -634,6 +641,7 @@ A Simple Reflex:
 - The Cerebral Cortex Functional Divisions - Hearing and Visions
 
 ![hearingvision](imgs/2c4_hearingvision.jpg)
+
     - Vision cortex
         - initially the sensory information comes in through the eyes, but it is processed by the Visual cortex at the back of the brain
     - Hearing cortex
@@ -643,11 +651,13 @@ A Simple Reflex:
 - The Cerebral Cortex Functional Divisions - Left and Right Sides of the Brain: thick area between the two brains for exchanging information
 
 ![leftright](imgs/2c4_leftright.jpg)
+
     - Corpus Callosum
         - think area between the two brains for exchanging information
     - Epileptic Study
 
 ![corpuscallosum](imgs/2c4_corpuscallosum.jpg)
+
         - in the 1950s there was not much that they could do to help epileptics with their seizures
         - in order to stop the seizures they severed the corpus callosum; they cut the two sides of the brain apart
         - helps to reduce the number of seizures dramatically because the electrical impulses do not spread to the other side
@@ -671,6 +681,7 @@ A Simple Reflex:
 ## <a name="2d"></a>The Endocrine System
 
 ![endocrine](imgs/2d_endocrine.jpg)
+
 - **Pituitary gland**: secretes many different hormones, some of Which affect other glands
 - **Hypothalamus**: brain region controlling the pituitary gland
 - **Testes**: secrets male sex hormones
@@ -688,6 +699,7 @@ A Simple Reflex:
     - **lateral hypothalamus** is stimulated and releases the hormone orexin which heightens hunger, like the following picture
 
 ![hungrybrain](imgs/2e_hungrybrain.jpg)
+
 - When we eat, what makes us no longer feel hungry?
     - stomach expands and this message is transmitted to the hypothalamus
     - blood sugar levels as interpreted and controlled by the liver and pancreas send message of higher levels to the hypothalamus
@@ -718,6 +730,7 @@ A Simple Reflex:
 - Structure of eye
 
 ![eye](imgs/3a1_eye.jpg)
+
     - **Iris**: how much the light gets in
     - **Pupil**: just a hole
     - **Cornea**: protective surface
@@ -729,6 +742,7 @@ A Simple Reflex:
 - Retina
 
 ![retina](imgs/3a1_retina.jpg)
+
     - How Retina processes the light:
         1. Light entering eye triggers photochemical reaction in rods and cones at back of retina
         2. Chemical reaction in turn activates bipolar cells
@@ -743,6 +757,7 @@ A Simple Reflex:
 - From the Eye to the Cortex
 
 ![eyecortex](imgs/3a1_eyecortex.jpg)
+
     - the part of the brain that helps to understand things is the cortex
     - visual cortex taks the light that is coming in, and turns it into shapes
 
@@ -785,7 +800,9 @@ A Simple Reflex:
 
 ### <a name="3a2"></a>Hearing
 - The Parts of the ear
+
 ![ear](imgs/3a2_ear.jpg)
+
     - **Outer ear**: Pinna and part of auditory canel
     - **Auditory canel**
     - **Eardrum**: begin of actual signal, it vibrates
@@ -799,6 +816,7 @@ A Simple Reflex:
 - A Closer Look at the Cochlea
 
 ![cochlea](imgs/3a2_cochlea.jpg)
+
     - sound comes in and make eardrum vibrate
     - the vibrations move the hammer, anvil and stirrup which push against fluid inside the cochlea
     - wave get flushing in the cochlea
@@ -822,6 +840,7 @@ A Simple Reflex:
 - Taste
 
 ![tongue](imgs/3a3_tongue.jpg)
+
     - for basic tastes - sweet, sour, salty and bitter
     - tongue has tastebuds that respond to these different tasts
     - taste sensations are created by chemical reactions on the tastebuds
@@ -836,6 +855,7 @@ A Simple Reflex:
     - odors can powerfully evoke memories and emotions
 
 ![smell](imgs/3a3_smell.jpg)
+
     - **Nasal passage**: sense smell
     - **Receptor cells in the olfactory membrane**: some chemical reactions occurs here
     - **Olfactory nerve**: set up impulse to the brain
@@ -883,6 +903,7 @@ A Simple Reflex:
 - How do we read out load?
 
 ![language](imgs/3c_language.jpg)
+
     - Visual cortex: _receives written words as visual stimulation_
     - Angular gyrus: _transforms visual representations into an auditory code_
     - Wernicke's area: _interprets auditory code_
@@ -898,6 +919,7 @@ A Simple Reflex:
     - five stages of sleep defined by brain activity that occur when we sleep
 
 ![sleepstages](imgs/3d_sleepstages.jpg)
+
         - **Awake**, relaxed: Alpha waves
         - **Stage 1 sleep**: lightly sleep
         - **Stage 2 sleep**: little peaks, called _Spindle_ (burst of activity)
@@ -908,6 +930,7 @@ A Simple Reflex:
 - The Sleep Cycle
 
 ![sleepcycle](imgs/3d_sleepcycle.jpg)
+
     - Awake to deeper and deeper stages of sleep
     - Then REM sleep
     - more Stage 4 in first 2-3 hours, more REM afterwards
@@ -932,6 +955,7 @@ A Simple Reflex:
 - Sleep Throughout the Lifetime
 
 ![dreamlife](imgs/dreamlife.jpg)
+
     - as you get old, you spend most of your time awake
     - when you are younger, you spend more time to sleep, especially when you are a baby, you take lot of time dreaming, why?
         - the connections that are developing need to be reinforced, dreams foster this sort of cognitive development
