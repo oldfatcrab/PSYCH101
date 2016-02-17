@@ -769,6 +769,9 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
         - Frequency theory explains low sounds, it is the frequency of the waves
 
 ### <a name="3a3"></a>The Other Senses: Taste, Smell, Touch, Pain, and Balance
+- Taste
+    - for basic tastes - sweet, sour, salty and bitter
+    - tongue has tastebuds that respond to these different tasts
 ## <a name="3b"></a>Focus on University of Waterloo Research – Synaesthesia
 ## <a name="3c"></a>Coordination of Language in the Brain
 ## <a name="3d"></a>Brain Coordination While We Sleep
