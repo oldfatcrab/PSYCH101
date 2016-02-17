@@ -165,7 +165,7 @@ Cues:
 - The major Theorists of the Testing Tradition
     - Charles Darwin
     - Sir Francis Galton (Darwin's cousin)
-        - had a naive idea of how to study what makes people fit and the most most likely to survive
+        - had a naive idea of how to study what makes people fit and the most likely to survive
         - wanted to figure out what makes someone a genius, what makes somebody superior
         - in the testing tradition there is an underlying element of elitism; aristocracy
         - connected his ideas with Darwin's theory of evolution
@@ -240,7 +240,7 @@ Cues:
 
 ### <a name="1b5"></a>Three New Beginnings of Psychology
 
-- in the 1960s and 70s, each of these traditions had a significant rebirth (new biginning)
+- in the 1960s and 70s, each of these traditions had a significant rebirth (new beginning)
 - The Psychiatric Tradition
     - Humanistic Approach - The Third Wave
         - Carl Rogers
@@ -298,8 +298,8 @@ Cues:
     - some sciences are mostly about explanation; how things work, how things unfold
     - psychology is in the middle of these two extremes; always new discoveries, but explanations are crucial
     - different traditions have a different emphasis on discovery and explanation, and they do different types of research because of this
-    - Psychiatric tradition uses mostly **case studies** in it's research
-        - One of Freuds famous case studies: Anna O.
+    - Psychiatric tradition uses mostly **case studies** in its research
+        - One of Freud's famous case studies: Anna O.
             - Freud was Anna's therapist for many years
             - developed an unusual illness after a couple years of caring for her sick father
             - was blind even though there was nothing physically wrong with her
@@ -384,7 +384,7 @@ Cues:
         - behaviour that you are concerned with in the end; the effect
         - have children play together to see if they will fight
         - we want the dependent variable to be:
-            - **valid** - measures what is is supposed to measure
+            - **valid** - measures what is supposed to measure
             - **reliable** - get the same outcome every time
             - example:
                 - reliable, but not valid: ![reliable](imgs/1c3_reliable.jpg)
@@ -409,9 +409,9 @@ Cues:
     - it is probably one of the frontiers that we understand the least of in psychology
 - The Endocrine System
     - hormones
-    - the different chemicals that float through he blood and also influence us
+    - the different chemicals that float through the blood and also influence us
 - Putting it all together - The Example of Hunger
-    - not completely separate systems, all work together and influence eachother
+    - not completely separate systems, all work together and influence each other
     - we can look at hunger as an example of how all these systems work together
 
 ## <a name="2b"></a>Neuron
@@ -420,7 +420,7 @@ Cues:
 
 ![neuron](imgs/2b1_neuron.jpg)]
 
-- A neuron looks like this:
+- A neuron looks like above, structure includes:
     - Myelin Sheath:
         - globular part of the neuron which are **not found in the neurons of the brain**
         - lets the electric current bounce from node to node, so that the impulse can travel quickly
@@ -434,7 +434,7 @@ Cues:
     - Study of Sea Slugs
 
 ![travel](imgs/2b1_travel.jpg)
-- How impulses travel down the Neuron:
+- How impulses travel down the Neuron
     - movement of ions in and out of the cell membrane is what creates the electricity and causes it to flow down the neuron (toward axon terminals)
 
 ![synapse](imgs/2b1_synapse.jpg)
@@ -478,9 +478,9 @@ Cues:
         - the neurons that work through acetylcholine get ruined with Alzheimer's
     - also involved in learning and memory
 
-- Endorphines
+- Endorphins
     - involved in pain regulation
-    - when injured, the body naturally releases these endorphines which allow you to handle a lot more pain
+    - when injured, the body naturally releases these endorphins which allow you to handle a lot more pain
     - heroine and morphine mimic this neurotransmitter
 
 ### <a name="2b3"></a>How Drugs Affect Neurotransmitters
@@ -500,7 +500,7 @@ Cues:
 - Nervous System
     - Peripheral
         - Autonomic (controls self-regulated action of internal organs and glands)
-            - Sysmathetic (arousing): gets you ready for fight or flight
+            - Sympathetic (arousing): gets you ready for fight or flight
             - Parasympathetic (calming): lets you build up all your energy
         - Somatic (controls voluntary movements of skeletal muscles)
     - Central (brain and spinal cord)
@@ -522,7 +522,7 @@ Cues:
 | Eyeball       | Dilates pupil                                       | Contracts pupil                   |
 | Heart         | Accelerates heartbeat                               | Slows heartbeat                   |
 | Stomach       | Inhibits digestion                                  | Stimulates digestion              |
-| Liver         | Stimulates glucose release by liver                 | Stimulates gailbladder            |
+| Liver         | Stimulates glucose release by liver                 | Stimulates gallbladder            |
 | Adrenal gland | Stimulates secretion of epinephrine, norepinephrine | -                                 |
 | Kidney        | Relaxes bladder                                     | Contracts bladder                 |
 | Penis (male)  | Stimulates ejaculation                              | Stimulates erection of sex organs |
@@ -533,7 +533,7 @@ Cues:
 
 - The Spinal Cord
     - carries information from the Peripheral Nervous system up to the brain
-    - does some 'thinking', in that it controls some repsonses
+    - does some 'thinking', in that it controls some responses
     - these responses are typically referred to as reflexes
     - type of neurons that cannot only transmit things, but can route things different ways; almost makes some primitive types of decisions
 - The Brain
@@ -592,7 +592,7 @@ A Simple Reflex:
     - Hypothalamus
         - crucial for **hunger**
         - controls the hormones of the Pituitary gland
-        - some influence on other emotions as well, particulary **pleasure**
+        - some influence on other emotions as well, particularly **pleasure**
     - Amygdala
         - important for a number of things, including **anger**
     - Hippocampus
@@ -619,7 +619,7 @@ A Simple Reflex:
     - Note that the **left** hemisphere section receives/controls **right** side of body
     - the brain has no actual sensors for pain
     - there is a lot of specificity with the sensory and motor cortex
-    - seizures occur when there is too much electncal activity in the motor cortex
+    - seizures occur when there is too much electrical activity in the motor cortex
     - motor cortex sends off charges to make movement throughout the body
     - in the case of a stroke, the motor cortex is damaged, and whatever is damaged is what will be paralyzed
     - often the stroke is only on one side of the brain, causing only one side of the body to be paralyzed
@@ -645,7 +645,7 @@ A Simple Reflex:
         - in order to stop the seizures they severed the corpus callosum; they cut the two sides of the brain apart
         - helps to reduce the number of seizures dramatically because the electrical impulses do not spread to the other side
         - this led to a new understanding of the brain
-        - what was discovered was that the two sides of the brain actually perfrom different functions
+        - what was discovered was that the two sides of the brain actually perform different functions
         - left side in particular is more verbal; able to produce language in most people
         - right side is better at visual processing and coordinating; can understand simple language
         - some left-handed people have a brain structured like a right-hander, others have it reversed
@@ -672,7 +672,7 @@ A Simple Reflex:
 - **Adrenal glands**: inner part, called the medulla helps trigger the "fight or flight" response
 - **Pancreas**: regulates the level of sugar in the blood
 - **Parathyroids**: help regulate the level of calcium In the blood
-- **Thyroid gland**: affects metaolism, among other things
+- **Thyroid gland**: affects metabolism, among other things
 
 ## <a name="2e"></a>Putting It All Together - The Case of Hunger
 
@@ -699,10 +699,10 @@ A Simple Reflex:
 ![overarch](imgs/2f_overarch.jpg)
 
 - Structures of the brain and the various systems work together in coordinated, overlapping, and redundant systems
-- It incorrect to say one part is completely controlling something - that is way too simplicitic
+- It incorrect to say one part is completely controlling something - that is way too simplistic
 - Despite all this specificity and complexity the brain has quite a bit of plasticity
     - if an area is damaged other areas can take over
-    - particulary true for young children
+    - particularly true for young children
 
 ----------
 
@@ -717,9 +717,9 @@ A Simple Reflex:
     - **Pupil**: just a hole
     - **Cornea**: protective surface
     - **Lens**: right behind the pupil, focuses the light race on the Retina(it revert the image)
-    - **Retina**: flashed on it up side down
+    - **Retina**: flashed on it upside down
     - **Fovea**: actual spot on Retina, right behind the pupil, center of our vision, sensitive to colour
-    - **Optic nerve** (to brain's bisual cortex): take signal from retina and transmit it to brain
+    - **Optic nerve** (to brain's visual cortex): take signal from retina and transmit it to brain
 
 ![retina](imgs/3a1_retina.jpg)
 - Retina
@@ -738,7 +738,7 @@ A Simple Reflex:
 
 - From the Eye to the Cortex
     - the part of the brain that helps to understand things is the cortex
-    - visual cortex taks the light that is coming in, and turns it into shapes
+    - visual cortex takes the light that is coming in, and turns it into shapes
 
 - Feature Detection
     - How can you tell that a table is square?
@@ -756,8 +756,8 @@ A Simple Reflex:
         - three types of cones in the retina, which respond to three types of light
         - primary colors: red, green, blue
         - all other colours can be made from these three
-        - Could just the specificily of the cones produce these different colours?
-        - consistent with this theory are colourblind individules
+        - could just the specificity of the cones produce these different colours?
+        - consistent with this theory are colour-blind individuals
             - red and green - problem with either green or red cones
             - blue and green - no distinction between blue and green cones
         - theory works well untill we talk about the colour yellow
@@ -770,9 +770,9 @@ A Simple Reflex:
             - blue/yellow
         - explains **afterimage effect**
             - Why do you get those opposing colours?
-            - when staring at the colous, the neurons associated with those colours will fire, but they will eventually wear out
+            - when staring at the colours, the neurons associated with those colours will fire, but they will eventually wear out
             - the lack of firing is now interpreted as if the red, blue and white are firing thus creating the afterimage effect
-            - after image iffect is when the brain thinks that the reverse colours are firing
+            - after image effect is when the brain thinks that the reverse colours are firing
     - Both theory are probably true
         - at the retinal level, you have the three types of cones which work together to produce all the different colours
         - true in the thalamus, higher up in the brain as it is processing things
@@ -782,13 +782,13 @@ A Simple Reflex:
 ![ear](imgs/3a2_ear.jpg)
 
 - The Parts of the ear
-    - **Outer ear**: Pinna and part of auditory canel
-    - **Auditory canel**
+    - **Outer ear**: Pinna and part of auditory canal
+    - **Auditory canal**
     - **Eardrum**: begin of actual signal, it vibrates
     - **Bones of the middle ear**: 3 bones, transmitted mechanically
     - **Oval window**: where stirrup attaches
     - **Cochlea**: like seashell, turns physical stimulus into neural impulses
-    - **Semicircular canels**: important to balance
+    - **Semicircular canals**: important to balance
     - **Vestibular sacs**: have nothing to do with hearing
     - **Auditory nerve**
 
@@ -819,17 +819,17 @@ A Simple Reflex:
 ![tongue](imgs/3a3_tongue.jpg)
 
 - Taste
-    - for basic tastes - sweet, sour, salty and bitter
-    - tongue has tastebuds that respond to these different tasts
-    - taste sensations are created by chemical reactions on the tastebuds
+    - four basic tastes - **sweet**, **sour**, **salty** and **bitter**
+    - tongue has tastebuds that respond to these different tastes
+    - taste sensations are created by **chemical reactions** on the tastebuds
     - heavily influenced by smell
-    - together they respond to muchof the same stimuli - this is called **sensory interaction**
+    - together they respond to much of the same stimuli - this is called **sensory interaction**
     - often what enhances the flavour of food is the smell rather than the particular combination of sweet, salty, sour and bitter
 
 - Smell
     - occurs due to a chemical reaction in the olfactory membrane that creates smell
     - we still do not understand exactly how receptors in the olfactory membrane work
-    - chemical that is in the air gets picked up by these receptors in the olfactory membrane which creates a neural impuls to the brain
+    - chemical that is in the air gets picked up by these receptors in the olfactory membrane which creates a neural impulse to the brain
     - odors can powerfully evoke memories and emotions
 
 ![smell](imgs/3a3_smell.jpg)
@@ -838,15 +838,15 @@ A Simple Reflex:
     - **Nasal passage**: sense smell
     - **Receptor cells in the olfactory membrane**: some chemical reactions occurs here
     - **Olfactory nerve**: set up impulse to the brain
-    - **Olfactory bulb**: pick up impulse situated, where occur in lymbic system, actually closely related with it, and that's maybe why order cause strong memories, because it is close to Hippocamus, which is crucial to memory, also lymbic system is also crucial to emotional reactions (Amygdala)
+    - **Olfactory bulb**: pick up impulse situated, where occur in lymbic system, actually closely related with it, and that's maybe why order cause strong memories, because it is close to Hippocampus, which is crucial to memory, also lymbic system is also crucial to emotional reactions (Amygdala)
 
 - Touch
     - organ for touch is **skin**
-    - there are specialized nerve endings in the skin, but these do not seem to heave a relationship with what we feel
+    - there are specialized nerve endings in the skin, but these do not seem to have a relationship with what we feel
     - our skin is sensitive to **pressure**, **warmth** (not hot), **cold**, and **pain**
     - these four sensitivities give rise to quite varied sensations
     - it is interesting that with that the brain has such an influence on that sense of touch when it doesn't on so many other sensations
-    - hot = warm + cold, an interesting physical illution
+    - hot = warm + cold, an interesting physical illusion
     - wet = cold + pressure
     - feeling itchy comes from overstimulated pain receptors
 
@@ -858,7 +858,7 @@ A Simple Reflex:
         - suggests that the spinal cord has a neurological gate that either blocks pain signals or allows them to travel to the brain
         - distractions can close the gate
         - brain is blocking out the pain response with lots of other responses
-        - endorphins, which are the bodies natural pain killers, may shut the gate right at the spinal cord so that pain can't travel to the brain
+        - endorphins, which are the body's natural pain killers, may shut the gate right at the spinal cord so that pain can't travel to the brain
 
 - Balance
     - feeling of be disoriented or dizzy - kinesthetic sense
@@ -871,7 +871,7 @@ A Simple Reflex:
 
 - Synaesthesia
     - blending of sensory perception; blending of sensations
-    - Digit-colour synaethesia
+    - Digit-colour synaesthesia
         - a particular colour is projected onto a number
         - individuals have different colour ranges for the numbers
     - nobody really knows how this develops, in fact it is a very rare condition
@@ -925,7 +925,7 @@ A Simple Reflex:
         - interpreted sex and violence into any type of dream
     - Modern Theory
         - Activation-synthesis
-        - dreams result from random neural activity in the head which the brain attemps to make sense of
+        - dreams result from random neural activity in the head which the brain attempts to make sense of
         - whatever pathways or connections that have been activated during the day, the more likely to be activated again at night, particularly when dreaming
         - need dreams for memory consolidation and cognitive development
 
