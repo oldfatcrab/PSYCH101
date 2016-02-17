@@ -943,7 +943,7 @@ A Simple Reflex:
         - the connections that are developing need to be reinforced, dreams foster this sort of cognitive development
         - dreaming facilitates learning
 
-# <a name="4"></a>Developmental Psychology I
+# <a name="4"></a>Lecture 04: Developmental Psychology I
 
 ## <a name="4a"></a>What is Behaviourism?
 
@@ -968,12 +968,12 @@ A Simple Reflex:
 - Procedure:
     - **An unconditioned stimulus (UCS) produces an unconditioned response**: Introduce food, and dog starts salivation
     - **A neutral stimulus produces no salivation response**: use metronome, no salivation
-    - **The UCS is repeatedly presented just after neutral stimulus. The UCS to produce an unconditioned response**: let the dog think the food is associate with metronome by repeatly let the dog hear metronome when show it the food
+    - **The UCS is repeatedly presented just after neutral stimulus. The UCS to produce an unconditioned response**: let the dog think the food is associate with metronome by repeatedly let the dog hear metronome when show it the food
     - **The neutral stimulus alone now produces a conditioned response (CR), thereby becoming a conditioned stimulus (CS)**: now let the dog hear metronome again then the dog starts salivation
 
 - What is learning and unlearning? 
     - In Classical conditioning, learning is the association Of a conditioned stimulus or neutral stimulus With an  unconditioned stimulus to the extent that the conditioned stimulus produces the unconditioned response 
-    - Pavlov didn't understand the implications of this very well: he did not realize what leaming could come  from this 
+    - Pavlov didn't understand the implications of this very well: he did not realize what learning could come from this 
     - John Watson 
         - one of the early American behaviourists 
         - not going to study thoughts, but will study what is observable
@@ -1007,7 +1007,7 @@ A Simple Reflex:
 - Skinner proposed that **any behaviour that anyone engages in has been learnt through operant conditioning**
 
 - What is Operant Conditioning? 
-How does an organism learn to do thi s it tkjesn't normally do? HOW do you ever get behaviour that doesn't occur as an unconditional response (UCR)? 
+How does an organism learn to do this it doesn't normally do? How do you ever get behaviour that doesn't occur as an unconditional response (UCR)? 
     - Skinner proposed that behaviour that is rewarded will occur more often in the future 
     - behaviour that is not rewarded will occur less often 
     - according to Skinner, almost all behaviour is shaped in this way 
@@ -1075,7 +1075,7 @@ How does an organism learn to do thi s it tkjesn't normally do? HOW do you ever 
 - What did these children learn? 
     - according to Sandura, they learned how to be violent 
     - Bandura felt that this had some implications for the effects of violence on television, and in the movies, on children 
-    - arued that children learn that it is good to be violent by watching people being rewarded for violent behaviour 
+    - argued that children learn that it is good to be violent by watching people being rewarded for violent behaviour 
     - what it did was say to behaviourism that do matter 
 
 ## <a name="4f"></a>The Big Picture: The Fundamental Issues Being Addressed
@@ -1088,7 +1088,7 @@ How does an organism learn to do thi s it tkjesn't normally do? HOW do you ever 
 
 - Could Behaviourism explain what was really important? 
     - How applicable is the science of psychology to everyday life? 
-    - Can it explain What really goes on? 
+    - Can it explain what really goes on? 
     - behaviourism could not explain how we learn by watching, nor could it explain how we learn language. 
 
 - Is there still a role for behaviourism? 
