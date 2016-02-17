@@ -72,6 +72,7 @@ Cues:
     - Cognitive psychology
     - Clinical psychology
     - Social psychology
+
 - What psychology isn't?
     - Psychoanalysis: within clinical psychology, virtually no one is doing psychoanalysis anymore
     - Common Sense:
@@ -104,6 +105,7 @@ Cues:
     - heavy biological influence on much of the test tradition still somewhat represented particularly in the evolutionary side of psychology
     - narrowest of the three traditions
     - Galton started his work in the 1870s
+
 - **Academic Approach** (Laboratory Psychology)
     - Wilhelm Wundt
         - set up the first psychology laboratory
@@ -146,6 +148,7 @@ Cues:
             - followed in the Freudian tradition and have made an important impact on modern psychology
             - Erik Erickson - **model of Social Development**
             - Karen Horney and Henry Stack Sullivan - focused on the **importance of relationships** in developing the self-concept
+
 - The major assumptions of the Psychiatric Tradition
     1. cannot rely on what people say or do to indicate what kind of problems they are experiencing because everything is thought to be unconscious
         - the emphasis is not on what people tell you, but on the interpretation of what is said
@@ -184,6 +187,7 @@ Cues:
         - first intelligence test that was given covered topics one would learn in school
         - was basically trying to figure out what age level a child was at, instead of their grade level
         - very similar to what we now think of as school testing
+
 - The major assumptions of the Testing Tradition
     1. Psychology is primarily a product of biology
         - emphasis on nature over nurture and evolution
@@ -220,6 +224,7 @@ Cues:
         - argued that Wundt made a wrong assumption, that the whole does not equal the sum of the parts
         - this was a powerful perspective
         - many times the **parts don't add up to the wholes** that we see and come to know and understand
+
 - The Major Assumptions of the Academic Tradition
     1. Psychology is best understood when the causes are understood
         - we need to understand what causes a behaviour
@@ -243,6 +248,7 @@ Cues:
             - he **reflected back** to the individual what they were feeling
             - belief that people are basically good, and if you can let them get in touch with themselves, let them understand themselves, they will get better
             - they need to get in touch with this good inner part of who they are
+
 - The Trait Tradition
     - developed and expanded from only two personality traits, Neuroticism and Extroversion, to big five important personality traits
         - **The Big Five Model of Personality** (OCEAN)
@@ -257,6 +263,7 @@ Cues:
             4. Agreeableness
                 - how positive or negative of a person are you
             5. _Neuroticism_
+
 - The Academic Tradition
     - The Cognitive Revolution
         - in the 60s and 70s there was huge growth and changes in the field from Behaviourism to Cognitive psychology
@@ -300,11 +307,13 @@ Cues:
             - Freud believed that Anna was having fantasies about sex with her father, and that this was the cause of her problems
             - many modern psychologists feel that Anna was being sexually abused by her father
             - Freud thought that the tales of sexual abuse were all part of her fantasy
+
 - Naturalistic Observation
     - similar to a case study but usually broader
     - observe, watch and see what happens
     - Jane Goodall's research with chimps
     - not very often done with people
+
 - Survey Research
     - get a sample of populations, ask them questions, and see them how to answer it
     - goal is often to find out what the whole population is like, from surveying a sample portion of that population
@@ -320,6 +329,7 @@ Cues:
         - what you find is a nice reliable correlation between children watching violence, and children acting the violence out
     - Correlation doesn't mean causation
         - just because children who watch too much violent television tend to be violent, doesn't necessarily mean that the television caused the violent behaviour
+
 - Experiments
     - usually about establishing **causation**
     - Example of Correlation established by Survey Research
@@ -335,6 +345,7 @@ Cues:
 - Representative group of people
     - you want the people filling out the survey to correspond to the larger group that you want to generalize, to represent, so we do **Random Sampling** (different from [Random Assignment]((#1c4RandomAssignment))):
         - have a large group of people and take a small subset to do the survey on
+
 - Need to ask unbiased questions
     - Anchoring Effects
         - give people something that you know is wrong, but it still influences the way they interpret the question, and then try to explain it
@@ -343,6 +354,7 @@ Cues:
         - get 'anchored' by the other idea
     - Framing Effects
     - these are ways of asking questions in which the first part of the question, ends up influencing how the question will be answered
+
 - don't want to have anchoring or framing effects because you will not get an accurate representation of the population
 - surveys do a good job of establishing correlation among variables
 
@@ -350,10 +362,12 @@ Cues:
 
 - Correlation
     - when one variable changes, the other variable changes as well
+
 - Time Order
     - need to know which comes first
     - Did the children watch the violent television and then become aggressive later on, or were they aggressive before viewing violence on television?
     - this is why many like to do longitudinal research
+
 - Elimination of all other possible causes
     - Examples
         - Were the parents more aggressive?
@@ -373,8 +387,13 @@ Cues:
             - **valid** - measures what is is supposed to measure
             - **reliable** - get the same outcome every time
             - example:
-                - reliable, but not valid: ![reliable](imgs/1c3_reliable.jpg)
-                - valid, but not reliable: ![valid](imgs/1c3_valid.jpg)
+                - reliable, but not valid:
+    
+                  ![reliable](imgs/1c3_reliable.jpg)
+                - valid, but not reliable:
+
+                  ![valid](imgs/1c3_valid.jpg)
+
 - How experiments try to establish causation
     - time order is built in independent variable leads to the dependent variable
     - eliminating other causes
@@ -403,7 +422,9 @@ Cues:
 
 ### <a name="2b1"></a>The Neuron
 
-- A neuron looks like this: ![neuron](imgs/2b1_neuron.jpg)]
+- A neuron looks like this:
+
+![neuron](imgs/2b1_neuron.jpg)]
     - Myelin Sheath:
         - globular part of the neuron which are **not found in the neurons of the brain**
         - lets the electric current bounce from node to node, so that the impulse can travel quickly
@@ -412,11 +433,18 @@ Cues:
         - are found at the back end of the neuron (Terminal Branches of axon is the front end of a neuron)
     - Cell Body
         - the cell's life-support centre
+
 - How do you take a piece of tissue, like a cell or a neuron, and have it conduct electricity?
     - Study of Sea Slugs
-- How impulses travel down the Neuron: ![travel](imgs/2b1_travel.jpg)
+
+- How impulses travel down the Neuron:
+    
+![travel](imgs/2b1_travel.jpg)
     - movement of ions in and out of the cell membrane is what creates the electricity and causes it to flow down the neuron (toward axon terminals)
-- Synapse: ![synapse](imgs/2b1_synapse.jpg)
+
+- Synapse:
+
+![synapse](imgs/2b1_synapse.jpg)
     - to simplify the process:
         - the action potential breaks down the vesicle containing neurotransmitters in axon terminal
         - then the neurotransmitters go through the synaptic gap
@@ -438,20 +466,24 @@ Cues:
     - also important in attention and emotion
     - Schizophrenia
         - marked by an excess of dopamine in various parts of the brain
+
 - Serotonin
     - involved in mood, hunger, sleep and arousal
     - it affects things widely in the brain
     - a deficiency of serotonin is a cause for insomnia
     - deficiencies are also associated with depression
+
 - Norepinephrine
     - more related to alertness and arousal
     - also associated with depression
+
 - Acetylcholine
     - the most common neurotransmitter
     - involved in muscle movement
     - Alzheimer's Disease
         - the neurons that work through acetylcholine get ruined with Alzheimer's
     - also involved in learning and memory
+
 - Endorphines
     - involved in pain regulation
     - when injured, the body naturally releases these endorphines which allow you to handle a lot more pain
@@ -459,7 +491,9 @@ Cues:
 
 ### <a name="2b3"></a>How Drugs Affect Neurotransmitters
 
-- Here is a picture showing the synapse: ![neurotransmitters](imgs/2b3_neurotransmitters.jpg)
+- Here is a picture showing the synapse:
+
+![neurotransmitters](imgs/2b3_neurotransmitters.jpg)
     - at the synapse gap, neurotransmitters come across have complex shapes
     - on the other side of dendrites, receptor sites with complex shape that neurotransmitters fitting in
     - when it fits in, it changes the receiving cell membrane, and starts/stops the impulse depends on the type of neurotransmitter
@@ -481,6 +515,7 @@ Cues:
 
 - Somatic Nervous System
     - controls voluntary muscles and their movement
+
 - Autonomic Nervous System
     - controls the glands
     - controls the muscles related to our organs
@@ -509,6 +544,7 @@ Cues:
 - The Brain
     - does almost all the processing other than the simple reflexes
 - Three areas of the brain you need to know about
+
 ![brain](imgs/2c2_brain.jpg)
 
 1. Brainstem
@@ -523,7 +559,9 @@ Cues:
 
 ### <a name="2c3"></a>How the Spinal Cord Controls Reflexes
 
-A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
+A Simple Reflex:
+
+![reflex](imgs/2c3_reflex.jpg)
 
 1. In this simple hand-withdrawal reflex, information  is carried from skin receptors along a sensory neuron to the spinal cord (shown by the red arrows). From here it is passed via interneurons to motor neurons that lead to muscles in the hand and arm (blue arrows). 
 2. Because this reflex involves only the spinal cord, the hand jerks away from the candle flame even before information about the event has reached the brain, causing the experience of pain. 
@@ -531,7 +569,9 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
 ### <a name="2c4"></a>The Brain
 
 - The Four Parts of the Brain Stem
+
 ![brainstem](imgs/2c4_brainstem.jpg)
+
 ![brainstem2](imgs/2c4_brainstem2.jpg)
     - Medulla
         - absolutely critical in keeping us alive
@@ -545,10 +585,13 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
         - sensory switching point
         - crucial for **vision and other senses**
         - beginning processes of our senses come about
+
 - Cerebellum
     - crucial for **movement and coordination of movement**
     - crucial for **balance**
+
 - The Lymbic System
+
 ![lymbic](imgs/2c4_lymbic.jpg)
     - Pituitary gland
         - important in the production of many necessary **hormones**
@@ -561,6 +604,7 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
     - Hippocampus
         - crucial for memory and for laying down the functions of **memory**
         - damage can cause severe types of memory disorders
+
 - The Cerebral Cortex - Basic Divisions
     - Occipital lobe
         - heavily involved in **vision**
@@ -572,7 +616,9 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
     - Frontal lobe
         - important in **reasoning and thinking**
         - involved in the **complex processing of information**
+
 - The Cerebral Cortex Functional Divisions - Movement and Sense of Touch
+
 ![movementsensetouch](imgs/2c4_movementsensetouch.jpg)
     - Output: Motor Cortex
     - Input: Sensory Cortex
@@ -586,16 +632,21 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
     - some people cannot move a part of their body, but can feel it
     - other people can move a part of their body, but cannot feel it as a result of damage in the Sensory cortex, which did not affect the corresponding part of the Motor cortex
 - The Cerebral Cortex Functional Divisions - Hearing and Visions
+
 ![hearingvision](imgs/2c4_hearingvision.jpg)
     - Vision cortex
         - initially the sensory information comes in through the eyes, but it is processed by the Visual cortex at the back of the brain
     - Hearing cortex
         - processed near the sensor (ear)
         - damage to this area can cause deafness with no possibility of correction
-- The Cerebral Cortex Functional Divisions - Left and Right Sides of the Brain: thick area between the two brains for exchanging information ![leftright](imgs/2c4_leftright.jpg)
+
+- The Cerebral Cortex Functional Divisions - Left and Right Sides of the Brain: thick area between the two brains for exchanging information
+
+![leftright](imgs/2c4_leftright.jpg)
     - Corpus Callosum
         - think area between the two brains for exchanging information
     - Epileptic Study
+
 ![corpuscallosum](imgs/2c4_corpuscallosum.jpg)
         - in the 1950s there was not much that they could do to help epileptics with their seizures
         - in order to stop the seizures they severed the corpus callosum; they cut the two sides of the brain apart
@@ -605,6 +656,7 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
         - left side in particular is more verbal; able to produce language in most people
         - right side is better at visual processing and coordinating; can understand simple language
         - some left-handed people have a brain structured like a right-hander, others have it reversed
+
 - Mike Gazanaga Study
     - helps to explain the 'executive' function of the left brain, the ability to explain and interpret what is going on
     - brain is able to do this even when it is wrong
@@ -619,22 +671,14 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
 ## <a name="2d"></a>The Endocrine System
 
 ![endocrine](imgs/2d_endocrine.jpg)
-- Pituitary gland
-    - secretes many different hormones, some of Which affect other glands
-- Hypothalamus
-    - brain region controlling the pituitary gland
-- Testes
-    - secrets male sex hormones
-- Ovaries
-    - secretes female sex hormones
-- Adrenal glands
-    - inner part, called the medulla helps trigger the "fight or flight" response
-- Pancreas
-    - regulates the level of sugar in the blood
-- Parathyroids
-    - help regulate the level of calcium In the blood
-- Thyroid gland
-    - affects metaolism, among other things
+- **Pituitary gland**: secretes many different hormones, some of Which affect other glands
+- **Hypothalamus**: brain region controlling the pituitary gland
+- **Testes**: secrets male sex hormones
+- **Ovaries**: secretes female sex hormones
+- **Adrenal glands**: inner part, called the medulla helps trigger the "fight or flight" response
+- **Pancreas**: regulates the level of sugar in the blood
+- **Parathyroids**: help regulate the level of calcium In the blood
+- **Thyroid gland**: affects metaolism, among other things
 
 ## <a name="2e"></a>Putting It All Together - The Case of Hunger
 
@@ -642,12 +686,14 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
     - stomach contractions carry hunger signal through the peripheral nervous system to the hypothalamus
     - blood sugar levels as interpreted and controlled by the liver and pancreas send message to the hypothalamus
     - **lateral hypothalamus** is stimulated and releases the hormone orexin which heightens hunger, like the following picture
+
 ![hungrybrain](imgs/2e_hungrybrain.jpg)
 - When we eat, what makes us no longer feel hungry?
     - stomach expands and this message is transmitted to the hypothalamus
     - blood sugar levels as interpreted and controlled by the liver and pancreas send message of higher levels to the hypothalamus
     - insulin is also released
     - **ventromedial hypothalamus** is stimulated and which leads to the feeling of satiation and helps stop the eating
+
 - Damage to the Hypothalamus
     - if there is a lesion to the lateral hypothalamus then rats basically starve themselves to death and virtually eat nothing
     - also seem lethargic and depressed
@@ -670,16 +716,18 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
 ## <a name="3a"></a>The Senses
 ### <a name="3a1"></a>Vision
 - Structure of eye
+
 ![eye](imgs/3a1_eye.jpg)
-    - Iris: _how much the light gets in_
-    - Pupil: _just a hole_
-    - Cornea: _protective surface_
-    - Lens: _right behind the pupil, focuses the light race on the Retina(it revert the image)_
-    - Retina: _flashed on it up side down_
-    - Fovea: _actual spot on Retina, right behind the pupil, center of our vision, sensitive to colour_
-    - Optic nerve (to brain's bisual cortex): take signal from retina and transmit it to brain
+    - **Iris**: how much the light gets in
+    - **Pupil**: just a hole
+    - **Cornea**: protective surface
+    - **Lens**: right behind the pupil, focuses the light race on the Retina(it revert the image)
+    - **Retina**: flashed on it up side down
+    - **Fovea**: actual spot on Retina, right behind the pupil, center of our vision, sensitive to colour
+    - **Optic nerve** (to brain's bisual cortex): take signal from retina and transmit it to brain
 
 - Retina
+
 ![retina](imgs/3a1_retina.jpg)
     - How Retina processes the light:
         1. Light entering eye triggers photochemical reaction in rods and cones at back of retina
@@ -693,6 +741,7 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
             - Cone: _responsible for colour vision_
 
 - From the Eye to the Cortex
+
 ![eyecortex](imgs/3a1_eyecortex.jpg)
     - the part of the brain that helps to understand things is the cortex
     - visual cortex taks the light that is coming in, and turns it into shapes
@@ -737,17 +786,18 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
 ### <a name="3a2"></a>Hearing
 - The Parts of the ear
 ![ear](imgs/3a2_ear.jpg)
-    - Outer ear: Pinna and part of auditory canel
-    - Auditory canel
-    - Eardrum: _begin of actual signal, it vibrates_
-    - Bones of the middle ear: _3 bones, transmitted mechanically_
-    - Oval window: _where stirrup attaches_
-    - Cochlea: _like seashell, turns physical stimulus into neural impulses_
-    - Semicircular canels: _important to balance_
-    - Vestibular sacs: _have nothing to do with hearing_
-    - Auditory nerve
+    - **Outer ear**: Pinna and part of auditory canel
+    - **Auditory canel**
+    - **Eardrum**: begin of actual signal, it vibrates
+    - **Bones of the middle ear**: 3 bones, transmitted mechanically
+    - **Oval window**: where stirrup attaches
+    - **Cochlea**: like seashell, turns physical stimulus into neural impulses
+    - **Semicircular canels**: important to balance
+    - **Vestibular sacs**: have nothing to do with hearing
+    - **Auditory nerve**
 
 - A Closer Look at the Cochlea
+
 ![cochlea](imgs/3a2_cochlea.jpg)
     - sound comes in and make eardrum vibrate
     - the vibrations move the hammer, anvil and stirrup which push against fluid inside the cochlea
@@ -770,6 +820,7 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
 
 ### <a name="3a3"></a>The Other Senses: Taste, Smell, Touch, Pain, and Balance
 - Taste
+
 ![tongue](imgs/3a3_tongue.jpg)
     - for basic tastes - sweet, sour, salty and bitter
     - tongue has tastebuds that respond to these different tasts
@@ -785,10 +836,10 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
     - odors can powerfully evoke memories and emotions
 
 ![smell](imgs/3a3_smell.jpg)
-    - Nasal passage: _sense smell_
-    - Receptor cells in the olfactory membrane: _some chemical reactions occurs here_
-    - Olfactory nerve: _set up impulse to the brain_
-    - Olfactory bulb: _pick up impulse situated, where occur in lymbic system, actually closely related with it, and that's maybe why order cause strong memories, because it is close to Hippocamus, which is crucial to memory, also lymbic system is also crucial to emotional reactions (Amygdala)_
+    - **Nasal passage**: sense smell
+    - **Receptor cells in the olfactory membrane**: some chemical reactions occurs here
+    - **Olfactory nerve**: set up impulse to the brain
+    - **Olfactory bulb**: pick up impulse situated, where occur in lymbic system, actually closely related with it, and that's maybe why order cause strong memories, because it is close to Hippocamus, which is crucial to memory, also lymbic system is also crucial to emotional reactions (Amygdala)
 
 - Touch
     - organ for touch is **skin**
@@ -830,6 +881,7 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
 ## <a name="3c"></a>Coordination of Language in the Brain
 
 - How do we read out load?
+
 ![language](imgs/3c_language.jpg)
     - Visual cortex: _receives written words as visual stimulation_
     - Angular gyrus: _transforms visual representations into an auditory code_
@@ -844,7 +896,8 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
 - The Active Sleeping Brain
     - activity in our brain is remarkably varied while we sleep
     - five stages of sleep defined by brain activity that occur when we sleep
-![sleepstages](imgs/sleepstages.jpg)
+
+![sleepstages](imgs/3d_sleepstages.jpg)
         - **Awake**, relaxed: Alpha waves
         - **Stage 1 sleep**: lightly sleep
         - **Stage 2 sleep**: little peaks, called _Spindle_ (burst of activity)
@@ -853,7 +906,8 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
         - **REM sleep**: REM stands for _rapid eye movement_, happens when dreaming
 
 - The Sleep Cycle
-![sleepcycle](imgs/sleepcycle.jpg)
+
+![sleepcycle](imgs/3d_sleepcycle.jpg)
     - Awake to deeper and deeper stages of sleep
     - Then REM sleep
     - more Stage 4 in first 2-3 hours, more REM afterwards
@@ -876,6 +930,7 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
         - need dreams for memory consolidation and cognitive development
 
 - Sleep Throughout the Lifetime
+
 ![dreamlife](imgs/dreamlife.jpg)
     - as you get old, you spend most of your time awake
     - when you are younger, you spend more time to sleep, especially when you are a baby, you take lot of time dreaming, why?
