@@ -770,8 +770,115 @@ A Simple Reflex: ![reflex](imgs/2c3_reflex.jpg)
 
 ### <a name="3a3"></a>The Other Senses: Taste, Smell, Touch, Pain, and Balance
 - Taste
+![tongue](imgs/3a3_tongue.jpg)
     - for basic tastes - sweet, sour, salty and bitter
     - tongue has tastebuds that respond to these different tasts
+    - taste sensations are created by chemical reactions on the tastebuds
+    - heavily influenced by smell
+    - together they respond to muchof the same stimuli - this is called **sensory interaction**
+    - often what enhances the flavour of food is the smell rather than the particular combination of sweet, salty, sour and bitter
+
+- Smell
+    - occurs due to a chemical reaction in the olfactory membrane that creates smell
+    - we still do not understand exactly how receptors in the olfactory membrane work
+    - chemical that is in the air gets picked up by these receptors in the olfactory membrane which creates a neural impuls to the brain
+    - odors can powerfully evoke memories and emotions
+
+![smell](imgs/3a3_smell.jpg)
+    - Nasal passage: _sense smell_
+    - Receptor cells in the olfactory membrane: _some chemical reactions occurs here_
+    - Olfactory nerve: _set up impulse to the brain_
+    - Olfactory bulb: _pick up impulse situated, where occur in lymbic system, actually closely related with it, and that's maybe why order cause strong memories, because it is close to Hippocamus, which is crucial to memory, also lymbic system is also crucial to emotional reactions (Amygdala)_
+
+- Touch
+    - organ for touch is **skin**
+    - there are specialized nerve endings in the skin, but these do not seem to heave a relationship with what we feel
+    - our skin is sensitive to **pressure**, **warmth** (not hot), **cold**, and **pain**
+    - these four sensitivities give rise to quite varied sensations
+    - it is interesting that with that the brain has such an influence on that sense of touch when it doesn't on so many other sensations
+    - hot = warm + cold, an interesting physical illution
+    - wet = cold + pressure
+    - feeling itchy comes from overstimulated pain receptors
+
+- Pain
+    - more is known about pain, but the more that is known, the more difficult it is to understand
+    - there is no definable area of the brain that is related to pain
+    - what we tend to remember about the pain is the **height** of the pain, not the duration
+    - Gate Control Theory
+        - suggests that the spinal cord has a neurological gate that either blocks pain signals or allows them to travel to the brain
+        - distractions can close the gate
+        - brain is blocking out the pain response with lots of other responses
+        - endorphins, which are the bodies natural pain killers, may shut the gate right at the spinal cord so that pain can't travel to the brain
+
+- Balance
+    - feeling of be disoriented or dizzy - kinesthetic sense
+    - seems to occur through two very different sense organs
+    - the joints and muscles tell us the position of our body
+    - also the semi-circular canals in the ears tell us the vestibular sense or the position of our head
+    - it is those grains hitting the hairs that gives us this sense of balance and orientation, particularly for the head 
+
 ## <a name="3b"></a>Focus on University of Waterloo Research – Synaesthesia
+
+- Synaesthesia
+    - blending of sensory perception; blending of sensations
+    - Digit-colour synaethesia
+        - a particular colour is projected onto a number
+        - individuals have different colour ranges for the numbers
+    - nobody really knows how this develops, in fact it is a very rare condition
+    - researchers at the University of Waterloo have only identified 80-90 people in the world
+
 ## <a name="3c"></a>Coordination of Language in the Brain
+
+- How do we read out load?
+![language](imgs/3c_language.jpg)
+    - Visual cortex: _receives written words as visual stimulation_
+    - Angular gyrus: _transforms visual representations into an auditory code_
+    - Wernicke's area: _interprets auditory code_
+        - stroke on this area: can produce speech but none of it makes any sense; affects the interpretation of speech
+    - Broca's area: _controls speech muscles via the motor cortex_
+        - stroke on this area: can understand speech, but have a hard time producing speech
+    - Motor cortex: _word is pronounced_
+
 ## <a name="3d"></a>Brain Coordination While We Sleep
+
+- The Active Sleeping Brain
+    - activity in our brain is remarkably varied while we sleep
+    - five stages of sleep defined by brain activity that occur when we sleep
+![sleepstages](imgs/sleepstages.jpg)
+        - **Awake**, relaxed: Alpha waves
+        - **Stage 1 sleep**: lightly sleep
+        - **Stage 2 sleep**: little peaks, called _Spindle_ (burst of activity)
+        - **Stage 3 sleep**: bigger waves and higher amplitude
+        - **Stage 4 sleep**: really high amplitude (waves are called _Delta waves_)
+        - **REM sleep**: REM stands for _rapid eye movement_, happens when dreaming
+
+- The Sleep Cycle
+![sleepcycle](imgs/sleepcycle.jpg)
+    - Awake to deeper and deeper stages of sleep
+    - Then REM sleep
+    - more Stage 4 in first 2-3 hours, more REM afterwards
+
+- Why do we sleep
+    - when we don't sleep we feel terrible
+    - why do we spend roughly a third of our lives sleeping?
+    - when people don't sleep they are not alert and are more likely to get into accidents
+    - but this doesn't answer why we need to sleep
+
+- Why do we dream?
+    - Freud
+        - believed that dreams produced wish fulfillment
+        - thought that we worked out all of our fantasies through our dreams
+        - interpreted sex and violence into any type of dream
+    - Modern Theory
+        - Activation-synthesis
+        - dreams result from random neural activity in the head which the brain attemps to make sense of
+        - whatever pathways or connections that have been activated during the day, the more likely to be activated again at night, particularly when dreaming
+        - need dreams for memory consolidation and cognitive development
+
+- Sleep Throughout the Lifetime
+![dreamlife](imgs/dreamlife.jpg)
+    - as you get old, you spend most of your time awake
+    - when you are younger, you spend more time to sleep, especially when you are a baby, you take lot of time dreaming, why?
+        - the connections that are developing need to be reinforced, dreams foster this sort of cognitive development
+        - dreaming facilitates learning
+
