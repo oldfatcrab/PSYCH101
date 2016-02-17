@@ -984,17 +984,17 @@ A Simple Reflex:
         - in some ways this is a model for phobia
 
 - Process of Generalization 
-    - occurs when the conditioned stimulus is changed slightly, and the conditioned response still happens
+    - occurs **when the conditioned stimulus is changed slightly, and the conditioned response still happens**
     - screaming and crying is the conditioned response, it is something that can be observed
 
 - Discrimination 
-    - occurs when the conditioned stimulus is changed, and the conditioned response doesn't happen 
+    - occurs **when the conditioned stimulus is changed, and the conditioned response doesn't happen**
     - starting to get unlearning 
     - this would happen if Little Albert was afraid of rats, but not bunnies, and could make the distinction between them 
     - can teach this process by only presenting the unconditioned stimulus with the rat and never with the bunny 
 
 - Extinction 
-    - occurs when the conditioned stimulus, now the unconditioned response, no longer produces the response 
+    - occurs **when the conditioned stimulus, now the unconditioned response, no longer produces the response**
     - according to the theory, extinction should happen eventually if the unconditioned stimuli is no longer paired with the conditioned stimuli 
 
 - Problems with Classical Conditioning 
@@ -1004,7 +1004,7 @@ A Simple Reflex:
 ## <a name="4c"></a>Operant Conditioning
 
 - what operant conditioning allows for, and allows to happen, is behaviours that **would not naturally occur** 
-- Skinner proposed that any behaviour that anyone engages in has been learnt through operant conditioning
+- Skinner proposed that **any behaviour that anyone engages in has been learnt through operant conditioning**
 
 - What is Operant Conditioning? 
 How does an organism learn to do thi s it tkjesn't normally do? HOW do you ever get behaviour that doesn't occur as an unconditional response (UCR)? 
@@ -1043,10 +1043,10 @@ How does an organism learn to do thi s it tkjesn't normally do? HOW do you ever 
 
 - Was language something that was learned through behaviourism? 
     - Skinner argued that language was learnt through reinforcement 
-    - basic idea is that children receive all kinds of reinforcement and affection from their parents when they first begin to 'babble', which carries on as the child begins to use words and sentences 
+    - basic idea is that children receive all kinds of reinforcement and affection from their parents when they first begin to "babble", which carries on as the child begins to use words and sentences 
 
 - Chomsky 
-    - believed that language learning was innate, that there is an inborn ability to learn language 
+    - believed that **language learning was innate, that there is an inborn ability to learn language**
     - there is a critical period early on in which everyone learns language 
     - Chomsky was a linguist, not a psychologist 
     - argued that Skinner was naive in thinking that parents could teach their children to talk simply through the use of reinforcement 
@@ -1062,7 +1062,7 @@ How does an organism learn to do thi s it tkjesn't normally do? HOW do you ever 
 ## <a name="4e"></a>Observational Learning
 
 - Bandura 
-    - believed that people did not have to learn through rewards or punishments, but could learn by watching others 
+    - believed that **people did not have to learn through rewards or punishments, but could learn by watching others**
     - in order for this to happen one must have thoughts to intervene between what is going on 
     - it is not just a matter Of being rewarded, one must make an inference that the same thing could happen to themselves 
 
