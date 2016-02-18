@@ -1440,14 +1440,14 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 ![scuba](imgs/6c2_scuba.jpg)
 - The Scuba Divers Study 
     - Learn/remember of words in water/on land
-    - showed that: greater recall when learning and testing contexts are the same
+    - showed that: greater recall **when learning and testing contexts are the same**
 
 ### <a name="6c3"></a>Interference in Memory
 
 - there is interference that occurs between the new that we are learning and the old information that we already know 
 - learning one language can actually facilitate learning another, but it can also cause interference 
 
-![proretro](imgs/proretro.jpg)
+![proretro](imgs/6c3_proretro.jpg)
 
 - **Proactive interference**: happens when what you have learnt previously screws up what you are trying to learn now
 - **Retroactive interference**: what you know learn screws up what you used to know
@@ -1455,14 +1455,14 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 ### <a name="6c4"></a>Strategies to Improve Memory
 
 - Mnemonics 
-    - sayings or patterns that can be developed to help to remember things 
+    - _sayings or patterns that can be developed to help to remember things_
     - mnemonics will only assist in remembering lists of items, not their meanings 
     - musical scales - every good boy does fine 
     - OCEAN - Openness, Conscientiousness, Extroversion, Agreeableness, Neuroticism 
     - often just knowing a list of things is not useful 
 
 - Chunking 
-    - groups items together into different groups 
+    - _groups items together into different groups_
     - particularly helpful for short-term memory, in that it allows you to keep more information 
     - chunking also allows for a smaller number of things to remember at one time 
 
@@ -1475,7 +1475,7 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 ## <a name="6d"></a>Memory Without Awareness
 
 - we can be innuenced by a number of things outside our awareness that can affect our memory 
-- Priming - audio taken from in class demonstration
+- **Priming** - audio taken from in class demonstration: remember words including "ocean", "sand", "moon", when request to prompt a brand of detergent, most people come up with "Tide"
 - very subtly priming the concept without the subject realizing that it is influencing them 
 - this is very closely related to the of memory without awareness 
 
@@ -1488,7 +1488,7 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 - Study of amnesiacs 
     - University of Toronto - Dan Schacter and the story of the golfer  
     - someone who play golf really well but can't remember he has play golf before
-    - Procedural memory 
+    - **Procedural memory**
         - able to do something even though the individual is not aware that they can do it 
         - see a difference between what they hold in consciousness, what they are able to consciously know about, and what they are able to do 
 
