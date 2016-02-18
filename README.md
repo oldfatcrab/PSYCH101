@@ -583,8 +583,8 @@ A Simple Reflex:
 
 ![reflex](imgs/2c3_reflex.jpg)
 
-1. In this simple hand-withdrawal reflex, information  is carried from skin receptors along a sensory neuron to the spinal cord (shown by the red arrows). From here it is passed via interneurons to motor neurons that lead to muscles in the hand and arm (blue arrows). 
-2. Because this reflex involves only the spinal cord, the hand jerks away from the candle flame even before information about the event has reached the brain, causing the experience of pain. 
+1. In this simple hand-withdrawal reflex, information  is carried from skin receptors along a sensory neuron to the spinal cord (shown by the red arrows). From here it is passed via interneurons to motor neurons that lead to muscles in the hand and arm (blue arrows).
+2. Because this reflex involves only the spinal cord, the hand jerks away from the candle flame even before information about the event has reached the brain, causing the experience of pain.
 
 ### <a name="2c4"></a>The Brain
 
@@ -890,7 +890,7 @@ A Simple Reflex:
     - seems to occur through two very different sense organs
     - the joints and muscles tell us the position of our body
     - also the semi-circular canals in the ears tell us the vestibular sense or the position of our head
-    - it is those grains hitting the hairs that gives us this sense of balance and orientation, particularly for the head 
+    - it is those grains hitting the hairs that gives us this sense of balance and orientation, particularly for the head
 
 ## <a name="3b"></a>Focus on University of Waterloo Research – Synaesthesia
 
@@ -966,20 +966,20 @@ A Simple Reflex:
 
 ## <a name="4a"></a>What is Behaviourism?
 
-- Classical Conditioning 
-    - Pavlov and his dogs 
-- Operant Conditioning 
-    - Skinner and his pigeons 
-- Language Acquisition 
-    - How is it that we learn to speak? 
-- Observational Learning 
-    - the Bobo Doll 
+- Classical Conditioning
+    - Pavlov and his dogs
+- Operant Conditioning
+    - Skinner and his pigeons
+- Language Acquisition
+    - How is it that we learn to speak?
+- Observational Learning
+    - the Bobo Doll
 
 ## <a name="4b"></a>Classical Conditioning
 
-- Pavlov and his dogs 
-    - had test tubes hocked up to saliva glands of dogs to collect the spit 
-    - noticed after a few days of giving them food, that every time he walked up to the dogs to give them food, the saliva would start to flow 
+- Pavlov and his dogs
+    - had test tubes hocked up to saliva glands of dogs to collect the spit
+    - noticed after a few days of giving them food, that every time he walked up to the dogs to give them food, the saliva would start to flow
     - the question became, _Why were they salivating before the food was given to them?_
 
 ![pavlovdog](imgs/4b_pavlovdog.jpg)
@@ -990,128 +990,128 @@ A Simple Reflex:
     - **The UCS is repeatedly presented just after neutral stimulus. The UCS to produce an unconditioned response**: let the dog think the food is associate with metronome by repeatedly let the dog hear metronome when show it the food
     - **The neutral stimulus alone now produces a conditioned response (CR), thereby becoming a conditioned stimulus (CS)**: now let the dog hear metronome again then the dog starts salivation
 
-- What is learning and unlearning? 
-    - In Classical conditioning, learning is the association of a conditioned stimulus or neutral stimulus With an  unconditioned stimulus to the extent that the conditioned stimulus produces the unconditioned response 
-    - Pavlov didn't understand the implications of this very well: he did not realize what learning could come from this 
-    - John Watson 
-        - one of the early American behaviourists 
+- What is learning and unlearning?
+    - In Classical conditioning, learning is the association of a conditioned stimulus or neutral stimulus With an  unconditioned stimulus to the extent that the conditioned stimulus produces the unconditioned response
+    - Pavlov didn't understand the implications of this very well: he did not realize what learning could come from this
+    - John Watson
+        - one of the early American behaviourists
         - not going to study thoughts, but will study what is observable
-        - uses Pavlovian principles to teach 
-        - "You give me twenty children, and I can turn them into anything!" 
-        - Little Albert was taught to be terrified of anything that is soft and furry 
-        - the idea was that you could teach something to someone which did not make any sense, and they could learn to be afraid of it 
+        - uses Pavlovian principles to teach
+        - "You give me twenty children, and I can turn them into anything!"
+        - Little Albert was taught to be terrified of anything that is soft and furry
+        - the idea was that you could teach something to someone which did not make any sense, and they could learn to be afraid of it
         - in some ways this is a model for phobia
 
-- Process of Generalization 
+- Process of Generalization
     - occurs **when the conditioned stimulus is changed slightly, and the conditioned response still happens**
     - screaming and crying is the conditioned response, it is something that can be observed
 
-- Discrimination 
+- Discrimination
     - occurs **when the conditioned stimulus is changed, and the conditioned response doesn't happen**
-    - starting to get unlearning 
-    - this would happen if Little Albert was afraid of rats, but not bunnies, and could make the distinction between them 
-    - can teach this process by only presenting the unconditioned stimulus with the rat and never with the bunny 
+    - starting to get unlearning
+    - this would happen if Little Albert was afraid of rats, but not bunnies, and could make the distinction between them
+    - can teach this process by only presenting the unconditioned stimulus with the rat and never with the bunny
 
-- Extinction 
+- Extinction
     - occurs **when the conditioned stimulus, now the unconditioned response, no longer produces the response**
-    - according to the theory, extinction should happen eventually if the unconditioned stimuli is no longer paired with the conditioned stimuli 
+    - according to the theory, extinction should happen eventually if the unconditioned stimuli is no longer paired with the conditioned stimuli
 
-- Problems with Classical Conditioning 
+- Problems with Classical Conditioning
     - the only behaviour that can be affected is one that the organism, the dog or Little Albert, would normally do
-    - you cannot get the organism to do new behaviours 
+    - you cannot get the organism to do new behaviours
 
 ## <a name="4c"></a>Operant Conditioning
 
-- what operant conditioning allows for, and allows to happen, is behaviours that **would not naturally occur** 
+- what operant conditioning allows for, and allows to happen, is behaviours that **would not naturally occur**
 - Skinner proposed that **any behaviour that anyone engages in has been learnt through operant conditioning**
 
-- What is Operant Conditioning? 
-How does an organism learn to do this it doesn't normally do? How do you ever get behaviour that doesn't occur as an unconditional response (UCR)? 
-    - Skinner proposed that behaviour that is rewarded will occur more often in the future 
-    - behaviour that is not rewarded will occur less often 
-    - according to Skinner, almost all behaviour is shaped in this way 
+- What is Operant Conditioning?
+How does an organism learn to do this it doesn't normally do? How do you ever get behaviour that doesn't occur as an unconditional response (UCR)?
+    - Skinner proposed that behaviour that is rewarded will occur more often in the future
+    - behaviour that is not rewarded will occur less often
+    - according to Skinner, almost all behaviour is shaped in this way
     - what Skinner argued, and very conclusively demonstrated, was that **complex behaviours can be shaped through rewards**
 
-- What is Operant Conditioning? 
-    - Skinner and his pigeons 
-        - by rewarding pigeons with food for doing behaviours which he wanted them to do, he could teach them to do miraculous things 
-        - playing Beethoven is a very complex behaviour and is not something that pigeons do naturally 
-        - learning is the acquisition of new behaviours 
+- What is Operant Conditioning?
+    - Skinner and his pigeons
+        - by rewarding pigeons with food for doing behaviours which he wanted them to do, he could teach them to do miraculous things
+        - playing Beethoven is a very complex behaviour and is not something that pigeons do naturally
+        - learning is the acquisition of new behaviours
 
-- Types of Reinforcers 
-    - **Positive reinforcer**: getting good things 
+- Types of Reinforcers
+    - **Positive reinforcer**: getting good things
     - **Negative reinforcer**: removing bad things (also a good thing)
-    - both positive and negative reinforcers actually promote behaviours, make them more likely to occur 
-    - note that a negative reinforcer is **not** a punishment 
-        - Skinner thought punishment was a bad way to teach 
-        - when things happen that are perceived as bad, or when good things are removed, you don't know what to do 
-        - punishment often leads to **inaction** rather than action; learning should be about producing actions 
-        - rather than acquiring new behaviours, it lead to the shutting down of behaviour 
-    - **Primary reinforcers**: pleasant in their own right 
+    - both positive and negative reinforcers actually promote behaviours, make them more likely to occur
+    - note that a negative reinforcer is **not** a punishment
+        - Skinner thought punishment was a bad way to teach
+        - when things happen that are perceived as bad, or when good things are removed, you don't know what to do
+        - punishment often leads to **inaction** rather than action; learning should be about producing actions
+        - rather than acquiring new behaviours, it lead to the shutting down of behaviour
+    - **Primary reinforcers**: pleasant in their own right
     - **Conditioned (secondary) reinforcers**: pleasant through association (like money)
-        - note here that this builds on classical conditioning 
-        - associated the conditioned stimuli (money) with the unconditioned stimuli (what the money can buy that is pleasant in its own right) 
+        - note here that this builds on classical conditioning
+        - associated the conditioned stimuli (money) with the unconditioned stimuli (what the money can buy that is pleasant in its own right)
 
-- One thing in common with classical conditioning and operant conditioning 
+- One thing in common with classical conditioning and operant conditioning
     - both argue that to understand behaviour and where it comes from, you don't need to know anything about what is inside the head (the big black box)
-    - thoughts are epiphenomenon; things that are there but which have no importance or influence 
-    - all you need to know is what can be observed 
-    - any behaviour can be explained without looking at though 
+    - thoughts are epiphenomenon; things that are there but which have no importance or influence
+    - all you need to know is what can be observed
+    - any behaviour can be explained without looking at though
 
 ## <a name="4d"></a>Language Acquisition
 
-- Was language something that was learned through behaviourism? 
-    - Skinner argued that language was learnt through reinforcement 
-    - basic idea is that children receive all kinds of reinforcement and affection from their parents when they first begin to "babble", which carries on as the child begins to use words and sentences 
+- Was language something that was learned through behaviourism?
+    - Skinner argued that language was learnt through reinforcement
+    - basic idea is that children receive all kinds of reinforcement and affection from their parents when they first begin to "babble", which carries on as the child begins to use words and sentences
 
-- Chomsky 
+- Chomsky
     - believed that **language learning was innate, that there is an inborn ability to learn language**
-    - there is a critical period early on in which everyone learns language 
-    - Chomsky was a linguist, not a psychologist 
-    - argued that Skinner was naive in thinking that parents could teach their children to talk simply through the use of reinforcement 
+    - there is a critical period early on in which everyone learns language
+    - Chomsky was a linguist, not a psychologist
+    - argued that Skinner was naive in thinking that parents could teach their children to talk simply through the use of reinforcement
 
-- The Bottom Line 
+- The Bottom Line
     - behaviourism is clearly wrong in this debate
-    - children learn language incredibly fast 
-    - babies can actually hear all the different ranges of sound that people make 
-    - after about a year, children's brains become used to the language that they hear, and can no longer hear certain sounds 
-    - children can learn thousands of words a day and can pick up a foreign language without any effort 
-    - all of this suggests that they are not learning by reinforcement but that there is a built-in ability to learn language 
+    - children learn language incredibly fast
+    - babies can actually hear all the different ranges of sound that people make
+    - after about a year, children's brains become used to the language that they hear, and can no longer hear certain sounds
+    - children can learn thousands of words a day and can pick up a foreign language without any effort
+    - all of this suggests that they are not learning by reinforcement but that there is a built-in ability to learn language
 
 ## <a name="4e"></a>Observational Learning
 
-- Bandura 
+- Bandura
     - believed that **people did not have to learn through rewards or punishments, but could learn by watching others**
-    - in order for this to happen one must have thoughts to intervene between what is going on 
-    - it is not just a matter of being rewarded, one must make an inference that the same thing could happen to themselves 
+    - in order for this to happen one must have thoughts to intervene between what is going on
+    - it is not just a matter of being rewarded, one must make an inference that the same thing could happen to themselves
 
-- The Bobo Doll Study 
+- The Bobo Doll Study
     - the adult proceeded to "beat" the bobo doll up
     - what would the children play with? in particular, would they beat up the bobo doll?
         - the child who did not see the adult with the bobo doll, hit it an average of 2 times
         - those who did watch hit the doll an average of 62 times
 
-- What did these children learn? 
-    - according to Sandura, they learned how to be violent 
-    - Bandura felt that this had some implications for the effects of violence on television, and in the movies, on children 
-    - argued that children learn that it is good to be violent by watching people being rewarded for violent behaviour 
-    - what it did was say to behaviourism that do matter 
+- What did these children learn?
+    - according to Sandura, they learned how to be violent
+    - Bandura felt that this had some implications for the effects of violence on television, and in the movies, on children
+    - argued that children learn that it is good to be violent by watching people being rewarded for violent behaviour
+    - what it did was say to behaviourism that do matter
 
 ## <a name="4f"></a>The Big Picture: The Fundamental Issues Being Addressed
 
-- Big Difference between Nature vs Nurture 
-    - behaviourists focused most on nurture 
-    - Watson believed that he could take twenty children and turn them into anything 
-    - Skinner believed that he could create a utopian society through behaviourist principles 
-    - nature side of things, children have this inborn ability to learn language 
+- Big Difference between Nature vs Nurture
+    - behaviourists focused most on nurture
+    - Watson believed that he could take twenty children and turn them into anything
+    - Skinner believed that he could create a utopian society through behaviourist principles
+    - nature side of things, children have this inborn ability to learn language
 
-- Could Behaviourism explain what was really important? 
-    - How applicable is the science of psychology to everyday life? 
-    - Can it explain what really goes on? 
-    - behaviourism could not explain how we learn by watching, nor could it explain how we learn language. 
+- Could Behaviourism explain what was really important?
+    - How applicable is the science of psychology to everyday life?
+    - Can it explain what really goes on?
+    - behaviourism could not explain how we learn by watching, nor could it explain how we learn language.
 
-- Is there still a role for behaviourism? 
-    - behaviourism can still be used to control some behaviours 
+- Is there still a role for behaviourism?
+    - behaviourism can still be used to control some behaviours
 
 ----------
 
@@ -1119,15 +1119,15 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 
 ## <a name="5a"></a>Developmental Psychology II: The Big Picture
 
-- Physical Development 
-    - We will focus on big changes early and late 
-- Cognitive Development 
-    - Piaget's Theory 
-    - Recent evidence extending and qualifying this theory 
-- Social Development 
-    - Attachment Theory 
-    - Erikson's Theory 
-    - Gender Development 
+- Physical Development
+    - We will focus on big changes early and late
+- Cognitive Development
+    - Piaget's Theory
+    - Recent evidence extending and qualifying this theory
+- Social Development
+    - Attachment Theory
+    - Erikson's Theory
+    - Gender Development
 
 ## <a name="5b"></a>Physical Development
 
@@ -1164,24 +1164,24 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 
 ### <a name="5c1"></a>An Introduction to Piaget's Theory
 
-- Piaget's Theory 
-    - early psychologist who started his work in the early 1900s and was still active in the 1950s 
+- Piaget's Theory
+    - early psychologist who started his work in the early 1900s and was still active in the 1950s
     - rather than doing experiments, Piaget developed his theory by actually playing with children
-    - based on what they did, he would design theories about how they develop 
-    - proposed that there were stages of development, which is one of the controversial aspects of his theory 
+    - based on what they did, he would design theories about how they develop
+    - proposed that there were stages of development, which is one of the controversial aspects of his theory
 
-- Do you think of development as being in stages in which one thing must happen before the next, or do you think of development as being continuous? 
+- Do you think of development as being in stages in which one thing must happen before the next, or do you think of development as being continuous?
 
 - **Schema**
-    - a way to think about the world, to understand the world 
-    - Piaget argued that in each of the stages, there is one type of way of thinking about the world that is the dominate schema; the way to think about the world at that point in time 
+    - a way to think about the world, to understand the world
+    - Piaget argued that in each of the stages, there is one type of way of thinking about the world that is the dominate schema; the way to think about the world at that point in time
 
-- When you have schemas, two different processes can happen: 
-    1. Assimilation 
+- When you have schemas, two different processes can happen:
+    1. Assimilation
         - happens within a stage, which means that you **add more information to your schema**
-        - you assimilate information to your schema, the way you think about the world 
-    2. Accomodation 
-        - **the schema is changed when new information comes in**, you change the way you think about the world 
+        - you assimilate information to your schema, the way you think about the world
+    2. Accomodation
+        - **the schema is changed when new information comes in**, you change the way you think about the world
 
 - Example of Schemas - The Classroom
     - At the beginning, you come to classroom, start to study and take notes, that becomes the impression of the classroom, and this is assimilation
@@ -1201,56 +1201,56 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 - Some notes:
     - Object permanence:
         - developed at about eight months
-        - Piaget believes that early on a child will only recognize an object if they are currently sensing it 
+        - Piaget believes that early on a child will only recognize an object if they are currently sensing it
         - if it is not in their sensory field it is gone, it does not exist
-        - object permanence is the idea that an object retains its form and is there even when it cannot be sensed 
+        - object permanence is the idea that an object retains its form and is there even when it cannot be sensed
     - Stranger anxiety:
-        - intense fear of people the child does not know 
-        - the child learns the permanency of the mother and protests their absence 
+        - intense fear of people the child does not know
+        - the child learns the permanency of the mother and protests their absence
         - stranger anxiety develops once the child has object permanence
     - Lacking logical reasoning:
         - Lack of conservation: even with same count, child in this age will usually choose the ones that takes more space (looks more)
     - Egocentrism:
         - can't see someone else's perspective
-        - can only see things from their perspective 
+        - can only see things from their perspective
     - Conservation and Mathematical transformation:
-        - according to Piaget, in order to get these problems right, they must have objects in front of them 
+        - according to Piaget, in order to get these problems right, they must have objects in front of them
     - Formal operation:
-        - this distinction between concrete operations and formal operations is the most controversial aspect of Piaget's theory 
+        - this distinction between concrete operations and formal operations is the most controversial aspect of Piaget's theory
 
 ### <a name="5c3"></a>Extensions and Qualifications of Piaget's Theory
 
-- Does object permanence really emerge at or around 8 months of age? 
-    - No. We are going to see that children actually understand object permanence in a more general way much earlier on, and learn bits and pieces of it at a time. 
+- Does object permanence really emerge at or around 8 months of age?
+    - No. We are going to see that children actually understand object permanence in a more general way much earlier on, and learn bits and pieces of it at a time.
 
-- Focus on University of Waterloo Research - Infant Cognition (Dr. Andrea Aguiar) 
-    - demonstrates that children do understand object permanence earlier than 8 months and that it happens in two week intervals 
-    - 90% of the babies in the research project showed this response 
-    - at 2.5 months there seems to be a simple rule, if it is behind something you won't see it 
-        - Please note: in this research two dolls were used. This is why the dolls are not seen in the gaps. 
-    - at 2.5 to 3.0 months they learn about seeing things in gaps 
-    - between 3.0 to 3.5 months they learn about heights 
+- Focus on University of Waterloo Research - Infant Cognition (Dr. Andrea Aguiar)
+    - demonstrates that children do understand object permanence earlier than 8 months and that it happens in two week intervals
+    - 90% of the babies in the research project showed this response
+    - at 2.5 months there seems to be a simple rule, if it is behind something you won't see it
+        - Please note: in this research two dolls were used. This is why the dolls are not seen in the gaps.
+    - at 2.5 to 3.0 months they learn about seeing things in gaps
+    - between 3.0 to 3.5 months they learn about heights
 
-- Egocentrism and Research on Theory of Mind 
-    - the notion that you can understand what someone else is thinking 
-    - remember that Piaget believed that egocentrism went on until children reached about seven 
-    - theory of mind makes a parallel point to the research on object permanence 
-    - gradually children begin to gain more and more of a theory of mind with age 
-    - there are different aspects that they understand about what the other person is thinking 
-    - as adults we may understand that we all think differently, but we don't have a complete grasp of what the other person is actually thinking 
+- Egocentrism and Research on Theory of Mind
+    - the notion that you can understand what someone else is thinking
+    - remember that Piaget believed that egocentrism went on until children reached about seven
+    - theory of mind makes a parallel point to the research on object permanence
+    - gradually children begin to gain more and more of a theory of mind with age
+    - there are different aspects that they understand about what the other person is thinking
+    - as adults we may understand that we all think differently, but we don't have a complete grasp of what the other person is actually thinking
     - A puzzle:
         - This is Sally. This is Anne.
-        - Sally puts her ball in the red cupboard 
-        - Sally goes away 
-        - Anne moves the ball to the blue cupboard 
-        - Where will Sally look for her ball? 
+        - Sally puts her ball in the red cupboard
+        - Sally goes away
+        - Anne moves the ball to the blue cupboard
+        - Where will Sally look for her ball?
     - Children's response:
-        - have children consistently say that Sally would look in the blue cupboard where they know it is 
-        - they think the other person knows what they know 
-        - begin to see children solving this puzzle much earlier than seven 
+        - have children consistently say that Sally would look in the blue cupboard where they know it is
+        - they think the other person knows what they know
+        - begin to see children solving this puzzle much earlier than seven
 
-- Development is more continuous and happens earlier than Piaget proposed 
-    - children begin to learn the tasks that Piaget set out much earlier than he recognized 
+- Development is more continuous and happens earlier than Piaget proposed
+    - children begin to learn the tasks that Piaget set out much earlier than he recognized
     - methodology was great for figuring out what children do, but not fine grained enough to explain when they begin the various phases, nor that it is a gradual process
     - Dr. Andrea Aguiar's research is a great example of the modern trend in developmental psychology, noting some important extensions and qualifications of Piaget's theory
 
@@ -1258,45 +1258,45 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 
 ### <a name="5d1"></a>Attachment Theory
 
-- Harlow's Monkey Studies 
-    - what Harlow did was separate baby monkeys from their mothers to be raised by two different types of mothers 
-    - Which surrogate mother will the monkey like better? 
-    - the monkey chooses the soft terryclothed mother, and reaches across only to get food 
-    - Harlow believed that these studies demonstrated the importance of care and nurturing of the young, and that contact is crucial in the early development 
+- Harlow's Monkey Studies
+    - what Harlow did was separate baby monkeys from their mothers to be raised by two different types of mothers
+    - Which surrogate mother will the monkey like better?
+    - the monkey chooses the soft terryclothed mother, and reaches across only to get food
+    - Harlow believed that these studies demonstrated the importance of care and nurturing of the young, and that contact is crucial in the early development
 
-- The theory behind attachment theory 
-    - we have an inborn need to bond with our caregiver 
+- The theory behind attachment theory
+    - we have an inborn need to bond with our caregiver
     - this bonding is crucial for the social development of the child
-    - that relationship will be the basis for all other relationships that that individual will have 
+    - that relationship will be the basis for all other relationships that that individual will have
 
-- The strange situation 
-    - developed by Mary Ainsworth 
+- The strange situation
+    - developed by Mary Ainsworth
     - have mothers have infant about 12 months old
     - make mother going into a room with lots of toys, lots of things to do
     - then make mother leave
-    - What happens to the child? How does the child respond when the mother leaves? 
-    - How did the child respond when the mother came back? 
-    - **Secure attachment pattern**: child is somewhat upset to see mother leave, but very happy when mother returns 
-    - **Anxious attachment pattern**: the child would scream and be very upset when mother left, and would be overly clingy when she returned 
-    - **Avoidant attachment pattern**: child is either upset or not when mother leaves, but does not want to have anything to do with her when she comes back 
-    - These patterns can be divided into secure and insecure patterns: 
-        - Secure attachment: a child who misses the mother seeks reunion, but is able to deal with time on their own 
-        - Insecure attachment: either doesn't miss their mother or isn't able to deal with being on their own 
+    - What happens to the child? How does the child respond when the mother leaves?
+    - How did the child respond when the mother came back?
+    - **Secure attachment pattern**: child is somewhat upset to see mother leave, but very happy when mother returns
+    - **Anxious attachment pattern**: the child would scream and be very upset when mother left, and would be overly clingy when she returned
+    - **Avoidant attachment pattern**: child is either upset or not when mother leaves, but does not want to have anything to do with her when she comes back
+    - These patterns can be divided into secure and insecure patterns:
+        - Secure attachment: a child who misses the mother seeks reunion, but is able to deal with time on their own
+        - Insecure attachment: either doesn't miss their mother or isn't able to deal with being on their own
     - What different does this make?
 
-- What attachment predicts 
-    - can predict the number of friends children will make when going to school 
-        - securely attached infants between 1 and 1.5 are better at making friends and have more friends when in school 
-        - sense of social competence when being securely attached 
-    - there is evidence that suggests that people who are good with having secure attachments are the ones who develop good adult relationships 
-    - this would suggest that trust can be taught through a stable, loving relationship with the primary caregiver 
+- What attachment predicts
+    - can predict the number of friends children will make when going to school
+        - securely attached infants between 1 and 1.5 are better at making friends and have more friends when in school
+        - sense of social competence when being securely attached
+    - there is evidence that suggests that people who are good with having secure attachments are the ones who develop good adult relationships
+    - this would suggest that trust can be taught through a stable, loving relationship with the primary caregiver
 
 ### <a name="5d2"></a>Erikson's Theory
 
 - theory goes from infancy to old age
-- Erikson's ideas have some Freudian roots to them 
-- believed that there were certain challenges that needed to be dealt with at certain points in one's life 
-- whether you succeed in accomplishing those challenges is the primary social issue at each stage in life 
+- Erikson's ideas have some Freudian roots to them
+- believed that there were certain challenges that needed to be dealt with at certain points in one's life
+- whether you succeed in accomplishing those challenges is the primary social issue at each stage in life
 
 - Erikson's Stages of Psychosocial Development
 
@@ -1314,37 +1314,37 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 - Note:
     - From research it is quite clear that this theory isn't quite right
 
-- Criticisms of Erikson's theory 
-    - one of the big criticisms of Erikson's theory is that it is culture bound 
-    - the average age that people are getting married is much later than in the 30s when Erikson developed this theory 
-    - How many individuals actually figure out their sense of identity while in their adolescence? 
-    - autonomy, the idea that we are separate individuals living our lives our own way, is a fairly western idea and not nearly as true for many other cultures 
-    - theory doesn't do a very good job of explaining who is likely to have problems and who isn't 
-    - example of Bill Clinton 
-    - example of premature babies 
-    - theory is more of a framework rather than any type of serious stage model 
+- Criticisms of Erikson's theory
+    - one of the big criticisms of Erikson's theory is that it is culture bound
+    - the average age that people are getting married is much later than in the 30s when Erikson developed this theory
+    - How many individuals actually figure out their sense of identity while in their adolescence?
+    - autonomy, the idea that we are separate individuals living our lives our own way, is a fairly western idea and not nearly as true for many other cultures
+    - theory doesn't do a very good job of explaining who is likely to have problems and who isn't
+    - example of Bill Clinton
+    - example of premature babies
+    - theory is more of a framework rather than any type of serious stage model
 
 ### <a name="5d3"></a>Gender Development
 
-- A common observation is that children's behaviour, and particularly their play, is gender stereotyped. 
-    - Is it the way their parents treat them? 
-    - we see in attachment theory and in Erikson's theory that parents shape their children and determine what they will be like 
-    - a number of studies have shown that parents do not really have that much influence over their children, especially in gender stereotyped behaviour 
+- A common observation is that children's behaviour, and particularly their play, is gender stereotyped.
+    - Is it the way their parents treat them?
+    - we see in attachment theory and in Erikson's theory that parents shape their children and determine what they will be like
+    - a number of studies have shown that parents do not really have that much influence over their children, especially in gender stereotyped behaviour
     - there is no relationship between the way in which parents treat their children, what values the parents have, and how the children tum out
-    - learning gender Stereotypes is almost like learning an accent 
-    - we pick it up more from the society at large, and those that are around us, than from our parents as a whole 
+    - learning gender Stereotypes is almost like learning an accent
+    - we pick it up more from the society at large, and those that are around us, than from our parents as a whole
 
-- Social Learning Theory 
+- Social Learning Theory
     - this is the bobo doll version of gender development
-    - basically you watch others to see what gets rewarded and what gets punished 
-    - by the way boys and girls are punished and rewarded due to their gender, one can learn from that observation and imitation of models, and can develop this gender type behaviour 
-    - parents are implicated somewhat under the assumption that they would be the primary models, but it is suggested that one can observe this behaviour from a wide array of people 
+    - basically you watch others to see what gets rewarded and what gets punished
+    - by the way boys and girls are punished and rewarded due to their gender, one can learn from that observation and imitation of models, and can develop this gender type behaviour
+    - parents are implicated somewhat under the assumption that they would be the primary models, but it is suggested that one can observe this behaviour from a wide array of people
 
-- Gender Schema Theory 
+- Gender Schema Theory
     - argues that from the beginning you have a cultural learning of gender which gives you a gender schema, a way of looking at the self in the world through the gender lens
-    - think of self as male or female, and the culture tells you what that is supposed to be 
-    - gender organized thinking, and gender-typed behaviour model explains why boys and girls tend to have same sex friends 
-    - both the social earning theory and the gender schema theory probably occur and work together to produce this gender behaviour 
+    - think of self as male or female, and the culture tells you what that is supposed to be
+    - gender organized thinking, and gender-typed behaviour model explains why boys and girls tend to have same sex friends
+    - both the social earning theory and the gender schema theory probably occur and work together to produce this gender behaviour
 
 ----------
 
@@ -1352,30 +1352,30 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 
 ## <a name="6a"></a>Cognitive Psychology I - Memory: The Big Picture
 
-- Memory as information processing 
-    - stages and events of memory 
-- Effortful memory 
-    - when we are trying to learn and remember 
-- Memory without awareness 
-    - when we remember things we do not realize we remember 
-- The fragility of memory 
-    - our memories are often a distorted view of reality 
+- Memory as information processing
+    - stages and events of memory
+- Effortful memory
+    - when we are trying to learn and remember
+- Memory without awareness
+    - when we remember things we do not realize we remember
+- The fragility of memory
+    - our memories are often a distorted view of reality
 
 ## <a name="6b"></a>Stages of Memory
 
 ![sensory](imgs/6b_sensory.jpg)
 - The different timings of memory
     - **External events**
-        - **Sensory input**: Sensory memory registers incoming information, allowing your brain to capture for a fleeting moment a sea of faces. 
+        - **Sensory input**: Sensory memory registers incoming information, allowing your brain to capture for a fleeting moment a sea of faces.
     - **Sensory memory**: the immediate, initial recording of sensory information in the memory system
-        - **Attention to important or novel information**: We pay attention to and encode important or novel stimuli - in this case an angry face in the crowd; or we can say, sensory memory encode to short-term memory. 
+        - **Attention to important or novel information**: We pay attention to and encode important or novel stimuli - in this case an angry face in the crowd; or we can say, sensory memory encode to short-term memory.
     - **Short-term memory**: activated memory that holds a few items briefly, such as the seven digits of a phone number while dialing, before the information is stored or forgotten
-        - **Encoding**: If we stare at the face long enough (rehearsal), or if we're suaciently disturbed by it (it's deemed "important"), we will encode It for long-term storage, and we will, an hour later, be able to call up an image of the face.
+        - **Encoding**: If we stare at the face long enough (rehearsal), or if we're sufficiently disturbed by it (it's deemed "important"), we will encode it for long-term storage, and we will, an hour later, be able to call up an image of the face.
         - **Retrieval**: When we back long-term memory out to short-term memory
     - **Long-term memory**: the relatively permanent and limitless storehouse of the memory system.
 
-- Think of it in terms of the process that occurs in making memory happen 
-    - process Of encoding, storage and retrieval 
+- Think of it in terms of the process that occurs in making memory happen
+    - process of encoding, storage and retrieval
     - we can have problems when we don't remember things:
         - the information may **not have been encoded properly**
         - could have trouble remembering information if it has gotten **lost in storage**
@@ -1386,19 +1386,19 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 ### <a name="6c1"></a>How much do we retain?
 
 ![retainshortterm](imgs/6c1_retainshortterm.jpg)
-- How long do you retain information in short-term memory? 
-    - remember these three letters but while you are doing that, count backwards from 100 
-    - short-term memory is limited not only in terms of the length, but also in how much we can hold there 
-    - the basic rule is the short term memory can only hold seven plus or minus two objects 
-    - this rule was discovered by Bell labs, the telephone company 
+- How long do you retain information in short-term memory?
+    - remember these three letters but while you are doing that, count backwards from 100
+    - short-term memory is limited not only in terms of the length, but also in how much we can hold there
+    - the basic rule is the short term memory can only hold seven plus or minus two objects
+    - this rule was discovered by Bell labs, the telephone company
 
 ![retainlongterm](imgs/6c1_retainlongterm.jpg)
-- How long do you retain information in long-term memory? 
-    - we forget much of what we learn 
+- How long do you retain information in long-term memory?
+    - we forget much of what we learn
         - note that this is recall, not recognition
 
 ![relearn](imgs/6c1_relearn.jpg)
-- We can relearn information fairly quickly from Ebbinghaus' Retentinon Curve above (or called Relearning Curve)
+- We can relearn information fairly quickly from Ebbinghaus' Retention Curve above (or called Relearning Curve)
     - as rehearsal increases, relearning time decreases
     - suggests that the information is being retained somewhere, and should be available for later use
     - repetition does seem to aid memory
@@ -1406,10 +1406,10 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 ### <a name="6c2"></a>Cues that Influence Memory
 
 - Ebbinghaus' basic ideas can be dramatically influenced by cues
-- there are all kinds of different cues that can influence memory 
+- there are all kinds of different cues that can influence memory
 
-- Semantic cues are helpful for memory 
-    - These semantic cues greatly improved the memory for whichever diagram the subjects were given the semantic cue for. 
+- Semantic cues are helpful for memory
+    - These semantic cues greatly improved the memory for whichever diagram the subjects were given the semantic cue for.
 
 ![encodingtype](imgs/6c2_encodingtype.jpg)
 
@@ -1419,33 +1419,33 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
     - **Visual**: written in capitals...
     - Seems like sematic are best
 
-- Cues related to the self-concept are even better 
-    - the best cues for memory are those that can be processed by, and are relevant to, the individual 
-    - if you understand how it matters to you, you will remember it better 
-    - **Self-reference effect**: seeing how something refers to the self helps one to remember it better than anything else could 
-    - self-centredness to memory 
+- Cues related to the self-concept are even better
+    - the best cues for memory are those that can be processed by, and are relevant to, the individual
+    - if you understand how it matters to you, you will remember it better
+    - **Self-reference effect**: seeing how something refers to the self helps one to remember it better than anything else could
+    - self-centredness to memory
 
-- Context effects 
+- Context effects
     - other cues can happen through the environment, or situation, that you are in
 
-- State dependent memory 
-    - we are better at remembering things if we are in the same state we were in when the information was learnt 
-    - alcohol and memory studies 
+- State dependent memory
+    - we are better at remembering things if we are in the same state we were in when the information was learnt
+    - alcohol and memory studies
 
-- Mood 
-    - we tend to remember things that are consistent with the mood that we are in 
-    - those who are depressed tend to remember only the sad things that they have dealt with in their lives 
-    - this is not a very good prescription for getting out of the depressive state that they are in 
+- Mood
+    - we tend to remember things that are consistent with the mood that we are in
+    - those who are depressed tend to remember only the sad things that they have dealt with in their lives
+    - this is not a very good prescription for getting out of the depressive state that they are in
 
 ![scuba](imgs/6c2_scuba.jpg)
-- The Scuba Divers Study 
+- The Scuba Divers Study
     - Learn/remember of words in water/on land
     - showed that: greater recall **when learning and testing contexts are the same**
 
 ### <a name="6c3"></a>Interference in Memory
 
-- there is interference that occurs between the new that we are learning and the old information that we already know 
-- learning one language can actually facilitate learning another, but it can also cause interference 
+- there is interference that occurs between the new that we are learning and the old information that we already know
+- learning one language can actually facilitate learning another, but it can also cause interference
 
 ![proretro](imgs/6c3_proretro.jpg)
 
@@ -1454,97 +1454,97 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 
 ### <a name="6c4"></a>Strategies to Improve Memory
 
-- Mnemonics 
+- Mnemonics
     - _sayings or patterns that can be developed to help to remember things_
-    - mnemonics will only assist in remembering lists of items, not their meanings 
-    - musical scales - every good boy does fine 
-    - OCEAN - Openness, Conscientiousness, Extroversion, Agreeableness, Neuroticism 
-    - often just knowing a list of things is not useful 
+    - mnemonics will only assist in remembering lists of items, not their meanings
+    - musical scales - every good boy does fine
+    - OCEAN - Openness, Conscientiousness, Extroversion, Agreeableness, Neuroticism
+    - often just knowing a list of things is not useful
 
-- Chunking 
+- Chunking
     - _groups items together into different groups_
-    - particularly helpful for short-term memory, in that it allows you to keep more information 
-    - chunking also allows for a smaller number of things to remember at one time 
+    - particularly helpful for short-term memory, in that it allows you to keep more information
+    - chunking also allows for a smaller number of things to remember at one time
 
-- So that's it for effortful memory 
-    - we know that our memories are not as good as most of us would like 
-    - we know that our memory is sensitive to lots of different cues 
-    - we know that the more we learn, the more we can get confused with knowledge we have already retained 
-    - we know that there are various strategies that can help improve memory 
+- So that's it for effortful memory
+    - we know that our memories are not as good as most of us would like
+    - we know that our memory is sensitive to lots of different cues
+    - we know that the more we learn, the more we can get confused with knowledge we have already retained
+    - we know that there are various strategies that can help improve memory
 
-## <a name="6d"></a>Memory Without Awareness
+## <a name="6d"></a>Memory without Awareness
 
-- we can be innuenced by a number of things outside our awareness that can affect our memory 
+- we can be influenced by a number of things outside our awareness that can affect our memory
 - **Priming** - audio taken from in class demonstration: remember words including "ocean", "sand", "moon", when request to prompt a brand of detergent, most people come up with "Tide"
-- very subtly priming the concept without the subject realizing that it is influencing them 
-- this is very closely related to the of memory without awareness 
+- very subtly priming the concept without the subject realizing that it is influencing them
+- this is very closely related to the of memory without awareness
 
-- Study of amnesiacs 
-    - there are many different types of amnesia 
-    - head injuries can cause an individual to forget what happened shortly before the accident as a result of the jarring of the brain 
-    - persons who have epileptic seizures will experience a period of time in which they don't remember 
-    - what is different about amnesiacs is that they have suffered brain damage so they can never remember anything that happens in the future because it does not make it into their long-term memory 
+- Study of amnesiacs
+    - there are many different types of amnesia
+    - head injuries can cause an individual to forget what happened shortly before the accident as a result of the jarring of the brain
+    - persons who have epileptic seizures will experience a period of time in which they don't remember
+    - what is different about amnesiacs is that they have suffered brain damage so they can never remember anything that happens in the future because it does not make it into their long-term memory
 
-- Study of amnesiacs 
-    - University of Toronto - Dan Schacter and the story of the golfer  
+- Study of amnesiacs
+    - University of Toronto - Dan Schacter and the story of the golfer
     - someone who play golf really well but can't remember he has play golf before
     - **Procedural memory**
-        - able to do something even though the individual is not aware that they can do it 
-        - see a difference between what they hold in consciousness, what they are able to consciously know about, and what they are able to do 
+        - able to do something even though the individual is not aware that they can do it
+        - see a difference between what they hold in consciousness, what they are able to consciously know about, and what they are able to do
 
-- Despite having no knowledge people can learn various tasks 
-    - through various tasks developed by cognitive psychologists, it can be shown that people can learn even though they are not aware that they have 
-    - Study at McMaster University - the famous name study 
-        - Week 1 - the subjects were given a list of names to learn 
-        - Week 2 - pick out from the list of names all the people who were famous 
+- Despite having no knowledge people can learn various tasks
+    - through various tasks developed by cognitive psychologists, it can be shown that people can learn even though they are not aware that they have
+    - Study at McMaster University - the famous name study
+        - Week 1 - the subjects were given a list of names to learn
+        - Week 2 - pick out from the list of names all the people who were famous
         - Result - picked out the names from the list from week 1 as the famous people
-        - basic task shows that the group has learned something, but that they are not aware that they have learned something 
-    - Another way of doing this: 
-        - Week 1 - give subjects a long list of words to learn 
-        - Week 2 - give them word stems, and have them complete the first three letters with whatever comes to mind 
-        - Result - complete the word stem with the words that they learned in week 1 
+        - basic task shows that the group has learned something, but that they are not aware that they have learned something
+    - Another way of doing this:
+        - Week 1 - give subjects a long list of words to learn
+        - Week 2 - give them word stems, and have them complete the first three letters with whatever comes to mind
+        - Result - complete the word stem with the words that they learned in week 1
 
-- Learning without awareness is something that happens to all of us 
-    - affects all of us and guides much of our behaviour even though we have never been consciously aware that we have learned it 
+- Learning without awareness is something that happens to all of us
+    - affects all of us and guides much of our behaviour even though we have never been consciously aware that we have learned it
 
 ## <a name="6e"></a>The Fragility of Memory
 
-- Memory Construction - The Construction of Automobile Destruction (Elizabeth Loftus) 
-    - showed subjects automobile accidents and asked them how fast the automobiles were going when the made contact With each Other, or when they crashed into eachother 
-    - Results - 30 kph for bump, 45 kph for crash 
-    - study is important for many reasons, one of which is trials 
-    - the whole legal system is based on the supposition that eyewitnesses know What really happened 
+- Memory Construction - The Construction of Automobile Destruction (Elizabeth Loftus)
+    - showed subjects automobile accidents and asked them how fast the automobiles were going when the made contact with each other, or when they crashed into each other
+    - Results - 30 kph for bump, 45 kph for crash
+    - study is important for many reasons, one of which is trials
+    - the whole legal system is based on the supposition that eyewitnesses know What really happened
 
-- We tend to remember what we want to remember 
+- We tend to remember what we want to remember
     - Study on the Study Skills course at U of Waterloo
-        - what people remember is how much they have learned and how much their studying has improved 
-        - what is really true is that they exaggerate how bad they were before they started 
-        - we often paint ourselves in a positive light in our memory, and as we project for the future 
+        - what people remember is how much they have learned and how much their studying has improved
+        - what is really true is that they exaggerate how bad they were before they started
+        - we often paint ourselves in a positive light in our memory, and as we project for the future
 
-- We remember what we want to remember. Do we also forget what we want to forget? 
-    - it is not so easy to forget What we want to forget 
-    - the more thoughts are surpressed, the more often they back into mind 
+- We remember what we want to remember. Do we also forget what we want to forget?
+    - it is not so easy to forget What we want to forget
+    - the more thoughts are surpressed, the more often they back into mind
     - post-traumatic stress disorder
-    - although memories can be constructed very well, it is more difficult to control or block things out 
+    - although memories can be constructed very well, it is more difficult to control or block things out
 
-- Recovered memories 
-    - Psychodynamic orientation - repressed memories from traumatic events in childhood 
-    - others believe that memories from childhood are just constructions 
-    - when people recover memories later on in life it can often be a result of hypnosis, guided imagery and other techniques 
-    - the question is whether these are false memories or are they a memory of what really happened 
-    - memories can be constructed through the retelling of stories from our childhood by others 
+- Recovered memories
+    - Psychodynamic orientation - repressed memories from traumatic events in childhood
+    - others believe that memories from childhood are just constructions
+    - when people recover memories later on in life it can often be a result of hypnosis, guided imagery and other techniques
+    - the question is whether these are false memories or are they a memory of what really happened
+    - memories can be constructed through the retelling of stories from our childhood by others
 
-- Cautions 
-    - research has been able to show that some memories that children have could be constructions of things that never happened 
-    - it is a lot easier to show that something is false than to show that something is true 
-    - Some of the things that lead to inaccuracy 
-        - younger children have less accurate memories 
-        - memories that occurred under hypnosis or guided imagery are less likely to be accurate 
-        - as are certain drugs like sodium pentathol 
-    - Other memories are more likely to be accurate 
-        - memories that people have always had some recollection of 
-    - research also suggests that in these cases it is very important to do more investigative work 
-    - dramatic demonstration of the fragility of our memories 
+- Cautions
+    - research has been able to show that some memories that children have could be constructions of things that never happened
+    - it is a lot easier to show that something is false than to show that something is true
+    - Some of the things that lead to inaccuracy
+        - younger children have less accurate memories
+        - memories that occurred under hypnosis or guided imagery are less likely to be accurate
+        - as are certain drugs like sodium pentathol
+    - Other memories are more likely to be accurate
+        - memories that people have always had some recollection of
+    - research also suggests that in these cases it is very important to do more investigative work
+    - dramatic demonstration of the fragility of our memories
 
 ----------
 
