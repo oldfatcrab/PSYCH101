@@ -969,7 +969,7 @@ A Simple Reflex:
 ## <a name="4b"></a>Classical Conditioning
 
 - Pavlov and his dogs 
-    - had test tubes hocked up to saliva glands Of dogs to collect the spit 
+    - had test tubes hocked up to saliva glands of dogs to collect the spit 
     - noticed after a few days of giving them food, that every time he walked up to the dogs to give them food, the saliva would start to flow 
     - the question became, _Why were they salivating before the food was given to them?_
 
@@ -982,7 +982,7 @@ A Simple Reflex:
     - **The neutral stimulus alone now produces a conditioned response (CR), thereby becoming a conditioned stimulus (CS)**: now let the dog hear metronome again then the dog starts salivation
 
 - What is learning and unlearning? 
-    - In Classical conditioning, learning is the association Of a conditioned stimulus or neutral stimulus With an  unconditioned stimulus to the extent that the conditioned stimulus produces the unconditioned response 
+    - In Classical conditioning, learning is the association of a conditioned stimulus or neutral stimulus With an  unconditioned stimulus to the extent that the conditioned stimulus produces the unconditioned response 
     - Pavlov didn't understand the implications of this very well: he did not realize what learning could come from this 
     - John Watson 
         - one of the early American behaviourists 
@@ -1074,7 +1074,7 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 - Bandura 
     - believed that **people did not have to learn through rewards or punishments, but could learn by watching others**
     - in order for this to happen one must have thoughts to intervene between what is going on 
-    - it is not just a matter Of being rewarded, one must make an inference that the same thing could happen to themselves 
+    - it is not just a matter of being rewarded, one must make an inference that the same thing could happen to themselves 
 
 - The Bobo Doll Study 
     - the adult proceeded to "beat" the bobo doll up
@@ -1149,7 +1149,7 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 - Physical Development in Old Age - The changes you expect
     - **skin** starts to wrinkle
     - **hair** gets grey
-    - many changes
+    - many other changes
 
 ## <a name="5c"></a>Cognitive Development
 
@@ -1163,20 +1163,20 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 
 - Do you think of development as being in stages in which one thing must happen before the next, or do you think of development as being continuous? 
 
-- Schema 
+- **Schema**
     - a way to think about the world, to understand the world 
     - Piaget argued that in each of the stages, there is one type of way of thinking about the world that is the dominate schema; the way to think about the world at that point in time 
 
 - When you have schemas, two different processes can happen: 
     1. Assimilation 
-        - happens within a stage, which means that you add more information to your schema 
+        - happens within a stage, which means that you **add more information to your schema**
         - you assimilate information to your schema, the way you think about the world 
     2. Accomodation 
-        - the schema is changed when new information comes in, you change the way you think about the world 
+        - **the schema is changed when new information comes in**, you change the way you think about the world 
 
 - Example of Schemas - The Classroom
     - At the beginning, you come to classroom, start to study and take notes, that becomes the impression of the classroom, and this is assimilation
-    - Some time later, you get into the same room again, but in the room it starts plays, then it become a theatre and your mind will change too, this is accomodation (to the new experience)
+    - Sometime later, you get into the same room again, but in the room it starts plays, then it becomes a theatre and your mind will change too, this is accommodation (to the new experience)
 
 ### <a name="5c2"></a>Piaget's Stages of Cognitive Development
 
@@ -1185,7 +1185,7 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 | Typical Age Range          | Description of stage                                                                                                                   | Developmental Phenomena                              |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | Birth to nearly 2 years    | **Sensorimotor**: Experiencing the world through senses and actions (looking, touching, mouthing and grasping)                         | Object permanence; Stranger anxiety                  |
-| About 2 to 6 years         | **Preoperational**: Representing things with words and images but lacking logical reasoning                                            | Pretent play; Egocentrism; Language development      |
+| About 2 to 6 years         | **Preoperational**: Representing things with words and images but lacking logical reasoning                                            | Pretend play; Egocentrism; Language development      |
 | About 2 to 6 years         | **Concrete operational**: Thinking logically about concrete events; grasping concrete analogies and performing arithmetical operations | Conservation; Mathematical transformations           |
 | About 12 through adulthood | **Formal operational**: Abstract reasoning                                                                                             | Abstract logic; Potential for mature moral reasoning |
 
@@ -1205,19 +1205,19 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
         - can't see someone else's perspective
         - can only see things from their perspective 
     - Conservation and Mathematical transformation:
-        - according to Piaget, in order to et these roblems right, they must have objects in front of them 
+        - according to Piaget, in order to get these problems right, they must have objects in front of them 
     - Formal operation:
         - this distinction between concrete operations and formal operations is the most controversial aspect of Piaget's theory 
 
 ### <a name="5c3"></a>Extensions and Qualifications of Piaget's Theory
 
 - Does object permanence really emerge at or around 8 months of age? 
-    - No. We are going to see that children actually understand object permanence in a more general way much earlier on, and learn bits and pieces Of it at a time. 
+    - No. We are going to see that children actually understand object permanence in a more general way much earlier on, and learn bits and pieces of it at a time. 
 
 - Focus on University of Waterloo Research - Infant Cognition (Dr. Andrea Aguiar) 
     - demonstrates that children do understand object permanence earlier than 8 months and that it happens in two week intervals 
     - 90% of the babies in the research project showed this response 
-    - at 2.5 months there seems to be a simple rule, if it is behind something you wont see it 
+    - at 2.5 months there seems to be a simple rule, if it is behind something you won't see it 
         - Please note: in this research two dolls were used. This is why the dolls are not seen in the gaps. 
     - at 2.5 to 3.0 months they learn about seeing things in gaps 
     - between 3.0 to 3.5 months they learn about heights 
@@ -1269,7 +1269,7 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
     - How did the child respond when the mother came back? 
     - **Secure attachment pattern**: child is somewhat upset to see mother leave, but very happy when mother returns 
     - **Anxious attachment pattern**: the child would scream and be very upset when mother left, and would be overly clingy when she returned 
-    - **Avoidant attachment pattern**: child is either upset or not when mother leaves, Pbut does not want to have anything to do with her when she comes back 
+    - **Avoidant attachment pattern**: child is either upset or not when mother leaves, but does not want to have anything to do with her when she comes back 
     - These patterns can be divided into secure and insecure patterns: 
         - Secure attachment: a child who misses the mother seeks reunion, but is able to deal with time on their own 
         - Insecure attachment: either doesn't miss their mother or isn't able to deal with being on their own 
@@ -1296,10 +1296,10 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 | _Infancy_ (to 1 year)                    | Trust vs. mistrust           | If needs are dependably met, infants develop a sense of basic trust                                                                                         |
 | _Toddlerhood_ (1 to 2 years)             | Autonomy vs. shame and doubt | Toddlers learn to exercise will and do things for themselves, or they doubt their abilities                                                                 |
 | _Preschooler_ (3 to 5 years)             | Initiative vs. guilt         | Preschoolers learn to initiate task and carry out plans, or they feel guilty about efforts to be independent                                                |
-| _Elementary school_ (6 years to puberty) | Competence vs. inferionty    | Children learn the pleasure of applying themselves to tasks, or they feel inferior                                                                          |
-| _Adolescence_ (teen years into 20s)      | Identity vs. role confusion  | Teenagers work at refining a sense of self by testing roles and then,integrating them to form a single identity, or they become confused,about who they are |
+| _Elementary school_ (6 years to puberty) | Competence vs. inferiority    | Children learn the pleasure of applying themselves to tasks, or they feel inferior                                                                          |
+| _Adolescence_ (teen years into 20s)      | Identity vs. role confusion  | Teenagers work at refining a sense of self by testing roles and then integrating them to form a single identity, or they become confused about who they are |
 | _Young adulthood_ (20s to early 40s)     | Intimacy vs. isolation       | Young adults struggle to form close relationships and gain the capacity for intimate love, or they feel socially isolated                                   |
-| _Middle aduthood_ (40s to 60s)           | Generativity vs. stagnation  | The middle-aged discover a sense of contributing to the world, usually through family and work, or they may feel a lack of purpose                          |
+| _Middle adulthood_ (40s to 60s)           | Generativity vs. stagnation  | The middle-aged discover a sense of contributing to the world, usually through family and work, or they may feel a lack of purpose                          |
 | _Late adulthood_ (late 60s and up)       | Integrity vs. despair        | When reflecting on his or her life, the older adult may feel a sense of satisfaction or failure                                                             |
 
 - Note:
