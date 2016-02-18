@@ -1352,243 +1352,199 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 
 ## <a name="6a"></a>Cognitive Psychology I - Memory: The Big Picture
 
-Memory as information processing 
-stages and events of memory 
-Effortful memory 
-when we are trying to learn and remember 
-Memory without awareness 
-when we remember things we do not realize we remember 
-The fragility of memory 
-our memories are often a distorted view of reality 
+- Memory as information processing 
+    - stages and events of memory 
+- Effortful memory 
+    - when we are trying to learn and remember 
+- Memory without awareness 
+    - when we remember things we do not realize we remember 
+- The fragility of memory 
+    - our memories are often a distorted view of reality 
 
 ## <a name="6b"></a>Stages of Memory
 
-Sensory memory registers incoming 
-information, allowing your brain to 
-ca ture for a fleeting moment a sea 
-of ?aces. 
-ensory memo 
-e Imme I 
-cording of sensory information in th 
-We pay attention to and encode important 
-or novel stimuli - in this case an angry face 
-in the crowd. 
-If we stare at the face Ion enough 
-(rehearsal), or if we're suaciently 
-disturbed by it (it's deemed "important"), 
-we will encode It for long-term storage, 
-and we will, an hour later, be able to 
-call up an image of the face. 
-at holds a few items briefly, such as th 
-even digits of a phone number while 
-ialing, before the information is stored 
-Long-term memory - the relatively 
-permanent and limitless storehous 
-of the memory system 
-Think Of it in terms Of the process that occurs in making memory happen 
-• process Of encoding, storage and retrieval 
-we can have problems when we don't remember things 
-• the information may not have been encoded properly 
-could have trouble remembering information if it has gotten lost in storage 
-• can have trouble retrieving the information 
+![sensory](imgs/6b_sensory.jpg)
+- The different timings of memory
+    - **External events**
+        - **Sensory input**: Sensory memory registers incoming information, allowing your brain to capture for a fleeting moment a sea of faces. 
+    - **Sensory memory**: the immediate, initial recording of sensory information in the memory system
+        - **Attention to important or novel information**: We pay attention to and encode important or novel stimuli - in this case an angry face in the crowd; or we can say, sensory memory encode to short-term memory. 
+    - **Short-term memory**: activated memory that holds a few items briefly, such as the seven digits of a phone number while dialing, before the information is stored or forgotten
+        - **Encoding**: If we stare at the face long enough (rehearsal), or if we're suaciently disturbed by it (it's deemed "important"), we will encode It for long-term storage, and we will, an hour later, be able to call up an image of the face.
+        - **Retrieval**: When we back long-term memory out to short-term memory
+    - **Long-term memory**: the relatively permanent and limitless storehouse of the memory system.
+
+- Think of it in terms of the process that occurs in making memory happen 
+    - process Of encoding, storage and retrieval 
+    - we can have problems when we don't remember things:
+        - the information may **not have been encoded properly**
+        - could have trouble remembering information if it has gotten **lost in storage**
+        - can **have trouble retrieving the information**
 
 ## <a name="6c"></a>Effortful Memory
 
-
 ### <a name="6c1"></a>How much do we retain?
 
-How long do you retain information in short-term memory? 
-• remember these three letters but while you are doing that, count backwards from 100 
-short-term memory is limited not only in terms of the 
-length, but also in how much we can hold there 
-the basic rule is the short term memory can only hold 
-seven plus or minus two objects 
-this rule was discovered by Bell labs, the telephone 
-company 
-How long do you retain information in long-term memory? 
-we forget much of what we learn 
-We can relearn information fairly quickly 
-• Ebbinghaus' basic ideas can be dramatically influenced by cues 
-there are all kinds of different cues that can influence memory 
+![retainshortterm](imgs/6c1_retainshortterm.jpg)
+- How long do you retain information in short-term memory? 
+    - remember these three letters but while you are doing that, count backwards from 100 
+    - short-term memory is limited not only in terms of the length, but also in how much we can hold there 
+    - the basic rule is the short term memory can only hold seven plus or minus two objects 
+    - this rule was discovered by Bell labs, the telephone company 
+
+![retainlongterm](imgs/6c1_retainlongterm.jpg)
+- How long do you retain information in long-term memory? 
+    - we forget much of what we learn 
+        - note that this is recall, not recognition
+
+![relearn](imgs/6c1_relearn.jpg)
+- We can relearn information fairly quickly from Ebbinghaus' Retentinon Curve above (or called Relearning Curve)
+    - as rehearsal increases, relearning time decreases
+    - suggests that the information is being retained somewhere, and should be available for later use
+    - repetition does seem to aid memory
 
 ### <a name="6c2"></a>Cues that Influence Memory
 
-Semantic cues are helpful for memory 
-Take out a piece of pape nd draw those two pictures 
-that you saw at the beginning o Concept 6a. 
-Pause th udio and aw away! 
-Semantic cues are helpful for memory 
-These semantic cues greatly improved the memory for whichever diagram the subjects were given 
-the semantic cue for. 
-Cues related to the self-concept are even better 
-the best cues for memory are those that can be 
-processed by, and are relevant to, the individual 
-if you understand how it matters to you, you will 
-remember it better 
-Self-reference effect - seeing how something 
-refers to the self helps one to remember it better 
-than anything else could 
-self-centredness to memory 
-Context effects 
-State dependent memory 
-• we are better at remembering things if we are in the 
-same state we were in when the information was learnt 
-• alcohol and memory studies 
-Mood 
-we tend to remember things that are consistent with 
-the mood that we are in 
-those who are depressed tend to remember only the 
-sad things that they have dealt with in their lives 
-this is not a very good prescription for getting out of 
-the depressive state that they are in 
-The Scuba Divers Study 
+- Ebbinghaus' basic ideas can be dramatically influenced by cues
+- there are all kinds of different cues that can influence memory 
+
+- Semantic cues are helpful for memory 
+    - These semantic cues greatly improved the memory for whichever diagram the subjects were given the semantic cue for. 
+
+![encodingtype](imgs/6c2_encodingtype.jpg)
+
+- Type of encoding
+    - **Semantic**: the meaning, type of...
+    - **Acoustic**: rhymes with...
+    - **Visual**: written in capitals...
+    - Seems like sematic are best
+
+- Cues related to the self-concept are even better 
+    - the best cues for memory are those that can be processed by, and are relevant to, the individual 
+    - if you understand how it matters to you, you will remember it better 
+    - **Self-reference effect**: seeing how something refers to the self helps one to remember it better than anything else could 
+    - self-centredness to memory 
+
+- Context effects 
+    - other cues can happen through the environment, or situation, that you are in
+
+- State dependent memory 
+    - we are better at remembering things if we are in the same state we were in when the information was learnt 
+    - alcohol and memory studies 
+
+- Mood 
+    - we tend to remember things that are consistent with the mood that we are in 
+    - those who are depressed tend to remember only the sad things that they have dealt with in their lives 
+    - this is not a very good prescription for getting out of the depressive state that they are in 
+
+![scuba](imgs/6c2_scuba.jpg)
+- The Scuba Divers Study 
+    - Learn/remember of words in water/on land
+    - showed that: greater recall when learning and testing contexts are the same
 
 ### <a name="6c3"></a>Interference in Memory
 
-. there is interference that occurs between the new that we are learning and the old information 
-that we already know 
-learning one language can actually facilitate learning another, but it can also cause interference 
+- there is interference that occurs between the new that we are learning and the old information that we already know 
+- learning one language can actually facilitate learning another, but it can also cause interference 
+
+![proretro](imgs/proretro.jpg)
+
+- **Proactive interference**: happens when what you have learnt previously screws up what you are trying to learn now
+- **Retroactive interference**: what you know learn screws up what you used to know
 
 ### <a name="6c4"></a>Strategies to Improve Memory
 
-Mnemonics 
-sayings or patterns that can be developed to help to 
-remember things 
-mnemonics will only assist in remembering lists of 
-items, not their meanings 
-musical scales - every good boy does fine 
-OCEAN - Openness, Conscientiousness, Extroversion, 
-Agreeableness, Neuroticism 
-often just knowing a list of things is not useful 
-Chunking 
-• groups items together into different groups 
-• particularly helpful for short-term memory, in that it 
-allows you to keep more information 
-• chunking also allows for a smaller number of things 
-to remember at one time 
-So that's it for effortful memory 
-we know that our memories are not as good as 
-most of us would like 
-we know that our memory is sensitive to lots of 
-different cues 
-we know that the more we learn, the more we 
-can get confused with knowledge we have already 
-retained 
-we know that there are various strategies that can 
-help improve memory 
+- Mnemonics 
+    - sayings or patterns that can be developed to help to remember things 
+    - mnemonics will only assist in remembering lists of items, not their meanings 
+    - musical scales - every good boy does fine 
+    - OCEAN - Openness, Conscientiousness, Extroversion, Agreeableness, Neuroticism 
+    - often just knowing a list of things is not useful 
+
+- Chunking 
+    - groups items together into different groups 
+    - particularly helpful for short-term memory, in that it allows you to keep more information 
+    - chunking also allows for a smaller number of things to remember at one time 
+
+- So that's it for effortful memory 
+    - we know that our memories are not as good as most of us would like 
+    - we know that our memory is sensitive to lots of different cues 
+    - we know that the more we learn, the more we can get confused with knowledge we have already retained 
+    - we know that there are various strategies that can help improve memory 
 
 ## <a name="6d"></a>Memory Without Awareness
 
-• we can be innuenced by a number of things outside our awareness that can affect our memory 
-. Priming - audio taken from in class demonstration 
-very subtly priming the concept without the subject realizing that it is influencing them 
-• this is very closely related to the of memory without awareness 
-Write down your favourite band. 
-Everclear? Great Big Sea? 
-Write down your favourite coffee. 
-I don't drink coffee? 
-Write down a brand of laundry detergent. 
-Tide? 
-Now write down the list of words. 
-Ocean, sand, moon.....all things related to the tide 
-Study of amnesiacs 
-there are many different types of amnesia 
-head injuries can cause an individual to forget what 
-happened shortly before the accident as a result of the 
-jarring of the brain 
-persons who have epileptic seizures will experience a 
-period of time in which they don't remember 
-what is different about amnesiacs is that they have 
-suffered brain damage so they can never remember 
-anything that happens in the future because it does 
-not make it into their long-term memory 
-Dan Schacter and the story of the golfer 
-Study of amnesiacs 
-University of Toronto - 
-Procedural memory 
-• able to do something even though the individual is not 
-aware that they can do it 
-• see a difference between what they hold in consciousness, 
-what they are able to consciously know about, and what 
-they are able to do 
-Despite having no knowledge people can learn various tasks 
-• through various tasks developed by cognitive psychologists, it can be shown that people can learn even 
-though they are not aware that they have 
-Study at McMaster University - the famous name study 
-• Week 1 - the subjects were given a list of names 
-to learn 
-• Week 2 - pick out from the list of names all the 
-people who were famous 
-Result - picked out the names from the list from 
-week 1 as the famous people 
-basic task shows that the group has learned some- 
-thing, but that they are not aware that they have 
-learned something 
-Another way of doing this: 
-• Week 1 - give subjects a long list of words to 
-learn 
-• Week 2 - give them word stems, and have them 
-complete the first three letters with whatever 
-comes to mind 
-• Result - complete the word stem with the words 
-that they learned in week 1 
-Learning without awareness is something that happens to all of us 
-• affects all of us and uides much of our behaviour even though we have never been consciously 
-aware that we have ?earned it 
+- we can be innuenced by a number of things outside our awareness that can affect our memory 
+- Priming - audio taken from in class demonstration
+- very subtly priming the concept without the subject realizing that it is influencing them 
+- this is very closely related to the of memory without awareness 
+
+- Study of amnesiacs 
+    - there are many different types of amnesia 
+    - head injuries can cause an individual to forget what happened shortly before the accident as a result of the jarring of the brain 
+    - persons who have epileptic seizures will experience a period of time in which they don't remember 
+    - what is different about amnesiacs is that they have suffered brain damage so they can never remember anything that happens in the future because it does not make it into their long-term memory 
+
+- Study of amnesiacs 
+    - University of Toronto - Dan Schacter and the story of the golfer  
+    - someone who play golf really well but can't remember he has play golf before
+    - Procedural memory 
+        - able to do something even though the individual is not aware that they can do it 
+        - see a difference between what they hold in consciousness, what they are able to consciously know about, and what they are able to do 
+
+- Despite having no knowledge people can learn various tasks 
+    - through various tasks developed by cognitive psychologists, it can be shown that people can learn even though they are not aware that they have 
+    - Study at McMaster University - the famous name study 
+        - Week 1 - the subjects were given a list of names to learn 
+        - Week 2 - pick out from the list of names all the people who were famous 
+        - Result - picked out the names from the list from week 1 as the famous people
+        - basic task shows that the group has learned something, but that they are not aware that they have learned something 
+    - Another way of doing this: 
+        - Week 1 - give subjects a long list of words to learn 
+        - Week 2 - give them word stems, and have them complete the first three letters with whatever comes to mind 
+        - Result - complete the word stem with the words that they learned in week 1 
+
+- Learning without awareness is something that happens to all of us 
+    - affects all of us and guides much of our behaviour even though we have never been consciously aware that we have learned it 
 
 ## <a name="6e"></a>The Fragility of Memory
 
-Memory Construction - The Construction of Automobile Destruction (Elizabeth Loftus) 
-• showed subjects automobile accidents and asked them how fast the automobiles were going when the 
-made contact With each Other, or when they crashed into eachother 
-Results - 30 kph for bump, 45 kph for crash 
-• study is important for many reasons, one of which is trials 
-• the whole legal system is based on the supposition that eyewitnesses know What really happened 
-We tend to remember what we want to remember 
-Study on the Study Skills course at U of W 
-what people remember is how much they have learned 
-and how much their studying has improved 
-what is really true is that they exaggerate how bad they 
-were before they started 
-we often paint ourselves in a positive light 
-in our memory, and as we project for the future 
-We remember what we want to remember. DO we also forget what we want to forget? 
-it is not so easy to forget What we want to forget 
-• the more thoughts are surpressed, the more often they 
-back 'nto mind 
-• post-traumatic stress disorder 
-althou h memories can be constructed very well, it is 
-more d ult to control or block th'ngs out 
-Recovered memories 
-Psychodynamic orientation - repressed memories from 
-traumatic events in childhood 
-others believe that memories from childhood are just 
-constructions 
-when people recover memories later on in life it can often 
-be a result of hypnosis, guided imagery and other 
-techniques 
-the question is whether these are false memories or are 
-they a memory of what really happened 
-memories can be constructed through the retelling of 
-stories from our childhood by others 
-Cautions 
-research has been able to show that some memories 
-that children have could be constructions of things that 
-never happened 
-it is a lot easier to show that something is false than to 
-show that something is true 
-Cautions 
-Some of the things that lead to inaccuracy 
-• younger children have less accurate memories 
-• memories that occurred under hypnosis or guided 
-imagery are less likely to be accurate 
-• as are certain drugs like sodium pentathol 
-Other memories are more likely to be accurate 
-memories that people have always had some 
-recollection of 
-research also suggests that in these cases it is very 
-important to do more investigative work 
-dramatic demonstration of the fragility of our memories 
+- Memory Construction - The Construction of Automobile Destruction (Elizabeth Loftus) 
+    - showed subjects automobile accidents and asked them how fast the automobiles were going when the made contact With each Other, or when they crashed into eachother 
+    - Results - 30 kph for bump, 45 kph for crash 
+    - study is important for many reasons, one of which is trials 
+    - the whole legal system is based on the supposition that eyewitnesses know What really happened 
+
+- We tend to remember what we want to remember 
+    - Study on the Study Skills course at U of Waterloo
+        - what people remember is how much they have learned and how much their studying has improved 
+        - what is really true is that they exaggerate how bad they were before they started 
+        - we often paint ourselves in a positive light in our memory, and as we project for the future 
+
+- We remember what we want to remember. Do we also forget what we want to forget? 
+    - it is not so easy to forget What we want to forget 
+    - the more thoughts are surpressed, the more often they back into mind 
+    - post-traumatic stress disorder
+    - although memories can be constructed very well, it is more difficult to control or block things out 
+
+- Recovered memories 
+    - Psychodynamic orientation - repressed memories from traumatic events in childhood 
+    - others believe that memories from childhood are just constructions 
+    - when people recover memories later on in life it can often be a result of hypnosis, guided imagery and other techniques 
+    - the question is whether these are false memories or are they a memory of what really happened 
+    - memories can be constructed through the retelling of stories from our childhood by others 
+
+- Cautions 
+    - research has been able to show that some memories that children have could be constructions of things that never happened 
+    - it is a lot easier to show that something is false than to show that something is true 
+    - Some of the things that lead to inaccuracy 
+        - younger children have less accurate memories 
+        - memories that occurred under hypnosis or guided imagery are less likely to be accurate 
+        - as are certain drugs like sodium pentathol 
+    - Other memories are more likely to be accurate 
+        - memories that people have always had some recollection of 
+    - research also suggests that in these cases it is very important to do more investigative work 
+    - dramatic demonstration of the fragility of our memories 
 
 ----------
 
