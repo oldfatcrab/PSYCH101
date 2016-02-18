@@ -58,6 +58,16 @@ Cues:
     - [Observational Learning](#4e)
     - [The Big Picture: The Fundamental Issues Being Addressed](#4f)
 - <a name="module5"></a>[Lecture 05: Developmental Psychology II](#5)
+    - [Developmental Psychology II: The Big Picture](#5a)
+    - [Physical Development](#5b)
+    - [Cognitive Development](#5c)
+        - [An Introduction to Piaget's Theory](#5c1)
+        - [Piaget's Stages of Cognitive Development](#5c2)
+        - [Extensions and Qualifications of Piaget's Theory](#5c3)
+    - [Social Development](#5d)
+        - [Attachment Theory](#5d1)
+        - [Erikson's Theory](#5d2)
+        - [Gender Development](#5d3)
 - <a name="module6"></a>[Lecture 06: Cognitive Psychology I](#6)
 - <a name="module7"></a>[Lecture 07: Cognitive Psychology II](#7)
 - <a name="module8"></a>[Lecture 08: Clinical Psychology I](#8)
@@ -1093,3 +1103,236 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 
 - Is there still a role for behaviourism? 
     - behaviourism can still be used to control some behaviours 
+
+----------
+
+# <a name="5"></a>Lecture 05: Developmental Psychology II
+
+## <a name="5a"></a>Developmental Psychology II: The Big Picture
+
+- Physical Development 
+    - We will focus on big changes early and late 
+- Cognitive Development 
+    - Piaget's Theory 
+    - Recent evidence extending and qualifying this theory 
+- Social Development 
+    - Attachment Theory 
+    - Erikson's Theory 
+    - Gender Development 
+
+## <a name="5b"></a>Physical Development
+
+![physicaldevelopment](imgs/5b_physicaldevelopment.jpg)
+
+- Physical Development in Infancy
+    - Rolling over
+    - Grasping rattle
+    - Sitting without support
+    - Standing while holding on
+    - Walking well
+    - Building towers of two blocks
+    - Walking up steps
+
+![physicaldevelopmentold](imgs/5b_physicaldevelopmentold.jpg)
+
+- Physical Development in Old Age - Declines the Senses
+    - **Vision**: Proportions of normal (20/20) vision when identifying letters on an eye chart
+    - **Smell**: Percent correct when identifying smells
+    - **Hearing**: Percent correct when identifying spoken words
+    - Dramatic decline at the end of lives (years 70s to 90s)
+
+![caraccidents](imgs/5b_caraccidents.jpg)
+
+- Physical Development in Old Age - Fatal Car Accidents
+    - The accident rate jumps over 65, especially when measured per miles driven
+
+- Physical Development in Old Age - The changes you expect
+    - **skin** starts to wrinkle
+    - **hair** gets grey
+    - many changes
+
+## <a name="5c"></a>Cognitive Development
+
+### <a name="5c1"></a>An Introduction to Piaget's Theory
+
+- Piaget's Theory 
+    - early psychologist who started his work in the early 1900s and was still active in the 1950s 
+    - rather than doing experiments, Piaget developed his theory by actually playing with children
+    - based on what they did, he would design theories about how they develop 
+    - proposed that there were stages of development, which is one of the controversial aspects of his theory 
+
+- Do you think of development as being in stages in which one thing must happen before the next, or do you think of development as being continuous? 
+
+- Schema 
+    - a way to think about the world, to understand the world 
+    - Piaget argued that in each of the stages, there is one type of way of thinking about the world that is the dominate schema; the way to think about the world at that point in time 
+
+- When you have schemas, two different processes can happen: 
+    1. Assimilation 
+        - happens within a stage, which means that you add more information to your schema 
+        - you assimilate information to your schema, the way you think about the world 
+    2. Accomodation 
+        - the schema is changed when new information comes in, you change the way you think about the world 
+
+- Example of Schemas - The Classroom
+    - At the beginning, you come to classroom, start to study and take notes, that becomes the impression of the classroom, and this is assimilation
+    - Some time later, you get into the same room again, but in the room it starts plays, then it become a theatre and your mind will change too, this is accomodation (to the new experience)
+
+### <a name="5c2"></a>Piaget's Stages of Cognitive Development
+
+- Piaget's Stages of Development
+
+| Typical Age Range          | Description of stage                                                                                                                   | Developmental Phenomena                              |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Birth to nearly 2 years    | **Sensorimotor**: Experiencing the world through senses and actions (looking, touching, mouthing and grasping)                         | Object permanence; Stranger anxiety                  |
+| About 2 to 6 years         | **Preoperational**: Representing things with words and images but lacking logical reasoning                                            | Pretent play; Egocentrism; Language development      |
+| About 2 to 6 years         | **Concrete operational**: Thinking logically about concrete events; grasping concrete analogies and performing arithmetical operations | Conservation; Mathematical transformations           |
+| About 12 through adulthood | **Formal operational**: Abstract reasoning                                                                                             | Abstract logic; Potential for mature moral reasoning |
+
+- Some notes:
+    - Object permanence:
+        - developed at about eight months
+        - Piaget believes that early on a child will only recognize an object if they are currently sensing it 
+        - if it is not in their sensory field it is gone, it does not exist
+        - object permanence is the idea that an object retains its form and is there even when it cannot be sensed 
+    - Stranger anxiety:
+        - intense fear of people the child does not know 
+        - the child learns the permanency of the mother and protests their absence 
+        - stranger anxiety develops once the child has object permanence
+    - Lacking logical reasoning:
+        - Lack of conservation: even with same count, child in this age will usually choose the ones that takes more space (looks more)
+    - Egocentrism:
+        - can't see someone else's perspective
+        - can only see things from their perspective 
+    - Conservation and Mathematical transformation:
+        - according to Piaget, in order to et these roblems right, they must have objects in front of them 
+    - Formal operation:
+        - this distinction between concrete operations and formal operations is the most controversial aspect of Piaget's theory 
+
+### <a name="5c3"></a>Extensions and Qualifications of Piaget's Theory
+
+- Does object permanence really emerge at or around 8 months of age? 
+    - No. We are going to see that children actually understand object permanence in a more general way much earlier on, and learn bits and pieces Of it at a time. 
+
+- Focus on University of Waterloo Research - Infant Cognition (Dr. Andrea Aguiar) 
+    - demonstrates that children do understand object permanence earlier than 8 months and that it happens in two week intervals 
+    - 90% of the babies in the research project showed this response 
+    - at 2.5 months there seems to be a simple rule, if it is behind something you wont see it 
+        - Please note: in this research two dolls were used. This is why the dolls are not seen in the gaps. 
+    - at 2.5 to 3.0 months they learn about seeing things in gaps 
+    - between 3.0 to 3.5 months they learn about heights 
+
+- Egocentrism and Research on Theory of Mind 
+    - the notion that you can understand what someone else is thinking 
+    - remember that Piaget believed that egocentrism went on until children reached about seven 
+    - theory of mind makes a parallel point to the research on object permanence 
+    - gradually children begin to gain more and more of a theory of mind with age 
+    - there are different aspects that they understand about what the other person is thinking 
+    - as adults we may understand that we all think differently, but we don't have a complete grasp of what the other person is actually thinking 
+    - A puzzle:
+        - This is Sally. This is Anne.
+        - Sally puts her ball in the red cupboard 
+        - Sally goes away 
+        - Anne moves the ball to the blue cupboard 
+        - Where will Sally look for her ball? 
+    - Children's response:
+        - have children consistently say that Sally would look in the blue cupboard where they know it is 
+        - they think the other person knows what they know 
+        - begin to see children solving this puzzle much earlier than seven 
+
+- Development is more continuous and happens earlier than Piaget proposed 
+    - children begin to learn the tasks that Piaget set out much earlier than he recognized 
+    - methodology was great for figuring out what children do, but not fine grained enough to explain when they begin the various phases, nor that it is a gradual process
+    - Dr. Andrea Aguiar's research is a great example of the modern trend in developmental psychology, noting some important extensions and qualifications of Piaget's theory
+
+## <a name="5d"></a>Social Development
+
+### <a name="5d1"></a>Attachment Theory
+
+- Harlow's Monkey Studies 
+    - what Harlow did was separate baby monkeys from their mothers to be raised by two different types of mothers 
+    - Which surrogate mother will the monkey like better? 
+    - the monkey chooses the soft terryclothed mother, and reaches across only to get food 
+    - Harlow believed that these studies demonstrated the importance of care and nurturing of the young, and that contact is crucial in the early development 
+
+- The theory behind attachment theory 
+    - we have an inborn need to bond with our caregiver 
+    - this bonding is crucial for the social development of the child
+    - that relationship will be the basis for all other relationships that that individual will have 
+
+- The strange situation 
+    - developed by Mary Ainsworth 
+    - have mothers have infant about 12 months old
+    - make mother going into a room with lots of toys, lots of things to do
+    - then make mother leave
+    - What happens to the child? How does the child respond when the mother leaves? 
+    - How did the child respond when the mother came back? 
+    - **Secure attachment pattern**: child is somewhat upset to see mother leave, but very happy when mother returns 
+    - **Anxious attachment pattern**: the child would scream and be very upset when mother left, and would be overly clingy when she returned 
+    - **Avoidant attachment pattern**: child is either upset or not when mother leaves, Pbut does not want to have anything to do with her when she comes back 
+    - These patterns can be divided into secure and insecure patterns: 
+        - Secure attachment: a child who misses the mother seeks reunion, but is able to deal with time on their own 
+        - Insecure attachment: either doesn't miss their mother or isn't able to deal with being on their own 
+    - What different does this make?
+
+- What attachment predicts 
+    - can predict the number of friends children will make when going to school 
+        - securely attached infants between 1 and 1.5 are better at making friends and have more friends when in school 
+        - sense of social competence when being securely attached 
+    - there is evidence that suggests that people who are good with having secure attachments are the ones who develop good adult relationships 
+    - this would suggest that trust can be taught through a stable, loving relationship with the primary caregiver 
+
+### <a name="5d2"></a>Erikson's Theory
+
+- theory goes from infancy to old age
+- Erikson's ideas have some Freudian roots to them 
+- believed that there were certain challenges that needed to be dealt with at certain points in one's life 
+- whether you succeed in accomplishing those challenges is the primary social issue at each stage in life 
+
+- Erikson's Stages of Psychosocial Development
+
+| Typical Age Range                        | Issues                       | Description of Task                                                                                                                                         |
+|------------------------------------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| _Infancy_ (to 1 year)                    | Trust vs. mistrust           | If needs are dependably met, infants develop a sense of basic trust                                                                                         |
+| _Toddlerhood_ (1 to 2 years)             | Autonomy vs. shame and doubt | Toddlers learn to exercise will and do things for themselves, or they doubt their abilities                                                                 |
+| _Preschooler_ (3 to 5 years)             | Initiative vs. guilt         | Preschoolers learn to initiate task and carry out plans, or they feel guilty about efforts to be independent                                                |
+| _Elementary school_ (6 years to puberty) | Competence vs. inferionty    | Children learn the pleasure of applying themselves to tasks, or they feel inferior                                                                          |
+| _Adolescence_ (teen years into 20s)      | Identity vs. role confusion  | Teenagers work at refining a sense of self by testing roles and then,integrating them to form a single identity, or they become confused,about who they are |
+| _Young adulthood_ (20s to early 40s)     | Intimacy vs. isolation       | Young adults struggle to form close relationships and gain the capacity for intimate love, or they feel socially isolated                                   |
+| _Middle aduthood_ (40s to 60s)           | Generativity vs. stagnation  | The middle-aged discover a sense of contributing to the world, usually through family and work, or they may feel a lack of purpose                          |
+| _Late adulthood_ (late 60s and up)       | Integrity vs. despair        | When reflecting on his or her life, the older adult may feel a sense of satisfaction or failure                                                             |
+
+- Note:
+    - From research it is quite clear that this theory isn't quite right
+
+- Criticisms of Erikson's theory 
+    - one of the big criticisms of Erikson's theory is that it is culture bound 
+    - the average age that people are getting married is much later than in the 30s when Erikson developed this theory 
+    - How many individuals actually figure out their sense of identity while in their adolescence? 
+    - autonomy, the idea that we are separate individuals living our lives our own way, is a fairly western idea and not nearly as true for many other cultures 
+    - theory doesn't do a very good job of explaining who is likely to have problems and who isn't 
+    - example of Bill Clinton 
+    - example of premature babies 
+    - theory is more of a framework rather than any type of serious stage model 
+
+### <a name="5d3"></a>Gender Development
+
+- A common observation is that children's behaviour, and particularly their play, is gender stereotyped. 
+    - Is it the way their parents treat them? 
+    - we see in attachment theory and in Erikson's theory that parents shape their children and determine what they will be like 
+    - a number of studies have shown that parents do not really have that much influence over their children, especially in gender stereotyped behaviour 
+    - there is no relationship between the way in which parents treat their children, what values the parents have, and how the children tum out
+    - learning gender Stereotypes is almost like learning an accent 
+    - we pick it up more from the society at large, and those that are around us, than from our parents as a whole 
+
+- Social Learning Theory 
+    - this is the bobo doll version of gender development
+    - basically you watch others to see what gets rewarded and what gets punished 
+    - by the way boys and girls are punished and rewarded due to their gender, one can learn from that observation and imitation of models, and can develop this gender type behaviour 
+    - parents are implicated somewhat under the assumption that they would be the primary models, but it is suggested that one can observe this behaviour from a wide array of people 
+
+- Gender Schema Theory 
+    - argues that from the beginning you have a cultural learning of gender which gives you a gender schema, a way of looking at the self in the world through the gender lens
+    - think of self as male or female, and the culture tells you what that is supposed to be 
+    - gender organized thinking, and gender-typed behaviour model explains why boys and girls tend to have same sex friends 
+    - both the social earning theory and the gender schema theory probably occur and work together to produce this gender behaviour 
