@@ -69,6 +69,15 @@ Cues:
         - [Erikson's Theory](#5d2)
         - [Gender Development](#5d3)
 - <a name="module6"></a>[Lecture 06: Cognitive Psychology I](#6)
+    - [Cognitive Psychology I - Memory: The Big Picture](#6a)
+    - [Stages of Memory](#6b)
+    - [Effortful Memory](#6c)
+        - [How much do we retain?](#6c1)
+        - [Cues that Influence Memory](#6c2)
+        - [Interference in Memory](#6c3)
+        - [Strategies to Improve Memory](#6c4)
+    - [Memory Without Awareness](#6d)
+    - [The Fragility of Memory](#6e)
 - <a name="module7"></a>[Lecture 07: Cognitive Psychology II](#7)
 - <a name="module8"></a>[Lecture 08: Clinical Psychology I](#8)
 - <a name="module9"></a>[Lecture 09: Clinical Psychology II](#9)
@@ -1337,15 +1346,12 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
     - gender organized thinking, and gender-typed behaviour model explains why boys and girls tend to have same sex friends 
     - both the social earning theory and the gender schema theory probably occur and work together to produce this gender behaviour 
 
+----------
 
+# <a name="6"></a>Lecture 06: Cognitive Psychology I
 
+## <a name="6a"></a>Cognitive Psychology I - Memory: The Big Picture
 
-
-
-
-
-
-Machine generated alternative text:
 Memory as information processing 
 stages and events of memory 
 Effortful memory 
@@ -1354,6 +1360,9 @@ Memory without awareness
 when we remember things we do not realize we remember 
 The fragility of memory 
 our memories are often a distorted view of reality 
+
+## <a name="6b"></a>Stages of Memory
+
 Sensory memory registers incoming 
 information, allowing your brain to 
 ca ture for a fleeting moment a sea 
@@ -1382,6 +1391,12 @@ we can have problems when we don't remember things
 • the information may not have been encoded properly 
 could have trouble remembering information if it has gotten lost in storage 
 • can have trouble retrieving the information 
+
+## <a name="6c"></a>Effortful Memory
+
+
+### <a name="6c1"></a>How much do we retain?
+
 How long do you retain information in short-term memory? 
 • remember these three letters but while you are doing that, count backwards from 100 
 short-term memory is limited not only in terms of the 
@@ -1395,6 +1410,9 @@ we forget much of what we learn
 We can relearn information fairly quickly 
 • Ebbinghaus' basic ideas can be dramatically influenced by cues 
 there are all kinds of different cues that can influence memory 
+
+### <a name="6c2"></a>Cues that Influence Memory
+
 Semantic cues are helpful for memory 
 Take out a piece of pape nd draw those two pictures 
 that you saw at the beginning o Concept 6a. 
@@ -1424,9 +1442,15 @@ sad things that they have dealt with in their lives
 this is not a very good prescription for getting out of 
 the depressive state that they are in 
 The Scuba Divers Study 
+
+### <a name="6c3"></a>Interference in Memory
+
 . there is interference that occurs between the new that we are learning and the old information 
 that we already know 
 learning one language can actually facilitate learning another, but it can also cause interference 
+
+### <a name="6c4"></a>Strategies to Improve Memory
+
 Mnemonics 
 sayings or patterns that can be developed to help to 
 remember things 
@@ -1452,6 +1476,9 @@ can get confused with knowledge we have already
 retained 
 we know that there are various strategies that can 
 help improve memory 
+
+## <a name="6d"></a>Memory Without Awareness
+
 • we can be innuenced by a number of things outside our awareness that can affect our memory 
 . Priming - audio taken from in class demonstration 
 very subtly priming the concept without the subject realizing that it is influencing them 
@@ -1508,6 +1535,9 @@ that they learned in week 1
 Learning without awareness is something that happens to all of us 
 • affects all of us and uides much of our behaviour even though we have never been consciously 
 aware that we have ?earned it 
+
+## <a name="6e"></a>The Fragility of Memory
+
 Memory Construction - The Construction of Automobile Destruction (Elizabeth Loftus) 
 • showed subjects automobile accidents and asked them how fast the automobiles were going when the 
 made contact With each Other, or when they crashed into eachother 
@@ -1559,3 +1589,6 @@ recollection of
 research also suggests that in these cases it is very 
 important to do more investigative work 
 dramatic demonstration of the fragility of our memories 
+
+----------
+
