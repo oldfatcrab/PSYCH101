@@ -813,7 +813,7 @@ A Simple Reflex:
     - **Bones of the middle ear**: 3 bones, transmitted mechanically
     - **Oval window**: where stirrup attaches
     - **Cochlea**: like seashell, turns physical stimulus into neural impulses
-    - **Semicircular canals**: important to balance
+    - <a name="3a2_canals"></a>**Semicircular canals**: important to [balance](#3a3_balance)
     - **Vestibular sacs**: have nothing to do with hearing
     - **Auditory nerve**
 
@@ -885,11 +885,11 @@ A Simple Reflex:
         - brain is blocking out the pain response with lots of other responses
         - endorphins, which are the body's natural pain killers, may shut the gate right at the spinal cord so that pain can't travel to the brain
 
-- Balance
+- <a name="3a3_balance"></a>Balance
     - feeling of be disoriented or dizzy - kinesthetic sense
     - seems to occur through two very different sense organs
     - the joints and muscles tell us the position of our body
-    - also the semi-circular canals in the ears tell us the vestibular sense or the position of our head
+    - also the [semi-circular canals](#3a2_canals) in the ears tell us the vestibular sense or the position of our head
     - it is those grains hitting the hairs that gives us this sense of balance and orientation, particularly for the head
 
 ## <a name="3b"></a>Focus on University of Waterloo Research – Synaesthesia
