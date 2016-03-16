@@ -79,8 +79,29 @@ Cues:
     - [Memory Without Awareness](#6d)
     - [The Fragility of Memory](#6e)
 - <a name="module7"></a>[Lecture 07: Cognitive Psychology II](#7)
+    - [Cognitive Psychology II: Perception, Preconceptions and Judgment](#7a)
+    - [Perception](#7b)
+    - [Our Knowledge and Preconceptions Shape Our Perceptions](#7c)
+    - [Judgment Under Uncertainty](#7d)
+        - [Schemas and Heuristics](#7d1)
+        - [Focus on University of Waterloo Research Priming & Time Judgments (Dr. Jennifer Stolz)](#7d2)
+        - [Artificial Intelligence - Do people think like computers?](#7d3)
 - <a name="module8"></a>[Lecture 08: Clinical Psychology I](#8)
+    - [Clinical Psychology I: Psychological Disorders](#8a)
+    - [Anxiety Disorders](#8b)
+    - [Mood Disorders](#8c)
+    - [Psychotic Disorders - Schizophrenia](#8d)
+    - [Dissociative Disorders - Multiple Personalities](#8e)
+    - [Personality Disorders](#8f)
 - <a name="module9"></a>[Lecture 09: Clinical Psychology II](#9)
+    - [Clinical Psychology II: Therapies – The Big Picture](#9a)
+    - [Anxiety Disorders](#9b)
+    - [Mood Disorders](#9c)
+    - [Schizophrenia](#9d)
+    - [Evaluating Psychotherapies](#9e)
+        - [Problems in Interpreting Effectiveness of Therapy](#9e1)
+        - [Focus on University of Waterloo Research on Therapy Effectiveness](#9e2)
+        - [Is Psychotherapy Effective?](#9e3)
 - <a name="module10"></a>[Lecture 10: Social Psychology I](#10)
 - <a name="module11"></a>[Lecture 11: Social Psychology II](#11)
 - <a name="module12"></a>[Lecture 12: Applications of Psychology](#12)
@@ -1548,3 +1569,698 @@ How does an organism learn to do this it doesn't normally do? How do you ever ge
 
 ----------
 
+# <a name="7"></a>Lecture 07: Cognitive Psychology II
+## <a name="7a"></a>Cognitive Psychology II: Perception, Preconceptions and Judgment
+## <a name="7b"></a>Perception
+## <a name="7c"></a>Our Knowledge and Preconceptions Shape Our Perceptions
+## <a name="7c"></a>Judgment Under Uncertainty
+### <a name="7d1"></a>Schemas and Heuristics
+### <a name="7d2"></a>Focus on University of Waterloo Research Priming & Time Judgments (Dr. Jennifer Stolz)
+### <a name="7d3"></a>Artificial Intelligence - Do people think like computers?
+
+Chapter 7 scratch
+
+Machine generated alternative text:
+Perception - the whole is not equal to the sum of its parts 
+Figure and ground in perception 
+Gestalt principles 
+Our knowledge and preconceptions shape our perceptions 
+Illusions 
+Perceptual set 
+Judgment under uncertainty 
+Heuristics in judgment 
+Artificial intelligence 
+Gestalt Psychologists 
+The whole is not equal to the sum of its parts 
+our thoughts and preconceptions shape what we 
+perceive 
+we don't perceive reality; reality may be out there in 
+the abstract, but our perceptions are our take on reality 
+we do not see exactly what is out there, our perceptions 
+are shaped by our thoughts 
+see through the lens of our thoughts and preconceptions 
+Depending on what you 
+Similarity 
+Connectedness 
+focus on you can see either 
+an old lady or a young 
+lady. 
+One of them is figure, 
+one of them is ground. 
+The whole can't be equal to 
+the sum of it's parts 
+because you cannot get two 
+different answers from 
+the same part. 
+Figure/ground perceptions 
+tell us that we taking the 
+stimuli and adding our 
+preconceptions and 
+understandings to it, thus 
+influencing what we see. 
+Gestalt Grouping Principles 
+Proximity 
+Continuity 
+Gestalt Grouping Principles 
+How many groups of lines 
+are there here? 
+Everybody does tend to 
+see three. 
+Group things that are close 
+together as being part Of 
+the same group. 
+There is meaning being 
+supplied, which in this 
+case, is physically not 
+there at all. 
+Gestalt psychologists' contribution to cognitive psychology 
+• able to show that thoughts and preconceptions, our beliefs, influence what we see in the world 
+MülIer-Lyer Illusion 
+Müller-Lyer Illusion 
+Angles are cues to Which 
+direction the corner is going. 
+With parallel lines, something 
+that is on the bottom looks 
+much smaller than something 
+on the top. 
+These two red swatches 
+are exactly the same size. 
+Most people in western society will 
+believe that B/C is longer than AB. 
+DO I perceive things as they really are or not? 
+Ponzo Illusion 
+We are supplying meaning from 
+our surroundings as we are 
+perceiving things. 
+Shepard Illusion 
+When we think about things, that 
+influences our perceptions of the world 
+as it is around us. 
+Another example of the context, the situation you are in, gets you thinking about the picture in a certain way, 
+which in turn influences perception. 
+The earlier preconception, the earlier 
+picture, gets people ready to perceive 
+the ambiguous one in a different way. 
+Which stands out as figure and which 
+stands out as ground can be influenced 
+by which picture you saw first. 
+Thoughts are influenced by the way we think about the world 
+in particular, our judgments that we make are influenced by how we typically view the world 
+Schemas 
+the ways in which we think about the world 
+how we come to understand what the world is like 
+shortcut summaries of what the world is like 
+Heuristics 
+simple ways to think about things 
+• shortcut strategies we use when we are making 
+decisions 
+Why do we need schemas? 
+there is so much information that we are exposed to 
+that we cannot possibly remember it all 
+we have to decide what we pay attention to and what 
+we do not pay attention to 
+we need to summarize all the information that is coming 
+in from all five senses and decide what is most important 
+if we are going to convey information to other people we 
+need schemas and heuristics to help us with effective 
+communication 
+schemas allow us to go beyond the information given 
+Schema allow us to go beyond the information given 
+The procedure is actually quite simple. First you arrange things into different groups. 
+Of course, one pile may be sufficient, depending on how much there is to do. If you 
+have to go somewhere else due to lack of facilities, that is the next step; otherwise 
+you are pretty well set. It is important not to overdo things. That is, it is better to do 
+too few things at once than too many. In the short run this may not seem important 
+but complications can easily arise. A mistake can be expensive as well. At first the 
+whole procedure will seem complicated. Soon, however, it will become just another 
+facet of life. It is difficult to foresee any end to the necessity for this task in the 
+immediate future, but then one can never tell. After the procedure is completed one 
+arranges the materials into different groups again. Eventually they will be used once 
+more and the whole cycle will then have to be repeated. 
+Like illusions, heuristics tell us about how we process information 
+Two important heuristics that influence our thinking 
+1. Representativeness heuristic 
+Linda is 31 years old, single, outspoken and very bright. She majored 
+in philosophy. As a student, she was deeply concerned with issues of 
+discrimination and social justice, and also participated in anti-nuclear 
+demonstrations. Which of the following is more probable? 
+A. Linda is a bank teller 
+B. Linda is a bank teller and active in the feminist movement 
+in the original study 97% Of the people said B 
+in the original study 97% of the people said B 
+if B is true, A is also true 
+making the judgment on representativeness 
+Like illusions, heuristics tell us about how we process information 
+Two important heuristics that influence our thinking 
+'k" as the 
+2. 
+Availablity heuristic 
+Are there more words in the English language with 
+first letter or "k" as the third letter? 
+A. "k" as the first letter 
+B. "k" as the third letter 
+about 70% say "k" is the first letter 
+there are actually three times as many words in the English language with "k" as the third 
+letter 
+it is much easier to think of words that begin with "k" and because of this we overestimate 
+how many there are 
+Like illusions, heuristics tell us about how we process information 
+Two important heuristics that influence our thinking 
+2. Availablity heuristic 
+If you go to the Middle East, should you be more concerned about 
+traffic accidents, or terrorist attacks? 
+A. traffic accidents 
+B. terrorist attacks 
+what you think about when thinking of the Middle East is terrorist attacks 
+By priming a concept, judgments about timing can be affected. 
+for half of the participants each trial begins with a very brief prime (example, bacon) 
+for the other participants there are no primes 
+next two different words come on the screen at almost the same time tone word is related to the 
+prime (example, eggs) the other word is unrelated to the prime (example, water)) 
+the subject is expected to push a key for the word which is presented first 
+Does the fact that you have been primed with the word bacon influence the judgment about which 
+word came first? 
+when people are not primed they are equally likely to judge that eggs and water appear first 
+when they are primed however, they are more likely to think that eggs appeared before water 
+because that concept has been primed, it appears to be presented quicker than it actually was 
+just the fact that bacon and eggs go together, changes how quickly we think the two words are 
+appearing on a screen 
+Computers and the development of computers had a big impact on cognitive 
+psychology 
+when it was realized that computers could think about things, 
+could generate answers, a whole model of cognitive psychology 
+was generated of how people could process information 
+information processing - computer metaphor 
+artificial intelligence was one of the areas of psychology 
+that grew in the 1970s and 80s 
+Do people think like computers? 
+• early on, cognitive psychology used the computer as a metaphor for how people think 
+• when cognitive psychology really took off, the emphasis was on trying to get computers to think 
+like people 
+the idea was that it would give insight into the way that people think about things 
+• when we discussed memory we talked about encoding, storage and retrieval, all terms related to 
+the computer 
+A couple of other things to keep in mind 
+people have found it quite useful to try to model theoretical though processes on the computer 
+one of the big lessons it has taught is how complex thought is and that people do not always think about 
+things with the same analytical strategies 
+remember that heuristics dont always make logical sense the way a computer would, but it would be very 
+hard to get a computer to use the same sorts of heuristics that we do 
+
+----------
+
+# <a name="8"></a>Lecture 08: Clinical Psychology I
+## <a name="8a"></a>Clinical Psychology I: Psychological Disorders
+## <a name="8b"></a>Anxiety Disorders
+## <a name="8c"></a>Mood Disorders
+## <a name="8d"></a>Psychotic Disorders - Schizophrenia
+## <a name="8e"></a>Dissociative Disorders - Multiple Personalities
+## <a name="8f"></a>Personality Disorders
+
+Machine generated alternative text:
+Five Different Classes of Disorders 
+Anxiety Disorders 
+Phobias 
+Mood Disorders 
+Depression, Bipolar Disorder 
+Psychotic Disorders 
+Schizophrenia 
+Dissociative Disorders 
+Multiple Personality Disorder/Dissociative Identity 
+Personality Disorders 
+Antisocial/Sociopath 
+Phobias 
+• irrational fear 
+• fairly common condition 
+phobias are quite treatable 
+Generalized Anxiety Disorder - Panic Disorder 
+• overwhelming sense of anxiety 
+• not localized as being caused by any particular thing 
+• can become quite debilitating 
+Generalized Anxiety Disorder - Panic Disorder 
+Associated with panic attacks 
+feel like their heart is going to stop 
+get very sweaty 
+feel like they cant breathe 
+overcome by panic attack and can't do anything else 
+while experiencing one 
+Generalized Anxiety Disorder - Panic Disorder 
+Agoraphobia 
+• fear of open places, of being out in the world 
+• fear Of having a panic attack while outside of their home 
+• cases where individuals have not left their homes for 
+twenty years 
+Obsessive Compulsive Disorder 
+• can vary from mildy obsessive to extremely obsessive and completely debilitating 
+Obsessive Compulsive Disorder 
+• Two things that characterize obsessive compulsive disorder 
+I. repetitive thoughts 
+2. repetitive behaviours 
+Obsessive Compulsive Disorder 
+Common Obsessions and Compulsions Among Children and Adolexcentes with Obsessive- 
+Compulsive Disorder 
+Thought or Behaviour 
+Obsessions (repetitive thoughts) 
+Concern with dirt, germs, or toxins 
+Something terrible happening (fire, death, illness) 
+Symmetry, order, or exactness 
+Compulsions (repetitive behaviours) 
+Excessive hand washing, bathing, tooth brushing, or grooming 
+Repeating rituals (in/out of a door, up/down from a chair) 
+Checking doors, locks, appliances, car brake, homework 
+*Seventy children and adolescents reported their symptoms. 
+Source:Adapted from Rapoport, 1989. 
+Explaining Anxiety Disorders 
+Psychoanalytic perspective 
+need therapy to solve some deep lying problem 
+which is causing the disorder 
+Example of Little Hans 
+case study that Freud used to develop his ideas 
+about the Oedipus Complex 
+Little Hans was incredibly frightened of horses 
+Freud believed that Little Hans had anxiety arising 
+from the Oedipus Complex which was being transfe 
+onto horses 
+terrified that his father will castrate him due to his 
+sexual desire for his mother 
+Explaining Anxiety Disorders 
+Learning Perspective 
+thinks people develop anxieties like Little Albert 
+we gain anxiety by associating whatever the stimuli 
+is with something that is aversive 
+it can generalize from one thing to another 
+treatment would be to uncondition it - Virtual Reality 
+Training 
+Obsessive Compulsive Disorder - reward people for 
+not doing the compulsion 
+Explaining Anxiety Disorders 
+Social Cognitive Perspective 
+• observational learning 
+develop certain phobias by watching others and observing 
+what they are afraid of 
+this would suggest that you could use models who are 
+doing non-fearful behaviour to try to overcome the fear 
+Explaining Anxiety Disorders 
+Biological Perspective 
+• Obsessive Compulsive disorder in some cases 
+can be treated with drugs 
+• inborn biological fear for certain things that would 
+make sense for us to be afraid of 
+Major Affective Disorder 
+• sometimes referred to as Unipolar Depression 
+profoundly depressed and lasting for over six months 
+• can interfere dramatically with an individual's life 
+• fairly common disorder and is treatable 
+Major Affective Disorder 
+Some of the symptoms for Major Affective Disorder 
+poor appetite 
+insomnia 
+feelings of worthlessness 
+loss of interest in others 
+sleeping 14 - 15 hours a day 
+can gain weight often due to lack of activity 
+what makes depression different in terms of a psychological 
+disorder is when it is persistant 
+clear thoughts of suicide 
+Bipolar Depression 
+Percentage* 
+Reporting Symptom 
+40 
+24 
+17 
+85 
+51 
+46 
+in particular, 
+• some believe that Unipolar and Bipolar are two different disorders, others believe that it is a continuum 
+with Bipolar being the more extreme form 
+Bipolar Depression 
+Characterized by 
+extreme highs and lows 
+used to be called Manic Depressive 
+low side is Major Affective Disorder or Unipolar Depression 
+high side is euphoric, grandiose, think they can do anything 
+negative side to this high is that they can become easily 
+agitated, and possibly violent 
+often are reckless in behaviour believing that nothing will 
+happen to them 
+can waste huge amounts of money 
+number of famous people who have been manic 
+depressives 
+Bipolar Depression 
+Pressured speech 
+speech is comin so rapidly that the words are not 
+even fully form 
+individuals with pressured speech typically have 
+super high energy 
+major symptom is they haven't slept for weeks 
+Bipolar Depression 
+How quickly do the moods change? 
+rapidly cycling - moods can change within hours, 
+and certainly within days 
+what is more common is that moods change in a 
+matter of months, sometimes it can go in three 
+month cycles 
+seems to vary within the individual, and between 
+individuals as well 
+Bipolar Depression 
+Gender differences in depression 
+women suffer from depression far more than men 
+Explanation of Mood Disorders 
+Psychoanalytic perspective 
+• depression is anger turned inward 
+• part of the therapy is to get the anger expressed at 
+the appropriate target 
+Explanation of Mood Disorders 
+Biological perspective 
+strong genetic influences - both Unipolar and Bipolar disorders run in the same family 
+• with certain brain neurotransmitters there seems to be a depletion in depressed individuals - 
+noradrenalin and seratonin 
+• drugs that elevate the levels of noradrenalin and seratonin are effective anti-depressants 
+Explanation of Mood Disorders 
+Biological perspective 
+• Do the highs and lows of bipolar disorder eventually 
+balance out? 
+biological models of bipolar depression suggest "no" 
+the problem may be in the way in which the neuro- 
+transmitters are regulated in the synapse 
+one biological explanation is that the neurotransmitters 
+are not regulated properly in the synapse, so that the 
+individual may at times get too much, and at other 
+times, get too little 
+Explanation of Mood Disorders 
+Social Cognitive perspective 
+treatments that combine drugs wth the Social 
+Cognitive approach are the most effective 
+attributions for failure as internal, stable or global 
+internal - it's my fault 
+stable - it is always going to be that way 
+global - it will affect my whole life 
+vicious cycle of negative moods and thoughts 
+Explanation of Mood Disorders 
+Social Cognitive perspective 
+Stressful 
+experiences 
+Cognitive and 
+behavioural changes 
+Depressed 
+Explanation of Mood Disorders 
+Social Cognitive perspective 
+treatments that combine drugs wth the social 
+cognitive approach are the most effective 
+attributions for failure as stable, global or internal 
+internal - it's my fault 
+stable - it is always going to be that way 
+global - it will affect my whole life 
+vicious cycle of negative moods and thoughts 
+therapy can break this cycle at a number of different 
+stages 
+Characteristics of Schizophrenia 
+Disorganized thinking 
+Negative 
+explanatory style 
+• can't be understood because there is no sense to what they are saying 
+• don't see the connections in what they are talking about 
+• particularly characterized by delusions 
+• often they experience delusions of persecution 
+Characteristics of Schizophrenia 
+Disturbed perceptions 
+Characteristics of Schizophrenia 
+Inappropriate emotions and actions 
+• Catatonia - can often be posturing 
+• emotions don't match the content of what is being said 
+Characteristics of Schizophrenia 
+Social withdrawal 
+• do not like spending time with people or having anything to do with others 
+Characteristics of Schizophrenia 
+Flat affect 
+• no emotion or responsiveness to anything 
+• talking in a monotone voice 
+Types of Schizophrenia 
+Paranoid: 
+Disorganized: 
+Catatonic: 
+Undifferentiated: 
+Residual: 
+Two types of symptoms that seem to stand out 
+positive and negative symptoms 
+biological theory behind this is that different types Of 
+drugs deal with these symptoms in different ways 
+different neurotransmtiters may be involved in the 
+two types of symptoms 
+positive symptoms - delusions, hallucinations 
+negative symptoms - social withdrawal, inappropriate 
+emotions and affect 
+Preoccupation with delusions or 
+hallucinations 
+Disorganized speech or behaviour, 
+or flat or inappropriate emotion 
+Immobility (or excessive, purposeless 
+movement), extreme negativism, and/or 
+parrotlike repeating of another's speech 
+or movements 
+Many and varied symptoms 
+Withdrawal, after hallucinations and 
+delusions have disappeared 
+Explanations for schizophrenia 
+Psychoanalytic perspective 
+• focus on the unconscious 
+• Freud believed that the unconscious was irrational 
+• from his perspective, schizophrenia was the overflowing 
+of the irrational unconscious 
+Explanations for schizophrenia 
+Biological perspective 
+• genetic influences 
+• brain neurotransmitters are involved - dopamine 
+• if one twin is schizophrenic, the other has a 50% chance of also having it 
+Explanations for schizophrenia 
+Social Cognitive perspective 
+• Stress Diathesis Model 
+• suggests that schizophrenia is a combination of two things 
+• whatever the genetic predisposition is combined with whatever stress is experienced 
+The difference between Schizophrenia and Dissociative Disorders 
+• consciousness can be divided, can lose sense of who they are and what they are like 
+Fugue State 
+• person disappears and becomes someone totally different 
+• skeptics believe that the individual did not like their old life and is using this as their reason for 
+leaving it all behind them 
+• never the same person at the same time 
+Dissociative Identity Disorder 
+• sense that one body can share several different identities, or several distinct 'persons' within that 
+one body 
+Explanations of Dissociative Disorders 
+Is this real? 
+• question is answered differently by people from different 
+camps 
+Explanations of Dissociative Disorders 
+This is a real disorder and there are consistencies 
+• distinct patterns of brain activity with the different 
+personalities 
+• it is a way to cope with anxiety which can be explained 
+by both the psychoanalytic perspective, and the learning 
+perspective 
+• suggested that this may be the result of severe abuse or 
+trauma as a child 
+Explanations of Dissociative Disorders 
+This is not real 
+• argue that it is a social phenomena perhaps created by 
+hypnosis in therapy 
+• between 1930-1960 there were two cases per decade 
+• in the 1980s there were 20,000 cases that were diagnosed 
+Classifications of Personality Disorders 
+Antisocial Personality Disorder 
+• typically carry out brutal, horrific acts, without seeming to 
+have a conscience 
+• can be very charming and charismatic 
+• in studies, persons with Antisocial Personality Disorders 
+do not tend to get aroused by vicious aggression 
+. many of the most famous mass murderers have Antisocial 
+Personality Disorders 
+• they have coherent thinking 
+Classifications of Personality Disorders 
+Histrionic, Narcissistic and Borderline Personality 
+• Histrionic - about 95% diagnosed are women 
+Narcissistic- about 80% diagnosed are men 
+• Borderline personality - mostly women 
+Classifications of Personality Disorders 
+Histrionic, Narcissistic and Borderline Personality 
+• all of these disorders have similar characteristics 
+tend to be impulsive 
+dramatic 
+defensive style of relating to others 
+• can't get along with other people 
+other people tend to strongly dislike them 
+
+----------
+
+# <a name="9"></a>Lecture 09: Clinical Psychology II
+## <a name="9a"></a>Clinical Psychology II: Therapies – The Big Picture
+## <a name="9b"></a>Anxiety Disorders
+## <a name="9c"></a>Mood Disorders
+## <a name="9d"></a>Schizophrenia
+## <a name="9e"></a>Evaluating Psychotherapies
+### <a name="9e1"></a>Problems in Interpreting Effectiveness of Therapy
+### <a name="9e2"></a>Focus on University of Waterloo Research on Therapy Effectiveness
+### <a name="9e3"></a>Is Psychotherapy Effective?
+
+Machine generated alternative text:
+Anxiety Disorders 
+Cognitive Behaviour Therapies and Phobias 
+Mood Disorders 
+Medication and Therapy 
+Schizophrenia 
+Medication Therapy 
+Evaluating Therapies 
+Is therapy effective? 
+If so, what makes it effective? 
+Phobias 
+very successful in therapy 
+usually treated with cognitive therapy 
+Behavioural in that a 
+behaviour is being done. 
+Cognitive in that 
+thoughts are trying to be 
+controlled by thinking 
+peaceful, calming 
+thoughts. 
+Cognitive Behavioural Therapy: trying to get people to engage in behaviours 
+that will help them out, while at the same time utilizing their thoughts as a way to 
+encourage and develop those behaviours. 
+More serious Anxiety Disorders 
+• Agoraphobia, Social phobia, Obsessive Compulsive 
+disorder 
+usually treated with a combination of drug therapy and 
+Cognitive therapy 
+Mood disorders and Major Depressive disorders are usually treated with both 
+medication and Cognitive therapy. 
+Cognitive therapy for depressions 
+• remember that the critical issue for depressed people in their thinking is that they tend to make a 
+catastrophe of all the events in their lives 
+• focuses on the thoughts that depressed people have 
+15% to 20% of the people seeking therapy are experiencing major depression 
+they don't respond to drugs or therapy 
+often become suicidal 
+Electro-Convulsive Therapy (ECT) 
+in the 40s and 50s this type of therapy was used as 
+punishment; as a way to control patients in the mental 
+hospitals 
+they discovered that depressed people sometimes got 
+better from it 
+put the individual under anesthesia, and using only one 
+half of the brain, will apply electric currents to one side 
+of the brain or the other 
+this form of therapy is still very controversial since it is 
+still unclear as to how it actually works 
+how often the treatments must be carried out will vary 
+depending on the individual 
+9 months 
+About 30% - 40% will get better without any treatment in 6 - 
+Bipolar Disorder 
+• treated primarily with medication 
+• Lithium is the medication used 
+Treatments for Schizophrenia 
+• treated primarily with medication 
+• it would not be easy to do therapy with someone who 
+is not making any sense 
+Both Schizophrenia and Bipolar disorder often include group therapy 
+• allows people to deal with the stigma of having a mental illness; that others will see them as crazy, 
+or mentally ill 
+• this stigma can control peoples' expectations of what the individual with the illness is like, and the type 
+of person that they are 
+. can even affect the way that people are treated in mental hospitals 
+On Being Sane in Insane Places - Study by Rosenhan 
+participant observation study 
+had a group of graduate students go to a mental 
+institution claiming that they were hearing voices 
+of the 15 graduate students, 14 were admitted as 
+having a mental disorder 
+Il of them were diagnosed as schizophrenic 
+it took the mental health professionals weeks to figure 
+out that these individuals were not suffering from 
+schizophrenia - 9 out of the 15 had to tell them the 
+truth first 
+the writing of notes was interpreted as paranoid 
+behaviour 
+the staff, read into their behaviour, the diagnosis 
+On Being Sane in Insane Places - Study by Rosenhan 
+• shows how strong these expectations of what it means to be schizophrenic, or crazy, can colour 
+how other people view the individual 
+• also shows that even the best of intentions can lead to difficulties 
+• the therapies and treatments that people have may not always be of benefit to the individual, 
+and that there is much room for improvement 
+• memory and hypnosis - suggested that hypnosis could actually create false memories, bad things 
+that did not really happen 
+• one of the things that is beginning to be understood in clinical psychology is that therapies must be 
+evaluated to make sure that they are going be of benefit to people 
+• Do psychotherapies really help people? Are they good for people? 
+What does it mean for therapy to be effective? 
+• Does the person get better? How do you decide if the person is better? 
+• Should the patient decide if the therapy is effective or not? 
+• when people want to get better they will say they are better even when they are not 
+example of study skills 
+How about the word of the therapist? 
+the therapist has all kinds of motivations in wanting to 
+see improvement in the patient 
+care about the patient and want them to get better 
+they also want to be seen as a good therapist 
+Have a pre-test and a post-test; measure something at the beginning and at the end 
+• this is not so easily accomplished either 
+• notion of spontaneous remission - some people will get better with time with no assistance from a 
+therapist 
+• most people will come in for therapy when they are extremely distressed and at their worst 
+Regression to the mean 
+statistical problems 
+any score that you have is partly based on real measurement of what you are trying to measure 
+and partly based on chance 
+in the beginning individuals will score high on a depression scale due to their distress 
+their scores would tend to come down later even if there is no change in the depression that underlies 
+the score 
+as a group the scores will move making it appear that therapyO"ffective 
+What does this mean? How do we fix it? 
+• what is more common in evaluative therapy is that a standardized treatment is provided that has been 
+shown to be effective, and then a new treatment is introduced that is thought to be more effective 
+often there will be a particular setup with the behaviour that thefll be concerned with 
+• that behaviour is the indicator as to whether the therapy has been effective 
+Research by Johnathan Oakman on Social Phobias 
+• social phobics are afraid of interactions with other people 
+• all the clients received medication therapy 
+Research by Johnathan Oakman on Social Phobias 
+Three conditions 
+1. 
+2. 
+3. 
+controlled condition was the guided self-help - used 
+self-help book along with meeting with a therapist once 
+a week for 16 weeks 
+Standard Cognitive Behaviour Therapy - done in group 
+Cognitive Behaviour Therapy with technology - use of 
+videotaping of the group interacting and doing role-play 
+Research by Johnathan Oakman on Social Phobias 
+What did they do to see if people were better? 
+• at the beginning and at the end they introduced a new 
+social interaction which none of them knew about 
+• the results showed that all three of these conditions 
+work to the same degree 
+Research by Johnathan Oakman on Social Phobias 
+What does this mean? 
+• not only do you need to make the case that therapy is 
+effective, you also need to show that it is cost effective 
+If you look across the broad spectrum of all the different types of psychotherapy the 
+answer would be yes, but not by a huge amount. 
+Are some therapies better than others? 
+outcome studies show that one therapy does not 
+seem to be any better than the other 
+a couple of studies have suggested that for certain 
+types of disorders, certain types of therapies are 
+better 
+for example: Systematic Desensitization works better 
+for phobias than Client-centred therapy 
+Does training and experience matter? 
+• research has shown that the educational background of an individual has no influence on their 
+effectiveness as a therapist 
+• as well there is no difference in the effectiveness of the therapist no matter how long they have 
+been practicing 
+What makes therapy effective? 
+• what seems to make therapy effective in general is having that personal interaction with another, 
+the personal relationship between therapist and client 
+• giving people a sense of optimism and hope 
